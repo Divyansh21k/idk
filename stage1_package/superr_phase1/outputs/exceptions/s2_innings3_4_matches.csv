@@ -1,0 +1,7 @@
+match_id,scope,comp,date,home,away,result,win_team_id,rev,inn1,inn2,inn3,inn4
+34429,T20I,India in Sri Lanka T20I Series 2024,2024-07-30,Sri Lanka,India,India Tied with Srilanka (India Won the Super Over by 2 wickets),18.0,False,"137/9 (120b, team 18)","137/8 (120b, team 27)","2/2 (3b, team 27)","4/0 (1b, team 18)"
+40725,IPL,IPL 2025,2025-04-16,Delhi Capitals,Rajasthan Royals,Delhi Capitals Tied with Rajasthan Royals (DC won the Super Over),7.0,False,"188/5 (120b, team 7)","188/4 (120b, team 3)","11/2 (5b, team 3)","13/0 (4b, team 7)"
+45512,T20I,Asia Cup 2025,2025-09-26,India,Sri Lanka,India won the Super Over(Match Tied),18.0,False,"202/5 (120b, team 18)","202/5 (120b, team 27)","2/2 (5b, team 27)","3/0 (1b, team 18)"
+48027,OTHER,Asia Cup Rising Stars 2025,2025-11-21,Bangladesh A,India A,Bangladesh A Won The Super Over,3093.0,False,"194/6 (120b, team 3093)","194/6 (120b, team 222)","0/2 (2b, team 222)","1/1 (1b, team 3093)"
+48029,OTHER,Asia Cup Rising Stars 2025,2025-11-23,Bangladesh A,Pakistan A,Pakistan A Won the super over,341.0,False,"125/10 (120b, team 341)","125/9 (120b, team 3093)","6/2 (3b, team 3093)","7/0 (4b, team 341)"
+50359,IPL,IPL 2026,2026-04-26,Lucknow Super Giants,Kolkata Knight Riders,Kolkata Knight Riders Won by Super over (Match Tied),8.0,False,"155/7 (120b, team 8)","155/8 (120b, team 3509)","1/2 (3b, team 3509)","4/0 (1b, team 8)"

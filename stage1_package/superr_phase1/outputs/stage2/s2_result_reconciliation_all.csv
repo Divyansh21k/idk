@@ -1,0 +1,834 @@
+match_id,scope,revised,result,res_unit,res_n,winner_name_in_result_matches_a_team,win_team_id_agrees,T1_a,T2_a,T1_b,T2_b,wk1,wk2,legal1,legal2,team1,team2,winner_id,winner_batted_first,margin_ok_a,margin_ok_b
+13511,T20I,False,West Indies Won by 9 Wickets,wicket,9.0,True,True,103,104,103,104,10,1,118,103,22,28,28,False,True,True
+13512,T20I,False,England Won by 1 Run,run,1.0,True,True,171,170,171,170,8,8,120,120,22,28,22,True,True,True
+13513,T20I,False,West Indies Won by 20 runs,run,20.0,True,True,224,204,224,204,5,9,120,120,28,22,28,True,True,True
+13514,T20I,False,England Won by 34 runs,run,34.0,True,True,193,159,193,159,6,5,120,120,22,28,22,True,True,True
+13515,T20I,False,West Indies Won by 17 runs,run,17.0,True,True,179,162,179,162,4,10,120,119,28,22,28,True,True,True
+13522,T20I,False,India Won by 6 Wickets,wicket,6.0,True,True,157,162,157,162,7,4,120,113,28,18,18,False,True,True
+13523,T20I,False,India Won by 8 Runs,run,8.0,True,True,186,178,182,178,5,3,120,120,18,28,18,True,True,False
+13524,T20I,False,India Won by 17 runs,run,17.0,True,True,184,167,184,167,5,9,120,120,18,28,18,True,True,True
+13612,T20I,True,Australia Won by 20 runs (D/L method),run,20.0,True,True,149,122,149,122,9,8,120,114,20,27,20,True,False,False
+13614,T20I,False,Australia Won by 6 Wkts,wicket,6.0,True,True,121,124,117,124,6,4,120,101,27,20,20,False,True,True
+13615,T20I,False,Australia Won by 6 Wickets,wicket,6.0,True,True,139,143,139,143,8,4,120,109,27,20,20,False,True,True
+13616,T20I,False,Sri Lanka Won by 5 wickets,wicket,5.0,True,True,154,155,154,155,6,5,120,119,20,27,27,False,True,True
+14094,IPL,False,Kolkata Knight Riders Won by 6 Wkts,wicket,6.0,True,True,131,133,131,133,5,4,120,111,1,8,8,False,True,True
+14095,IPL,False,Delhi Capitals Won by 4 Wickets,wicket,4.0,True,True,177,179,177,179,5,6,120,110,2,7,7,False,True,True
+14096,IPL,False,Punjab Kings Won by 5 Wkts,wicket,5.0,True,True,205,208,205,208,2,5,120,114,5,4,4,False,True,True
+14097,IPL,False,Gujarat Titans Won by 5 Wickets,wicket,5.0,True,True,158,161,158,161,6,5,120,118,3509,3508,3508,False,True,True
+14098,IPL,False,Rajasthan Royals Won by 61 Runs,run,61.0,True,True,210,149,210,149,6,7,120,120,3,242,3,True,True,True
+14099,IPL,False,Royal Challengers Bengaluru Won 3 Wkts,wicket,3.0,True,True,128,132,128,132,10,7,113,116,8,5,5,False,True,True
+14100,IPL,False,Lucknow Super Giants Won by 6 Wkts,wicket,6.0,True,True,210,211,210,211,7,4,120,117,1,3509,3509,False,True,True
+14101,IPL,False,Kolkata Knight Riders Won by 6 wkts,wicket,6.0,True,True,137,141,137,141,10,4,110,87,4,8,8,False,True,True
+14102,IPL,False,Rajasthan Royals Won by 23 Runs,run,23.0,True,True,193,170,193,170,8,8,120,120,3,2,3,True,True,True
+14103,IPL,False,Gujarat Titans won by 14 runs,run,14.0,True,True,171,157,171,157,6,9,120,120,3508,7,3508,True,True,True
+14104,IPL,False,Punjab Kings won by 54 runs,run,54.0,True,True,180,126,180,126,8,10,120,108,4,1,4,True,True,True
+14105,IPL,False,Lucknow Super Giants won by 12 Runs,run,12.0,True,True,169,157,169,157,7,9,120,120,3509,242,3509,True,True,True
+14106,IPL,False,Royal Challengers Bengaluru Won by 4 Wkts,wicket,4.0,True,True,169,173,169,173,3,6,120,115,3,5,5,False,True,True
+14107,IPL,False,Kolkata Knight Riders Won by 5 Wickets,wicket,5.0,True,True,161,162,161,162,4,5,120,96,2,8,8,False,True,True
+14108,IPL,False,Lucknow Super Giants won by 6 wickets,wicket,6.0,True,True,149,155,149,155,3,4,120,118,7,3509,3509,False,True,True
+14109,IPL,False,Gujarat Titans won by 6 wickets,wicket,6.0,True,True,189,190,189,190,9,4,120,120,4,3508,3508,False,True,True
+14110,IPL,False,Sunrisers Hyderabad won by 8 wickets,wicket,8.0,True,True,154,155,154,155,7,2,120,106,1,242,242,False,True,True
+14111,IPL,False,Royal Challengers Bengaluru won by 7 wickets,wicket,7.0,True,True,151,152,151,152,6,3,120,111,2,5,5,False,True,True
+14112,IPL,False,Delhi Capitals won by 44 run,run,44.0,True,True,215,171,211,171,5,10,120,118,7,8,7,True,True,False
+14113,IPL,False,Rajasthan Royals Won By 3 Runs,run,3.0,True,True,165,162,165,162,6,8,120,120,3,3509,3,True,True,True
+14114,IPL,False,Sunrisers Hyderabad Won by 8 Wickets,wicket,8.0,True,True,162,168,162,168,7,2,120,115,3508,242,242,False,True,True
+14115,IPL,False,Chennai Super Kings Won by 23 Runs,run,23.0,True,True,216,193,216,193,4,9,120,120,1,5,1,True,True,True
+14116,IPL,False,Punjab Kings won by 12 runs,run,12.0,True,True,198,186,198,186,5,9,120,120,4,2,4,True,True,True
+14117,IPL,False,Gujarat Titans Won by 37 runs,run,37.0,True,True,192,155,192,155,4,9,120,120,3508,3,3508,True,True,True
+14118,IPL,False,Sunrisers Hyderabad won by 7 wickets,wicket,7.0,True,True,175,176,175,176,8,3,120,107,8,242,242,False,True,True
+14119,IPL,False,Lucknow Super Giants won by 18 runs,run,18.0,True,True,199,181,199,181,4,9,120,120,3509,2,3509,True,True,True
+14120,IPL,False,Royal Challengers Bengaluru won by 16 runs,run,16.0,True,True,189,173,189,173,5,7,120,120,5,7,5,True,True,True
+14121,IPL,False,Sunrisers Hyderabad won by 7 wicket,wicket,7.0,True,True,151,152,151,152,10,3,120,113,4,242,242,False,True,True
+14122,IPL,False,Gujarat Titans won by 3 wickets,wicket,3.0,True,True,169,170,169,170,5,7,120,119,1,3508,3508,False,True,True
+14123,IPL,False,Rajasthan Royals Won by 7 Runs,run,7.0,True,True,217,210,217,210,5,10,120,118,3,8,3,True,True,True
+14124,IPL,False,Royal Challengers Bengaluru won by 18 runs,run,18.0,True,True,181,163,181,163,6,8,120,120,5,3509,5,True,True,True
+14125,IPL,False,Delhi Capitals won by 9 wickets,wicket,9.0,True,True,115,119,115,119,10,1,120,63,4,7,7,False,True,True
+14126,IPL,False,Chennai Super Kings Won by 3 Wickets,wicket,3.0,True,True,155,156,155,156,7,7,120,120,2,1,1,False,True,True
+14127,IPL,False,Rajasthan Royals Won by 15 Runs,run,15.0,True,True,222,207,222,203,2,8,120,120,3,7,3,True,True,False
+14128,IPL,False,Gujarat Titans Won by 8 Runs,run,8.0,True,True,156,148,156,148,9,8,120,120,3508,8,3508,True,True,True
+14129,IPL,False,Sunrisers Hyderabad won by 9 wickets,wicket,9.0,True,True,68,72,68,72,10,1,97,48,5,242,242,False,True,True
+14130,IPL,False,Lucknow Super Giants Won 36  Runs,run,36.0,True,True,167,130,167,130,6,8,119,119,3509,2,3509,True,False,False
+14131,IPL,False,Punjab Kings Won by 11 Runs,run,11.0,True,True,187,176,187,176,4,6,120,120,4,1,4,True,True,True
+14132,IPL,False,Rajasthan Royals Won by 29 Runs,run,29.0,True,True,144,115,144,115,8,10,120,117,3,5,3,True,True,True
+14133,IPL,False,Gujarat Titans Won by 5 Wickets,wicket,5.0,True,True,195,199,195,199,6,5,120,120,242,3508,3508,False,True,True
+14134,IPL,False,Delhi Capitals Won By 4 Wickets,wicket,4.0,True,True,146,150,146,150,9,6,120,114,8,7,7,False,True,True
+14135,IPL,False,Lucknow Super Giants Won by 20 Runs,run,20.0,True,True,153,133,153,133,8,8,120,120,3509,4,3509,True,True,True
+14136,IPL,False,Gujarat Titans won by 6 wickets,wicket,6.0,True,True,170,174,170,174,6,4,120,117,5,3508,3508,False,True,True
+14137,IPL,False,Mumbai Indians Won By 5 Wickets,wicket,5.0,True,True,158,161,158,161,6,5,120,116,3,2,2,False,True,True
+14139,IPL,False,Lucknow Super Giants won by 6 runs,run,6.0,True,True,195,189,195,189,3,7,120,120,3509,7,3509,True,True,True
+14140,IPL,False,Chennai Super Kings won by 13 runs,run,13.0,True,True,202,189,202,189,2,6,120,120,1,242,1,True,True,True
+14141,IPL,False,Kolkata Knight Riders Won by 7 Wickets,wicket,7.0,True,True,152,158,152,158,5,3,120,115,3,8,8,False,True,True
+14142,IPL,False,Punjab Kings Won by 8 Wickets,wicket,8.0,True,True,143,145,143,145,8,2,120,96,3508,4,4,False,True,True
+14143,IPL,False,Royal Challengers Bengaluru won by 13 Runs,run,13.0,True,True,173,160,173,160,8,8,120,120,5,1,5,True,True,True
+14144,IPL,False,Delhi Capitals Won by 21 Runs,run,21.0,True,True,207,186,207,186,3,8,120,120,7,242,7,True,True,True
+14145,IPL,False,Mumbai Indians won by 5 runs,run,5.0,True,True,177,172,177,172,6,5,120,120,2,3508,2,True,True,True
+14146,IPL,False,Rajasthan Royals won by 6 wickets,wicket,6.0,True,True,189,190,189,190,5,4,120,118,4,3,3,False,True,True
+14147,IPL,False,Lucknow Super Giants won by 75 runs,run,75.0,True,True,176,101,176,101,7,10,120,87,3509,8,3509,True,True,True
+14148,IPL,False,Royal Challengers Bengaluru won by 67 runs,run,67.0,True,True,192,125,192,125,3,10,120,116,5,242,5,True,True,True
+14149,IPL,False,Chennai Super Kings won by 91 runs,run,91.0,True,True,208,117,208,117,6,10,120,106,1,7,1,True,True,True
+14150,IPL,False,Kolkata Knight Riders Won by 52 Runs,run,52.0,True,True,165,113,165,113,9,10,120,105,8,2,8,True,True,True
+14151,IPL,False,Gujarat Titans won by 62 runs,run,62.0,True,True,144,82,144,82,4,10,120,83,3508,3509,3508,True,True,True
+14152,IPL,False,Delhi Capitals Won by 8 Wickets,wicket,8.0,True,True,160,161,160,161,6,2,120,109,3,7,7,False,True,True
+14153,IPL,False,Mumbai Indians Won by 5 Wickets,wicket,5.0,True,True,97,103,97,103,10,5,96,89,1,2,2,False,True,True
+14154,IPL,False,Punjab Kings won by 54 runs,run,54.0,True,True,209,155,209,155,9,9,120,120,4,5,4,True,True,True
+14155,IPL,False,Kolkata Knight Riders won by 54 runs,run,54.0,True,True,177,123,177,123,6,8,120,120,8,242,8,True,True,True
+14156,IPL,False,Gujarat Titans won by 7 wickets,wicket,7.0,True,True,133,137,133,137,5,3,120,115,1,3508,3508,False,True,True
+14157,IPL,False,Rajasthan Royals Won by 24 Runs,run,24.0,True,True,178,154,178,154,6,8,120,120,3,3509,3,True,True,True
+14158,IPL,False,Delhi Capitals Won by 17 Runs,run,17.0,True,True,159,142,159,142,7,9,120,120,7,4,7,True,True,True
+14159,IPL,False,Sunrisers Hyderabad Won by 3 Runs,run,3.0,True,True,193,190,193,189,6,7,120,120,242,2,242,True,True,False
+14160,IPL,False,Lucknow Super Giants Won by 2 Runs,run,2.0,True,True,210,208,210,208,0,8,120,120,3509,8,3509,True,True,True
+14161,IPL,False,Royal Challengers Bengaluru won by 8 wickets,wicket,8.0,True,True,168,170,168,170,5,2,120,112,3508,5,5,False,True,True
+14162,IPL,False,Rajasthan Royals Won by 5 Wickets,wicket,5.0,True,True,150,151,150,151,6,5,120,118,1,3,3,False,True,True
+14163,IPL,False,Mumbai Indians Won by 5 wickets,wicket,5.0,True,True,159,160,159,160,7,5,120,115,7,2,2,False,True,True
+14164,IPL,False,Punjab Kings Won by 5 wickets,wicket,5.0,True,True,156,160,156,160,8,5,119,91,242,4,4,False,True,True
+15187,IPL,False,Gujarat Titans Won by 7 Wickets,wicket,7.0,True,True,188,191,188,191,6,3,120,117,3,3508,3508,False,True,True
+15188,IPL,False,Royal Challengers Bengaluru Won by 14 Runs,run,14.0,True,True,207,193,207,193,4,6,120,120,5,3509,5,True,True,True
+15189,IPL,False,Rajasthan Royals won by 7 wickets,wicket,7.0,True,True,157,161,157,161,8,3,120,109,5,3,3,False,True,True
+15190,IPL,False,Gujarat Titans Won by 7 Wickets,wicket,7.0,True,True,130,133,130,133,9,3,120,109,3,3508,3508,False,True,True
+15458,T20I,False,Australia Won by 10 Wickets,wicket,10.0,True,True,128,134,128,134,10,0,117,84,27,20,20,False,True,True
+15459,T20I,False,Australia Won by 3 Wkts,wicket,3.0,True,True,124,126,124,126,9,7,120,107,27,20,20,False,True,True
+15460,T20I,False,Sri Lanka Won by 4 Wickets,wicket,4.0,True,True,176,177,176,177,5,6,120,119,20,27,27,False,True,True
+15406,T20I,False,South Africa Won by 7 Wkts,wicket,7.0,True,True,211,212,211,212,4,3,120,115,18,19,19,False,True,True
+15407,T20I,False,South Africa Won by 4 Wickets,wicket,4.0,True,True,148,149,148,149,6,6,120,110,18,19,19,False,True,True
+15408,T20I,False,India Won by 48 runs,run,48.0,True,True,179,131,179,131,5,10,120,115,18,19,18,True,True,True
+15409,T20I,False,India Won by 82 runs,run,82.0,True,True,169,87,169,87,6,9,120,101,18,19,18,True,True,True
+15547,T20I,False,West Indies Won by 35 Runs,run,35.0,True,True,193,158,193,158,5,6,120,120,28,21,28,True,True,True
+15548,T20I,False,West Indies Won by 5 Wickets,wicket,5.0,True,True,163,169,163,169,5,5,120,110,21,28,28,False,True,True
+15609,T20I,False,Afghanistan Won by 6 Wickets,wicket,6.0,True,True,159,160,159,160,8,4,120,116,72,78,78,False,True,True
+15610,T20I,False,Afghanistan Won by 21 Runs,run,21.0,True,True,170,149,170,149,5,7,120,120,78,72,78,True,True,True
+15611,T20I,False,Afghanistan Won by 35 Runs,run,35.0,True,True,125,90,125,90,8,9,120,120,78,72,78,True,True,True
+15795,T20I,False,India Won by 7 Wickets,wicket,7.0,True,True,108,111,108,111,4,3,72,56,23,18,18,False,True,True
+15796,T20I,False,India Won by 4 Runs,run,4.0,True,True,225,221,225,220,7,5,120,120,18,23,18,True,True,False
+16040,T20I,False,India Won by 50 Runs,run,50.0,True,True,198,148,198,148,8,10,120,117,18,22,18,True,True,True
+16041,T20I,False,India Won by 49 Runs,run,49.0,True,True,170,121,170,121,8,10,120,102,18,22,18,True,True,True
+16042,T20I,False,England Won by 17 runs,run,17.0,True,True,215,198,215,198,7,9,120,120,22,18,22,True,True,True
+16062,T20I,False,India Won by 68 Runs,run,68.0,True,True,190,122,190,122,6,8,120,120,18,28,18,True,True,True
+16063,T20I,False,West Indies Won by 5 Wickets,wicket,5.0,True,True,138,141,138,141,10,5,118,116,18,28,28,False,True,True
+16064,T20I,False,India Won by 7 Wickets,wicket,7.0,True,True,164,165,164,165,5,3,120,114,28,18,18,False,True,True
+16065,T20I,False,India Won by 59 Runs,run,59.0,True,True,191,132,191,132,5,10,120,115,18,28,18,True,True,True
+16066,T20I,False,India Won by 88 Runs,run,88.0,True,True,188,100,188,100,7,10,120,94,18,28,18,True,True,True
+16258,T20I,False,New Zealand Won by 31 Runs,run,31.0,True,True,173,142,173,142,8,10,120,110,17,23,17,True,True,True
+16259,T20I,False,New Zealand Won by 88 runs,run,88.0,True,True,179,91,179,91,4,10,120,83,17,23,17,True,True,True
+16260,T20I,False,New Zealand Won by 6 wickets,wicket,6.0,True,True,174,180,174,180,6,4,120,114,23,17,17,False,True,True
+16315,T20I,False,England Won by 41 Runs,run,41.0,True,True,234,193,234,193,6,8,120,120,22,19,22,True,True,True
+16316,T20I,False,South Africa Won by 58 Runs,run,58.0,True,True,207,149,207,149,3,10,120,100,19,22,19,True,True,True
+16317,T20I,False,South Africa Won by 90 Runs,run,90.0,True,True,191,101,191,101,5,10,120,100,19,22,19,True,True,True
+16424,T20I,False,Zimbabwe Won by 17 Runs,run,17.0,True,True,205,188,205,184,3,6,120,120,72,21,72,True,True,False
+16425,T20I,False,Bangladesh Won by 7 Wickets,wicket,7.0,True,True,135,136,135,136,8,3,120,105,72,21,21,False,True,True
+16426,T20I,False,Zimbabwe Won by 10 runs,run,10.0,True,True,156,146,156,146,8,8,120,120,72,21,72,True,True,True
+16646,T20I,False,South Africa won by 21 runs,run,21.0,True,True,211,190,211,190,5,9,120,120,19,23,19,True,True,True
+16647,T20I,False,South Africa Won by 44 Runs,run,44.0,True,True,182,138,182,138,6,10,120,113,19,23,19,True,True,True
+16653,T20I,False,Afghanistan Won by 8 Wickets,wicket,8.0,True,True,105,106,105,106,10,2,118,61,27,78,78,False,True,True
+16654,T20I,False,India Won by 5 Wickets,wicket,5.0,True,True,147,148,147,148,10,5,119,118,25,18,18,False,True,True
+16655,T20I,False,Afghanistan Won by 7 wickets,wicket,7.0,True,True,127,131,127,131,7,3,120,111,21,78,78,False,True,True
+16656,T20I,False,India Won by 40 Runs,run,40.0,True,True,192,152,192,152,2,5,120,120,18,283,18,True,True,True
+16657,T20I,False,Sri Lanka Won by 2 Wickets,wicket,2.0,True,True,183,184,183,184,7,8,120,116,21,27,27,False,True,True
+16658,T20I,False,Pakistan Won by 155 Runs,run,155.0,True,True,193,38,193,38,2,10,120,64,25,283,25,True,True,True
+16659,T20I,False,Sri Lanka Won by 4 Wickets,wicket,4.0,True,True,175,179,175,179,6,6,120,115,78,27,27,False,True,True
+16660,T20I,False,Pakistan Won by 5 Wickets,wicket,5.0,True,True,181,182,181,182,7,5,120,119,18,25,25,False,True,True
+16661,T20I,False,Sri Lanka Won by 6 Wickets,wicket,6.0,True,True,173,174,173,174,8,4,120,119,18,27,27,False,True,True
+16662,T20I,False,Pakistan Won by 1 Wicket,wicket,1.0,True,True,129,131,129,131,6,9,120,116,78,25,25,False,True,True
+16663,T20I,False,India Won by 101 Runs,run,101.0,True,True,212,111,212,111,2,8,120,120,18,78,18,True,True,True
+16664,T20I,False,Sri Lanka Won by 5 Wickets,wicket,5.0,True,True,121,124,121,124,10,5,115,102,25,27,27,False,True,True
+16665,T20I,False,Sri Lanka Won by 23 Runs,run,23.0,True,True,170,147,170,147,6,10,120,120,27,25,27,True,True,True
+16666,T20I,False,New Zealand Won by 16 Runs,run,16.0,True,True,148,132,148,132,7,10,120,117,17,24,17,True,True,True
+16667,T20I,False,New Zealand Won by 8 Wickets,wicket,8.0,True,True,147,149,147,149,4,2,120,84,24,17,17,False,True,True
+16683,T20I,False,New Zealand Won by 13 Runs,run,13.0,True,True,185,172,185,172,5,7,120,120,17,28,17,True,True,True
+16684,T20I,False,New Zealand Won by 90 Runs,run,90.0,True,True,215,125,215,125,5,9,120,120,17,28,17,True,True,True
+16685,T20I,False,West Indies Won by 8 Wickets,wicket,8.0,True,True,145,150,145,150,7,2,120,114,17,28,28,False,True,True
+16750,T20I,False,Ireland Won by 7 Wickets,wicket,7.0,True,True,168,171,168,171,7,3,120,119,78,23,23,False,True,True
+16751,T20I,False,Ireland Won by 5 Wickets,wicket,5.0,True,True,122,125,122,125,8,5,120,114,78,23,23,False,True,True
+16752,T20I,False,Afghanistan Won by 22 Runs,run,22.0,True,True,189,167,189,167,5,9,120,120,78,23,78,True,True,True
+16753,T20I,True,Afghanistan Won by 27 Runs,run,27.0,True,True,132,105,132,105,6,10,66,66,78,23,78,True,True,True
+16754,T20I,True,Ireland Won by 7 Wickets(D/L Method),wicket,7.0,True,True,95,56,95,56,5,3,90,40,78,23,23,False,False,False
+16862,T20I,False,Hong Kong Won by 8 runs,run,8.0,True,True,148,140,148,140,9,7,120,120,283,311,283,True,True,True
+16863,T20I,False,Kuwait Won by 1 wicket,wicket,1.0,True,True,173,177,173,177,5,9,120,119,272,312,312,False,True,True
+16864,T20I,False,United Arab Emirates Won by 47 Runs,run,47.0,True,True,160,113,160,113,8,10,120,111,272,311,272,True,True,True
+16865,T20I,False,Hong Kong Won by 8 Wickets,wicket,8.0,True,True,151,153,151,153,9,2,120,106,312,283,283,False,True,True
+16866,T20I,False,Hong Kong Won by 8 Wickets,wicket,8.0,True,True,147,149,147,149,10,2,117,114,272,283,283,False,True,True
+16867,T20I,False,Kuwait Won by 6 Wickets,wicket,6.0,True,True,104,105,104,105,10,4,119,47,311,312,312,False,True,True
+17394,T20I,False,Australia Won by 4 Wickets,wicket,4.0,True,True,208,211,208,211,6,6,120,116,18,20,20,False,True,True
+17395,T20I,True,India Won by 6 Wickets,wicket,6.0,True,True,90,92,90,92,5,4,48,44,20,18,18,False,True,True
+17396,T20I,False,India Won by 6 Wickets,wicket,6.0,True,True,186,187,186,187,7,4,120,119,20,18,18,False,True,True
+17553,T20I,False,England Won by 6 Wickets,wicket,6.0,True,True,158,160,158,160,7,4,120,116,25,22,22,False,True,True
+17554,T20I,False,Pakistan Won by 10 Wickets,wicket,10.0,True,True,199,203,199,203,5,0,120,117,22,25,25,False,True,True
+17555,T20I,False,England Won by 63 Runs,run,63.0,True,True,221,158,220,158,3,8,120,120,22,25,22,True,True,False
+17556,T20I,False,Pakistan Won by 3 Runs,run,3.0,True,True,166,163,166,163,4,10,120,116,25,22,25,True,True,True
+17557,T20I,False,Pakistan Won by 6 Runs,run,6.0,True,True,145,139,145,139,10,7,114,120,25,22,25,True,True,True
+17558,T20I,False,England Won by 8 Wickets,wicket,8.0,True,True,169,170,169,170,6,2,120,87,25,22,22,False,True,True
+17559,T20I,False,England Won by 67 Runs,run,67.0,True,True,209,142,209,142,3,8,120,120,22,25,22,True,True,True
+17625,T20I,False,India Won by 8 Wickets,wicket,8.0,True,True,106,110,106,110,8,2,120,100,19,18,18,False,True,True
+17626,T20I,False,India Won by 16 Runs,run,16.0,True,True,237,221,237,221,3,3,120,120,18,19,18,True,True,True
+17627,T20I,False,South Africa Won by 49 Runs,run,49.0,True,True,227,178,227,178,3,9,120,111,19,18,19,True,True,True
+17631,T20I,False,Bangladesh won by 7 runs,run,7.0,True,True,158,151,158,151,5,10,120,118,21,272,21,True,True,True
+17632,T20I,False,Bangladesh Won by 32 Runs,run,32.0,True,True,169,137,169,137,5,5,120,120,21,272,21,True,True,True
+17640,T20I,False,Australia Won by 3 Wickets,wicket,3.0,True,True,145,146,145,146,9,7,120,119,28,20,20,False,True,True
+17641,T20I,False,Australia Won by 31 runs,run,31.0,True,True,178,147,178,147,7,8,120,120,20,28,20,True,True,True
+17737,T20I,False,Pakistan Won by 21 Runs,run,21.0,True,True,167,146,167,146,5,8,120,120,25,21,25,True,True,True
+17738,T20I,False,Pakistan Won by 6 Wickets,wicket,6.0,True,True,147,149,147,149,8,4,120,110,17,25,25,False,True,True
+17739,T20I,False,New Zealand Won by 8 wickets,wicket,8.0,True,True,137,142,137,142,8,2,120,107,21,17,17,False,True,True
+17740,T20I,False,New Zealand Won by 9 Wickets,wicket,9.0,True,True,130,131,130,131,7,1,120,97,25,17,17,False,True,True
+17741,T20I,False,New Zealand Won by 48 Runs,run,48.0,True,True,208,160,208,160,5,7,120,120,17,21,17,True,True,True
+17742,T20I,False,Pakistan Won by 7 Wickets,wicket,7.0,True,True,173,177,173,177,6,3,120,119,21,25,25,False,True,True
+17743,T20I,False,Pakistan Won by 5 Wickets,wicket,5.0,True,True,163,168,163,168,7,5,120,117,17,25,25,False,True,True
+17763,T20I,False,England Won by 8 Runs,run,8.0,True,True,208,200,208,200,6,9,120,120,22,20,22,True,True,True
+17764,T20I,False,England Won by 8 Runs,run,8.0,True,True,178,170,178,170,7,6,120,120,22,20,22,True,True,True
+18531,T20I,False,India won by 65 runs,run,65.0,True,True,191,126,191,126,6,10,120,113,18,17,18,True,True,True
+19556,T20I,False,India Won by 2 Runs,run,2.0,True,True,162,160,162,160,5,10,120,120,18,27,18,True,True,True
+19557,T20I,False,Sri Lanka Won by 16 Runs,run,16.0,True,True,206,190,206,190,6,8,120,120,27,18,27,True,True,True
+19558,T20I,False,India Won by 91 Runs,run,91.0,True,True,228,137,228,137,5,10,120,100,18,27,18,True,True,True
+19715,T20I,False,New Zealand won by 21 runs,run,21.0,True,True,176,155,176,155,6,9,120,120,17,18,17,True,True,True
+19716,T20I,False,India won by 6 wickets,wicket,6.0,True,True,99,101,99,101,8,4,120,119,17,18,18,False,True,True
+19717,T20I,False,India Won by 168 runs,run,168.0,True,True,234,66,234,66,4,10,120,73,18,17,18,True,True,True
+19690,T20I,False,Zimbabwe Won by 5 Wickets,wicket,5.0,True,True,114,118,114,118,10,5,116,108,23,72,72,False,True,True
+19691,T20I,False,Ireland Won by 6 wickets,wicket,6.0,True,True,144,150,144,150,10,4,120,118,72,23,23,False,True,True
+19692,T20I,False,Zimbabwe Won by 4 Wickets,wicket,4.0,True,True,141,144,141,144,9,6,120,114,23,72,72,False,True,True
+20181,IPL,False,Gujarat Titans Won by 5 wickets,wicket,5.0,True,True,178,182,178,182,7,5,120,116,1,3508,3508,False,True,True
+20182,IPL,False,Punjab Kings Won by 7 Runs(D/L Method),run,7.0,True,True,191,146,191,146,5,7,120,96,4,8,4,True,False,False
+20183,IPL,False,Lucknow Super Giants Won by 50 runs,run,50.0,True,True,193,143,193,143,6,9,120,120,3509,7,3509,True,True,True
+20184,IPL,False,Rajasthan Royals Won By 72 Runs,run,72.0,True,True,203,131,203,131,5,8,120,120,3,242,3,True,True,True
+20185,IPL,False,Royal Challengers Bengaluru won by 8 wickets,wicket,8.0,True,True,171,172,171,172,7,2,120,98,2,5,5,False,True,True
+20186,IPL,False,Chennai Super Kings Won by 12 runs,run,12.0,True,True,217,205,217,204,7,7,120,120,1,3509,1,True,True,False
+20187,IPL,False,Gujarat Titans won by 6 wickets,wicket,6.0,True,True,162,163,162,163,8,4,120,109,7,3508,3508,False,True,True
+20188,IPL,False,Punjab Kings Won by 5 runs,run,5.0,True,True,197,192,196,192,4,7,120,120,4,3,4,True,True,False
+20189,IPL,False,Kolkata Knight Riders Won By 81 Runs,run,81.0,True,True,204,123,204,123,7,10,120,106,8,5,8,True,True,True
+20190,IPL,False,Lucknow Super Giants Won by 6 wickets,wicket,6.0,True,True,121,127,121,127,8,5,120,96,242,3509,3509,False,False,False
+20191,IPL,False,Rajasthan Royals Won by 57 Runs,run,57.0,True,True,199,142,199,142,4,9,120,120,3,7,3,True,True,True
+20192,IPL,False,Chennai Super Kings Won by 7 wickets,wicket,7.0,True,True,157,159,157,159,8,3,120,109,2,1,1,False,True,True
+20193,IPL,False,Kolkata Knight Riders Won By 3 Wickets,wicket,3.0,True,True,204,207,204,207,4,7,120,120,3508,8,8,False,True,True
+20194,IPL,False,Sunrisers Hyderabad won by 8 wickets,wicket,8.0,True,True,143,145,143,145,9,2,120,103,4,242,242,False,True,True
+20195,IPL,False,Lucknow Super Giants Won by 1 wicket,wicket,1.0,True,True,212,213,212,213,2,9,120,120,5,3509,3509,False,True,True
+20196,IPL,False,Mumbai Indians Won By 6 Wickets,wicket,6.0,True,True,172,173,172,173,10,4,118,120,7,2,2,False,True,True
+20197,IPL,False,Rajasthan Royals Won by 3 Runs,run,3.0,True,True,175,172,175,172,8,6,120,120,3,1,3,True,True,True
+20198,IPL,False,Gujarat Titans Won By 6 Wickets,wicket,6.0,True,True,153,154,153,154,8,4,120,119,4,3508,3508,False,True,True
+20199,IPL,False,Sunrisers Hyderabad Won By 23 Runs,run,23.0,True,True,228,205,228,204,4,7,120,120,242,8,242,True,True,False
+20200,IPL,False,Royal Challengers Bengaluru won by 23 runs,run,23.0,True,True,174,151,174,151,6,9,120,120,5,7,5,True,True,True
+20201,IPL,False,Punjab Kings won by 2 wickets,wicket,2.0,True,True,159,161,155,161,8,8,120,117,3509,4,4,False,True,True
+20202,IPL,False,Mumbai Indians won by 5 wickets,wicket,5.0,True,True,185,186,185,186,6,5,120,106,8,2,2,False,True,True
+20203,IPL,False,Rajasthan Royals Won by 3 Wickets,wicket,3.0,True,True,177,179,177,179,7,7,120,116,3508,3,3,False,True,True
+20204,IPL,False,Chennai Super Kings Won by 8 Runs,run,8.0,True,True,226,218,226,218,6,8,120,120,1,5,1,True,True,True
+20205,IPL,False,Mumbai Indians Won by 14 Runs,run,14.0,True,True,192,178,192,178,5,10,120,119,2,242,2,True,True,True
+20206,IPL,False,Lucknow Super Giants Won by 10 Runs,run,10.0,True,True,154,144,154,144,7,6,120,120,3509,3,3509,True,True,True
+20207,IPL,False,Royal Challengers Bengaluru Won by 24 Runs,run,24.0,True,True,174,150,174,150,4,10,120,110,5,4,5,True,True,True
+20208,IPL,False,Delhi Capitals Won By 4 Wickets,wicket,4.0,True,True,127,128,127,128,10,6,120,116,8,7,7,False,True,True
+20209,IPL,False,Chennai Super Kings Won by 7 Wickets,wicket,7.0,True,True,134,138,134,138,7,3,120,112,242,1,1,False,True,True
+20210,IPL,False,Gujarat Titans Won by 7 runs,run,7.0,True,True,135,128,135,128,6,7,120,120,3508,3509,3508,True,True,True
+20211,IPL,False,Punjab Kings Won By 13Runs,run,13.0,True,True,214,201,214,201,8,6,120,120,4,2,4,True,True,True
+20212,IPL,False,Royal Challengers Bengaluru Won By 7 Runs,run,7.0,True,True,189,182,189,182,9,6,120,120,5,3,5,True,True,True
+20213,IPL,False,Chennai Super Kings won by 49 runs,run,49.0,True,True,235,186,235,186,4,8,120,120,1,8,1,True,True,True
+20214,IPL,False,Delhi Capitals Won by 7 Runs,run,7.0,True,True,144,137,144,137,9,6,120,120,7,242,7,True,True,True
+20215,IPL,False,Gujarat Titans Won by 55 runs,run,55.0,True,True,207,152,207,152,6,9,120,120,3508,2,3508,True,True,True
+20216,IPL,False,Kolkata Knight Riders Won by 21 Runs,run,21.0,True,True,200,179,200,179,5,8,120,120,8,5,8,True,True,True
+20217,IPL,False,Rajasthan Royals Won by 32 Runs,run,32.0,True,True,202,170,202,170,5,6,120,120,3,1,3,True,True,True
+20218,IPL,False,Lucknow Super Giants Won by 56 runs,run,56.0,True,True,257,201,256,201,5,10,120,119,3509,4,3509,True,True,False
+20219,IPL,False,Gujarat Titans Won by 7 Wickets,wicket,7.0,True,True,179,180,179,180,7,3,120,107,8,3508,3508,False,True,True
+20220,IPL,False,Sunrisers Hyderabad Won by 9 Runs,run,9.0,True,True,197,188,197,188,6,6,120,120,242,7,242,True,True,True
+20221,IPL,False,Punjab Kings Won By  4 wickets,wicket,4.0,True,True,200,201,200,201,4,6,120,120,1,4,4,False,True,True
+20222,IPL,False,Mumbai Indians won by 6 wickets,wicket,6.0,True,True,212,214,212,214,7,4,120,117,3,2,2,False,True,True
+20223,IPL,False,Royal Challengers Bengaluru Won  by 18 Runs,run,18.0,True,True,126,108,126,108,9,10,120,119,5,3509,5,True,True,True
+20224,IPL,False,Delhi Capitals Won by 5 runs,run,5.0,True,True,130,125,130,125,8,6,120,120,7,3508,7,True,True,True
+20225,IPL,False,Mumbai Indians Won by 6 wickets,wicket,6.0,True,True,214,216,214,216,3,4,120,113,4,2,2,False,True,True
+20227,IPL,False,Kolkata Knight Riders Won by 5 Runs,run,5.0,True,True,171,166,171,166,9,8,120,120,8,242,8,True,True,True
+20228,IPL,False,Gujarat Titans Won by 9 Wickets,wicket,9.0,True,True,118,119,118,119,10,1,107,83,3,3508,3508,False,True,True
+20229,IPL,False,Chennai Super Kings Won by 6 wickets,wicket,6.0,True,True,139,140,139,140,8,4,120,106,2,1,1,False,True,True
+20230,IPL,False,Delhi Capitals Won by 7 Wickets,wicket,7.0,True,True,181,187,181,187,4,3,120,100,5,7,7,False,True,True
+20231,IPL,False,Gujarat Titans Won By 56 Runs,run,56.0,True,True,227,171,227,171,2,7,120,120,3508,3509,3508,True,True,True
+20232,IPL,False,Sunrisers Hyderabad Won by 4 wickets,wicket,4.0,True,True,214,217,214,217,2,6,120,120,3,242,242,False,True,True
+20233,IPL,False,Kolkata Knight Riders Won by 5 Wickets,wicket,5.0,True,True,179,182,179,182,7,5,120,120,4,8,8,False,True,True
+20234,IPL,False,Mumbai Indians won by 6 wickets,wicket,6.0,True,True,199,200,199,196,6,4,120,99,5,2,2,False,True,False
+20235,IPL,False,Chennai Super Kings Won by 27 Runs,run,27.0,True,True,167,140,167,140,8,8,120,120,1,7,1,True,True,True
+20236,IPL,False,Rajasthan Royals Won by 9 Wickets,wicket,9.0,True,True,149,151,149,151,8,1,120,79,8,3,3,False,True,True
+20237,IPL,False,Mumbai Indians Won by 27 Runs,run,27.0,True,True,218,191,218,191,5,8,120,120,2,3508,2,True,True,True
+20238,IPL,False,Lucknow Super Giants Won by 7 wickets,wicket,7.0,True,True,182,185,182,185,6,3,120,116,242,3509,3509,False,True,True
+20239,IPL,False,Punjab Kings Won by 31 Runs,run,31.0,True,True,167,136,167,136,7,8,120,120,4,7,4,True,True,True
+20240,IPL,False,Royal Challengers Bengaluru Won by 112 runs,run,112.0,True,True,171,59,171,59,5,10,120,63,5,3,5,True,True,True
+20241,IPL,False,Kolkata Knight Riders won by 6 Wickets,wicket,6.0,True,True,144,147,144,147,6,4,120,111,1,8,8,False,True,True
+20242,IPL,False,Gujarat Titans Won by 34 runs,run,34.0,True,True,188,154,188,154,9,9,120,120,3508,242,3508,True,True,True
+20243,IPL,False,Lucknow Super Giants won by 5 runs,run,5.0,True,True,177,172,177,168,3,5,120,120,3509,2,3509,True,True,False
+20244,IPL,False,Delhi Capitals Won by 15 runs,run,15.0,True,True,213,198,213,198,2,8,120,120,7,4,7,True,True,True
+20245,IPL,False,Royal Challengers Bengaluru Won by 8 wickets,wicket,8.0,True,True,186,187,186,187,5,2,120,116,242,5,5,False,True,True
+20246,IPL,False,Rajasthan Royals Won by 4 wickets,wicket,4.0,True,True,187,189,187,189,5,6,120,118,4,3,3,False,True,True
+20247,IPL,False,Chennai Super Kings Won by 77 runs,run,77.0,True,True,223,146,223,146,3,9,120,120,1,7,1,True,True,True
+20248,IPL,False,Lucknow Super Giants won by 1 run,run,1.0,True,True,176,175,176,175,8,7,120,120,3509,8,3509,True,True,True
+20249,IPL,False,Mumbai Indians Won by 8 wickets,wicket,8.0,True,True,200,201,200,201,5,2,120,108,242,2,2,False,True,True
+20250,IPL,False,Gujarat Titans Won by 6 wickets,wicket,6.0,True,True,197,198,197,198,5,4,120,115,5,3508,3508,False,True,True
+21583,IPL,False,Chennai Super Kings Won by 15 runs,run,15.0,True,True,172,157,171,157,7,10,120,120,1,3508,1,True,True,False
+21584,IPL,False,Mumbai Indians won by 81 runs,run,81.0,True,True,182,101,182,101,8,10,120,99,2,3509,2,True,True,True
+21585,IPL,False,Gujarat Titans won by 62 runs,run,62.0,True,True,233,171,233,171,3,10,120,110,3508,2,3508,True,True,True
+21586,IPL,True,Chennai Super Kings Won by 5 wickets  (DLS method),wicket,5.0,True,True,214,171,214,171,4,5,120,90,3508,1,1,False,False,False
+19959,T20I,True,West Indies won by 3 wickets,wicket,3.0,True,True,131,132,131,132,8,7,66,63,19,28,28,False,True,True
+19960,T20I,False,South Africa Won by 6 wickets,wicket,6.0,True,True,258,259,258,259,5,4,120,113,28,19,19,False,True,True
+19961,T20I,False,West Indies Won by 7 runs,run,7.0,True,True,220,213,220,213,8,6,120,120,28,19,28,True,True,True
+21177,T20I,False,New Zealand Won by 9 Wickets,wicket,9.0,True,True,141,146,141,146,10,1,114,88,27,17,17,False,True,True
+21178,T20I,False,New Zealand Won by 4 Wickets,wicket,4.0,True,True,182,183,182,183,6,6,120,119,27,17,17,False,True,True
+20133,T20I,False,Bangladesh Won by 6 Wickets,wicket,6.0,True,True,156,158,156,158,6,4,120,108,22,21,21,False,True,True
+20134,T20I,False,Bangladesh Won  by 4 Wickets,wicket,4.0,True,True,117,120,117,120,10,6,120,113,22,21,21,False,True,True
+20135,T20I,False,Bangladesh won by 16 runs,run,16.0,True,True,158,142,158,142,2,6,120,120,21,22,21,True,True,True
+21070,T20I,True,Bangladesh Won by 22 Runs (DLS method),run,22.0,True,True,207,81,207,81,5,5,116,48,21,23,21,True,False,False
+21071,T20I,True,Bangladesh Won by 77 Runs,run,77.0,True,True,202,125,202,125,3,9,102,102,21,23,21,True,True,True
+21072,T20I,False,Ireland Won by 7 Wickets,wicket,7.0,True,True,124,126,124,126,10,3,116,84,21,23,23,False,True,True
+20878,T20I,False,Afghanistan Won by 6 Wickets,wicket,6.0,True,True,92,98,92,98,9,4,120,107,25,78,78,False,True,True
+20879,T20I,False,Afghanistan Won by 7 Wickets,wicket,7.0,True,True,130,133,130,133,6,3,120,119,25,78,78,False,True,True
+20880,T20I,False,Pakistan Won by 66 Runs,run,66.0,True,True,182,116,182,116,7,10,120,112,25,78,25,True,True,True
+21403,T20I,False,Pakistan Won by 88 Runs,run,88.0,True,True,182,94,182,94,10,10,119,93,25,17,25,True,True,True
+21404,T20I,False,Pakistan Won by 38 runs,run,38.0,True,True,192,154,192,154,4,7,120,120,25,17,25,True,True,True
+21405,T20I,False,New Zealand Won by 4 Runs,run,4.0,True,True,163,159,163,159,5,10,120,120,17,25,17,True,True,True
+21407,T20I,False,New Zealand Won by 6 wickets,wicket,6.0,True,True,193,194,193,194,5,4,120,116,25,17,17,False,True,True
+23673,T20I,False,Bangladesh Won by 2 wickets,wicket,2.0,True,True,154,157,154,157,7,8,120,119,78,21,21,False,True,True
+23674,T20I,False,Bangladesh Won by 6 Wickets(D/L Method),wicket,6.0,True,True,116,119,116,119,7,4,102,97,78,21,21,False,True,True
+24350,T20I,False,West Indies Won   by 4 runs,run,4.0,True,True,149,145,149,145,6,9,120,120,28,18,28,True,True,True
+24351,T20I,False,West Indies Won by 2 wickets,wicket,2.0,True,True,152,155,152,155,7,8,120,113,18,28,28,False,True,True
+24352,T20I,False,India Won by 7 Wickets,wicket,7.0,True,True,159,164,159,164,5,3,120,107,28,18,18,False,True,True
+24353,T20I,False,India won by 9 wickets,wicket,9.0,True,True,178,179,178,179,8,1,120,102,28,18,18,False,True,True
+24354,T20I,False,West Indies Won by 8 wickets,wicket,8.0,True,True,165,171,165,171,9,2,120,108,18,28,28,False,True,True
+24792,T20I,False,New Zealand Won by 19 Runs,run,19.0,True,True,155,136,155,136,6,10,120,118,17,272,17,True,True,True
+24793,T20I,False,United Arab Emirates Won by 7 Wickets,wicket,7.0,True,True,142,144,142,144,8,3,120,94,17,272,272,False,True,True
+24794,T20I,False,New Zealand Won by 32 Runs,run,32.0,True,True,166,134,166,134,5,7,120,120,17,272,17,True,True,True
+24822,T20I,False,India Won by 2 Runs (DLS method),run,2.0,True,True,139,47,139,47,7,2,120,41,23,18,18,False,False,False
+24823,T20I,False,India Won by 33 Runs,run,33.0,True,True,185,152,185,152,5,8,120,120,18,23,18,True,True,True
+25158,T20I,False,England won by 7 wickets,wicket,7.0,True,True,139,143,139,143,9,3,120,84,17,22,22,False,True,True
+25159,T20I,False,England Won by 95 runs,run,95.0,True,True,198,103,198,103,4,10,120,83,22,17,22,True,True,True
+25160,T20I,False,New Zealand Won by 74 runs,run,74.0,True,True,202,128,202,128,5,10,120,111,17,22,17,True,True,True
+25161,T20I,False,New Zealand Won by 6 Wickets,wicket,6.0,True,True,175,179,175,179,8,4,120,104,22,17,17,False,True,True
+25155,T20I,False,Australia Won by 111 Runs,run,111.0,True,True,226,115,226,115,6,10,120,93,20,19,20,True,True,True
+25156,T20I,False,Australia won by 8 wickets,wicket,8.0,True,True,164,168,164,168,8,2,120,89,19,20,20,False,True,True
+25157,T20I,False,Australia Won by 5 Wickets,wicket,5.0,True,True,190,191,190,191,8,5,120,107,19,20,20,False,True,True
+27060,T20I,False,India won by 2 wickets,wicket,2.0,True,True,208,209,208,209,3,8,120,119,20,18,18,False,True,True
+27061,T20I,False,India won by 44 runs,run,44.0,True,True,235,191,235,191,4,9,120,120,18,20,18,True,True,True
+27062,T20I,False,Australia Won by 5 Wickets,wicket,5.0,True,True,222,225,222,225,3,5,120,120,18,20,20,False,True,True
+27063,T20I,False,India Won by 20 runs,run,20.0,True,True,174,154,174,154,9,7,120,120,18,20,18,True,True,True
+27064,T20I,False,India won by 6 runs,run,6.0,True,True,160,154,160,154,8,8,120,120,18,20,18,True,True,True
+28046,T20I,True,South Africa won by 5 wickets (DLS),wicket,5.0,True,True,180,154,180,154,7,5,117,83,18,19,19,False,False,False
+28047,T20I,False,India won by 106 runs,run,106.0,True,True,201,95,201,95,7,10,120,83,18,19,18,True,True,True
+28063,T20I,False,West Indies Won by 4 Wickets,wicket,4.0,True,True,171,172,171,172,10,6,117,109,22,28,28,False,True,True
+28064,T20I,False,West Indies won by 10 runs,run,10.0,True,True,176,166,176,166,7,7,120,120,28,22,28,True,True,True
+28065,T20I,False,England Won By 7 Wickets,wicket,7.0,True,True,222,226,222,226,6,3,120,119,28,22,22,False,True,True
+28066,T20I,False,England Won by 75 Runs,run,75.0,True,True,267,192,267,192,3,10,120,93,22,28,22,True,True,True
+28067,T20I,False,West Indies Won by 4 Wickets,wicket,4.0,True,True,132,133,132,133,10,6,117,116,22,28,28,False,True,True
+28332,T20I,False,Bangladesh won by 5 wickets,wicket,5.0,True,True,134,137,134,137,9,5,120,112,17,21,21,False,True,True
+28334,T20I,False,New Zealand won by 17runs (DLS Method),run,17.0,True,True,110,95,110,95,10,5,116,88,21,17,17,False,False,False
+28960,T20I,False,India Won by 6 Wickets,wicket,6.0,True,True,158,159,158,159,5,4,120,105,78,18,18,False,True,True
+28961,T20I,False,India Won by 6 Wickets,wicket,6.0,True,True,172,173,172,173,10,4,120,94,78,18,18,False,True,True
+28963,T20I,False,New Zealand won by 46 runs,run,46.0,True,True,226,180,226,180,8,10,120,108,17,25,17,True,True,True
+28964,T20I,False,New Zealand Won by 21 Runs,run,21.0,True,True,194,173,194,173,8,10,120,117,17,25,17,True,True,True
+28965,T20I,False,New Zealand Won by 45 Runs,run,45.0,True,True,224,179,224,179,7,7,120,120,17,25,17,True,True,True
+28966,T20I,False,New Zealand Won by 7 wickets,wicket,7.0,True,True,158,159,158,159,5,3,120,109,25,17,17,False,True,True
+28967,T20I,False,Pakistan Won by 42 Runs,run,42.0,True,True,134,92,134,92,8,10,120,104,25,17,25,True,True,True
+29815,T20I,False,Australia Won by 11 runs,run,11.0,True,True,213,202,213,202,7,8,120,120,20,28,20,True,True,True
+29816,T20I,False,Australia Won by 34 Runs,run,34.0,True,True,241,207,241,207,4,9,120,120,20,28,20,True,True,True
+29817,T20I,False,West Indies Won by 37 runs,run,37.0,True,True,220,183,220,183,6,5,120,120,28,20,28,True,True,True
+29982,T20I,False,Australia Won by 6 wickets,wicket,6.0,True,True,215,216,215,216,3,4,120,120,17,20,20,False,True,True
+29983,T20I,False,Australia Won by 72 Runs,run,72.0,True,True,174,102,174,102,10,9,119,102,20,17,20,True,True,True
+29984,T20I,True,Australia Won by 27 Runs (DLS method),run,27.0,True,True,118,98,118,98,4,3,64,60,20,17,20,True,False,False
+28057,T20I,False,Zimbabwe Won By 1 Wicket,wicket,1.0,True,True,147,148,147,148,8,9,120,120,23,72,72,False,True,True
+28058,T20I,False,Ireland Won by 4 Wickets,wicket,4.0,True,True,165,166,165,166,5,6,120,118,72,23,23,False,True,True
+28059,T20I,False,Ireland Won By 6 Wickets,wicket,6.0,True,True,140,141,140,141,6,4,120,112,72,23,23,False,True,True
+30056,IPL,False,Chennai Super Kings Won by 6 Wickets,wicket,6.0,True,True,173,176,173,176,6,4,120,112,5,1,1,False,True,True
+30057,IPL,False,Punjab Kings Won by 4 Wickets,wicket,4.0,True,True,174,177,174,177,9,6,120,116,7,4,4,False,True,True
+30058,IPL,False,Kolkata Knight Riders won by 4 runs,run,4.0,True,True,208,204,208,204,7,7,120,120,8,242,8,True,True,True
+30059,IPL,False,Rajasthan Royals won by 20 runs,run,20.0,True,True,193,173,193,173,4,6,120,120,3,3509,3,True,True,True
+30060,IPL,False,Gujarat Titans won by 6 runs,run,6.0,True,True,168,162,168,162,6,9,120,120,3508,2,3508,True,True,True
+30061,IPL,False,Royal Challengers Bengaluru won by 4 wickets,wicket,4.0,True,True,176,178,176,178,6,6,120,116,4,5,5,False,True,True
+30062,IPL,False,Chennai Super Kings won by 63 runs,run,63.0,True,True,206,143,206,143,6,8,120,120,1,3508,1,True,True,True
+30063,IPL,False,Sunrisers Hyderabad won by 31 runs,run,31.0,True,True,277,246,277,246,3,5,120,120,242,2,242,True,True,True
+30064,IPL,False,Rajasthan Royals won by 12 runs,run,12.0,True,True,185,173,185,173,5,5,120,120,3,7,3,True,True,True
+30065,IPL,False,Kolkata Knight Riders won by 7 wickets,wicket,7.0,True,True,182,186,182,186,6,3,120,101,5,8,8,False,True,True
+30066,IPL,False,Lucknow Super Giants won by 21 runs,run,21.0,True,True,199,178,199,178,8,5,120,120,3509,4,3509,True,True,True
+30067,IPL,False,Gujarat Titans Won by 7 wickets,wicket,7.0,True,True,162,168,162,168,8,3,120,115,242,3508,3508,False,True,True
+30068,IPL,False,Delhi Capitals Won by 20 runs,run,20.0,True,True,191,171,190,171,5,6,120,120,7,1,7,True,True,False
+30069,IPL,False,Rajasthan Royals Won by 6 wickets,wicket,6.0,True,True,125,127,125,127,9,4,120,93,2,3,3,False,True,True
+30070,IPL,False,Lucknow Super Giants Won by 28 runs,run,28.0,True,True,181,153,181,153,5,10,120,118,3509,5,3509,True,True,True
+30071,IPL,False,Kolkata Knight Riders Won by 106 runs,run,106.0,True,True,272,166,272,162,7,10,120,104,8,7,8,True,True,False
+30072,IPL,False,Punjab Kings Won by 3 wickets,wicket,3.0,True,True,199,200,199,200,4,7,120,119,3508,4,4,False,True,True
+30073,IPL,False,Sunrisers Hyderabad Won by 6 wickets,wicket,6.0,True,True,165,166,165,166,5,4,120,109,1,242,242,False,True,True
+30074,IPL,False,Rajasthan Royals Won by 6 Wickets,wicket,6.0,True,True,183,189,183,189,3,4,120,115,5,3,3,False,True,True
+30075,IPL,False,Mumbai Indians Won by 29 runs,run,29.0,True,True,234,205,234,205,5,8,120,120,2,7,2,True,True,True
+30076,IPL,False,Lucknow Super Giants Won by 33 runs,run,33.0,True,True,163,130,163,129,5,10,120,113,3509,3508,3509,True,True,False
+31240,IPL,False,Chennai Super Kings Won by 7 wickets,wicket,7.0,True,True,137,141,137,141,9,3,120,106,8,1,1,False,True,True
+31241,IPL,False,Sunrisers Hyderabad Won by 2 runs,run,2.0,True,True,182,180,182,180,9,6,120,120,242,4,242,True,True,True
+31242,IPL,False,Gujarat Titans Won by 3 wickets,wicket,3.0,True,True,196,199,196,199,3,7,120,120,3,3508,3508,False,True,True
+31243,IPL,False,Mumbai Indians Won by 7 wickets,wicket,7.0,True,True,196,199,196,199,8,3,120,93,5,2,2,False,True,True
+31244,IPL,False,Delhi Capitals Won by 6 wickets,wicket,6.0,True,True,167,170,167,170,7,4,120,109,3509,7,7,False,True,True
+31245,IPL,False,Rajasthan Royals Won by 3 wickets,wicket,3.0,True,True,147,152,147,152,8,7,120,119,4,3,3,False,True,True
+31246,IPL,False,Kolkata Knight Riders Won by 8 wickets,wicket,8.0,True,True,161,162,161,162,7,2,120,94,3509,8,8,False,True,True
+31247,IPL,False,Chennai Super Kings Won by 20 runs,run,20.0,True,True,206,186,206,186,4,6,120,120,1,2,1,True,True,True
+31248,IPL,False,Sunrisers Hyderabad Won by 25 runs,run,25.0,True,True,287,262,287,262,3,7,120,120,242,5,242,True,True,True
+31249,IPL,False,Delhi Capitals Won by 6 wickets,wicket,6.0,True,True,89,92,89,92,10,4,105,53,3508,7,7,False,True,True
+31250,IPL,False,Rajasthan Royals Won by 2 wickets,wicket,2.0,True,True,223,224,223,224,6,8,120,120,8,3,3,False,True,True
+31251,IPL,False,Mumbai Indians Won by 9 runs,run,9.0,True,True,192,183,192,183,7,10,120,115,2,4,2,True,True,True
+31252,IPL,False,Lucknow Super Giants Won by 8 wickets,wicket,8.0,True,True,176,180,176,180,6,2,120,114,1,3509,3509,False,True,True
+31253,IPL,False,Sunrisers Hyderabad Won by 67 runs,run,67.0,True,True,266,199,266,199,7,10,120,115,242,7,242,True,True,True
+31254,IPL,False,Kolkata Knight Riders Won by 1 runs,run,1.0,True,True,222,221,218,221,6,10,120,120,8,5,8,True,True,False
+31255,IPL,False,Gujarat Titans Won by 3 wickets,wicket,3.0,True,True,142,146,142,146,10,7,120,115,4,3508,3508,False,True,True
+31256,IPL,False,Rajasthan Royals Won by 9 wickets,wicket,9.0,True,True,179,183,179,183,9,1,120,112,2,3,3,False,True,True
+31257,IPL,False,Lucknow Super Giants Won by 6 wickets,wicket,6.0,True,True,210,213,210,213,4,4,120,117,1,3509,3509,False,True,True
+31258,IPL,False,Delhi Capitals Won by 4 runs,run,4.0,True,True,224,220,224,220,4,8,120,120,7,3508,7,True,True,True
+31259,IPL,False,Royal Challengers Bengaluru Won by 35 runs,run,35.0,True,True,206,171,206,171,7,8,120,120,5,242,5,True,True,True
+31260,IPL,False,Punjab Kings Won by 8 wickets,wicket,8.0,True,True,261,262,261,262,6,2,120,112,8,4,4,False,True,True
+31261,IPL,False,Delhi Capitals Won by 10 runs,run,10.0,True,True,257,247,257,247,4,9,120,120,7,2,7,True,True,True
+31262,IPL,False,Rajasthan Royals Won by 7 wickets,wicket,7.0,True,True,196,199,196,199,5,3,120,114,3509,3,3,False,True,True
+31263,IPL,False,Royal Challengers Bengaluru Won by 9 wickets,wicket,9.0,True,True,200,206,200,206,3,1,120,96,3508,5,5,False,True,True
+31264,IPL,False,Chennai Super Kings Won by 78 runs,run,78.0,True,True,212,134,212,134,3,10,120,113,1,242,1,True,True,True
+31265,IPL,False,Kolkata Knight Riders Won by 7 wickets,wicket,7.0,True,True,153,157,153,156,9,3,120,99,7,8,8,False,True,True
+31266,IPL,False,Lucknow Super Giants Won by 4 wickets,wicket,4.0,True,True,144,145,144,145,7,6,120,116,2,3509,3509,False,True,True
+31267,IPL,False,Punjab Kings Won by 7 wickets,wicket,7.0,True,True,162,163,162,163,7,3,120,107,1,4,4,False,True,True
+31268,IPL,False,Sunrisers Hyderabad Won by 1 runs,run,1.0,True,True,201,200,201,200,3,7,120,120,242,3,242,True,True,True
+31269,IPL,False,Kolkata Knight Riders Won by 24 runs,run,24.0,True,True,169,145,169,145,10,10,119,113,8,2,8,True,True,True
+31270,IPL,False,Royal Challengers Bengaluru Won by 4 wickets,wicket,4.0,True,True,147,152,147,152,10,6,117,82,3508,5,5,False,True,True
+31271,IPL,False,Chennai Super Kings Won by 28 runs,run,28.0,True,True,167,139,167,139,9,9,120,120,1,4,1,True,True,True
+31272,IPL,False,Kolkata Knight Riders Won by 98 runs,run,98.0,True,True,235,137,235,137,6,10,120,97,8,3509,8,True,True,True
+31273,IPL,False,Mumbai Indians Won by 7 wickets,wicket,7.0,True,True,173,174,173,174,8,3,120,104,242,2,2,False,True,True
+31274,IPL,False,Delhi Capitals Won by 20 runs,run,20.0,True,True,221,201,221,201,8,8,120,120,7,3,7,True,True,True
+31275,IPL,False,Sunrisers Hyderabad Won by 10 wickets,wicket,10.0,True,True,165,167,165,167,4,0,120,58,3509,242,242,False,True,True
+31276,IPL,False,Royal Challengers Bengaluru Won by 60 runs,run,60.0,True,True,241,181,241,181,7,10,120,102,5,4,5,True,True,True
+31277,IPL,False,Gujarat Titans Won by 35 runs,run,35.0,True,True,231,196,231,196,3,8,120,120,3508,1,3508,True,True,True
+31278,IPL,False,Kolkata Knight Riders Won by 18 runs,run,18.0,True,True,157,139,157,135,7,8,96,96,8,2,8,True,True,False
+31279,IPL,False,Chennai Super Kings Won by 5 wickets,wicket,5.0,True,True,141,145,141,145,5,5,120,110,3,1,1,False,True,True
+31280,IPL,False,Royal Challengers Bengaluru Won by 47 runs,run,47.0,True,True,187,140,187,140,9,10,120,115,5,7,5,True,True,True
+31282,IPL,False,Delhi Capitals Won by 19 runs,run,19.0,True,True,208,189,208,189,4,9,120,120,7,3509,7,True,True,True
+31283,IPL,False,Punjab Kings Won by 5 wickets,wicket,5.0,True,True,144,145,144,145,9,5,120,113,3,4,4,False,True,True
+31285,IPL,False,Lucknow Super Giants Won by 18 runs,run,18.0,True,True,214,196,214,196,6,6,120,120,3509,2,3509,True,True,True
+31286,IPL,False,Royal Challengers Bengaluru Won by 27 runs,run,27.0,True,True,218,191,218,191,5,7,120,120,5,1,5,True,True,True
+31287,IPL,False,Sunrisers Hyderabad Won by 4 wickets,wicket,4.0,True,True,214,215,214,215,5,6,120,115,4,242,242,False,True,True
+31289,IPL,False,Kolkata Knight Riders Won by 8 wickets,wicket,8.0,True,True,159,164,159,164,10,2,117,82,242,8,8,False,True,True
+31290,IPL,False,Rajasthan Royals Won by 4 wickets,wicket,4.0,True,True,172,174,172,174,8,6,120,114,5,3,3,False,True,True
+31291,IPL,False,Sunrisers Hyderabad Won by 36 runs,run,36.0,True,True,175,139,175,139,9,7,120,120,242,3,242,True,True,True
+31292,IPL,False,Kolkata Knight Riders Won by 8 wickets,wicket,8.0,True,True,113,114,113,114,10,2,111,63,242,8,8,False,True,True
+28957,T20I,False,Sri Lanka Won By 3 Wickets,wicket,3.0,True,True,143,144,143,144,5,7,120,120,72,27,27,False,True,True
+28958,T20I,False,Zimbabwe Won by 4 Wickets,wicket,4.0,True,True,173,178,173,178,6,6,120,119,27,72,72,False,True,True
+28959,T20I,False,Sri Lanka Won by 9 Wickets,wicket,9.0,True,True,82,88,82,88,10,1,85,65,72,27,27,False,True,True
+29924,T20I,False,Sri Lanka Won by 4 runs,run,4.0,True,True,160,156,160,156,10,9,114,120,27,78,27,True,True,True
+29925,T20I,False,Sri Lanka Won by 72 Runs,run,72.0,True,True,187,115,187,115,6,10,120,102,27,78,27,True,True,True
+29926,T20I,False,Afghanistan won by 3 runs,run,3.0,True,True,209,206,209,206,5,6,120,120,78,27,78,True,True,True
+30728,T20I,False,Ireland won by 38 runs,run,38.0,True,True,149,111,149,111,6,10,120,112,23,78,23,True,True,True
+30729,T20I,False,Afghanistan Won By 10Runs,run,10.0,True,True,152,142,152,142,9,8,120,120,78,23,78,True,True,True
+30730,T20I,False,Afghanistan won by 57 runs,run,57.0,True,True,155,98,155,98,7,10,120,104,78,23,78,True,True,True
+30341,T20I,False,Sri Lanka won by 3 runs,run,3.0,True,True,206,203,202,203,3,8,120,120,27,21,27,True,True,False
+30342,T20I,False,Bangladesh won by 8 wickets,wicket,8.0,True,True,165,170,165,170,5,2,120,109,27,21,21,False,True,True
+30343,T20I,False,Sri Lanka won by 28 runs,run,28.0,True,True,174,146,174,146,7,10,120,118,27,21,27,True,True,True
+31708,T20I,False,Pakistan Won by 7 wickets,wicket,7.0,True,True,90,92,90,92,10,3,109,73,17,25,25,False,True,True
+31709,T20I,False,New Zealand Won by 7 wickets,wicket,7.0,True,True,178,179,178,179,4,3,120,110,25,17,17,False,True,True
+31710,T20I,False,New Zealand Won by 4 runs,run,4.0,True,True,178,174,178,174,7,8,120,120,17,25,17,True,True,True
+31711,T20I,False,Pakistan Won by 9 runs,run,9.0,True,True,178,169,178,169,5,10,120,116,25,17,25,True,True,True
+32611,T20I,False,England Won by 23 runs,run,23.0,True,True,183,160,183,160,7,10,120,116,22,25,22,True,True,True
+32613,T20I,False,England Won by 7 wickets,wicket,7.0,True,True,157,158,157,158,10,3,119,93,25,22,22,False,True,True
+32132,T20I,False,Bangladesh Won by 8 wickets,wicket,8.0,True,True,124,126,124,126,10,2,120,92,72,21,21,False,True,True
+32133,T20I,False,Bangladesh Won by 6 wickets,wicket,6.0,True,True,138,142,138,142,7,4,120,111,72,21,21,False,True,True
+32134,T20I,False,Bangladesh Won by 9 runs,run,9.0,True,True,165,156,165,156,5,9,120,120,21,72,21,True,True,True
+32135,T20I,False,Bangladesh Won by 5 runs,run,5.0,True,True,143,138,143,138,10,10,119,118,21,72,21,True,True,True
+32136,T20I,False,Zimbabwe Won by 8 wickets,wicket,8.0,True,True,157,158,157,158,6,2,120,111,21,72,72,False,True,True
+33803,T20I,False,Zimbabwe Won by 13 runs,run,13.0,True,True,115,102,115,102,9,10,120,119,72,18,72,True,True,True
+33804,T20I,False,India Won by 100 runs,run,100.0,True,True,234,134,234,134,2,10,120,112,18,72,18,True,True,True
+33805,T20I,False,India Won by 23 runs,run,23.0,True,True,182,159,182,159,4,6,120,120,18,72,18,True,True,True
+33806,T20I,False,India Won by 10 wickets,wicket,10.0,True,True,152,156,152,156,7,0,120,92,72,18,18,False,True,True
+33807,T20I,False,India Won by 42 runs,run,42.0,True,True,167,125,167,125,6,10,120,111,18,72,18,True,True,True
+37354,T20I,True,Australia Won by 29 runs,run,29.0,True,True,93,64,93,64,4,9,42,42,20,25,20,True,True,True
+37355,T20I,False,Australia Won by 13 runs,run,13.0,True,True,147,134,147,134,9,10,120,118,20,25,20,True,True,True
+37356,T20I,False,Australia Won by 7 wickets,wicket,7.0,True,True,117,118,117,118,10,3,109,68,25,20,20,False,True,True
+32290,T20I,False,Ireland Won by 5 wickets,wicket,5.0,True,True,182,183,182,183,6,5,120,119,25,23,23,False,True,True
+32291,T20I,False,Pakistan Won by 7 wickets,wicket,7.0,True,True,193,195,193,195,7,3,120,101,23,25,25,False,True,True
+32292,T20I,False,Pakistan Won by 6 wickets,wicket,6.0,True,True,178,181,178,181,7,4,120,102,23,25,25,False,True,True
+32620,T20I,False,Netherlands Won by 41 runs,run,41.0,True,True,167,126,167,126,8,10,120,109,24,26,24,True,True,True
+32621,T20I,False,Ireland Won by 1 runs,run,1.0,True,True,150,149,150,149,8,8,120,120,23,24,23,True,True,True
+32623,T20I,False,Scotland Won by 71 runs,run,71.0,True,True,158,87,158,87,7,10,120,89,26,24,26,True,True,True
+32624,T20I,False,Ireland Won by 5 wickets,wicket,5.0,True,True,157,158,157,158,8,5,120,117,26,23,23,False,True,True
+32625,T20I,False,Ireland Won by 3 runs,run,3.0,True,True,161,158,161,158,6,5,120,120,23,24,23,True,True,True
+38795,T20I,False,South Africa Won by 11 runs,run,11.0,True,True,183,172,183,172,9,8,120,120,19,25,19,True,True,True
+38796,T20I,False,South Africa Won by 7 wickets,wicket,7.0,True,True,206,210,206,210,5,3,120,117,25,19,19,False,True,True
+32617,T20I,False,West Indies Won by 28 runs,run,28.0,True,True,175,147,175,147,8,10,120,119,28,19,28,True,True,True
+32618,T20I,False,West Indies Won by 16 runs,run,16.0,True,True,207,191,207,191,7,7,120,120,28,19,28,True,True,True
+32619,T20I,False,West Indies Won by 8 wickets,wicket,8.0,True,True,163,165,163,165,7,2,120,83,19,28,28,False,True,True
+36096,T20I,False,West Indies Won by 7 wickets,wicket,7.0,True,True,174,176,174,176,7,3,120,107,19,28,28,False,True,True
+36097,T20I,False,West Indies Won by 30 runs,run,30.0,True,True,179,149,179,149,6,10,120,118,28,19,28,True,True,True
+36098,T20I,True,West Indies Won by 8 wickets (DLS),wicket,8.0,True,True,108,116,108,116,4,2,78,56,19,28,28,False,True,True
+37349,T20I,False,England Won by 8 wickets,wicket,8.0,True,True,182,183,182,183,9,2,120,101,28,22,22,False,True,True
+37350,T20I,False,England Won by 7 wickets,wicket,7.0,True,True,158,161,158,161,8,3,120,89,28,22,22,False,True,True
+37351,T20I,False,England Won by 3 wickets,wicket,3.0,True,True,145,149,145,149,8,7,120,116,28,22,22,False,True,True
+37352,T20I,False,West Indies Won by 5 wickets,wicket,5.0,True,True,218,221,218,221,5,5,120,114,22,28,28,False,True,True
+38842,T20I,False,Bangladesh Won by 7 runs,run,7.0,True,True,147,140,147,140,6,10,120,119,21,28,21,True,True,True
+38843,T20I,False,Bangladesh Won by 27 runs,run,27.0,True,True,129,102,129,102,7,10,120,111,21,28,21,True,True,True
+38844,T20I,False,Bangladesh Won by 80 runs,run,80.0,True,True,189,109,188,109,7,10,120,100,21,28,21,True,True,False
+37276,T20I,False,India Won by 7 wickets,wicket,7.0,True,True,127,132,127,132,10,3,119,71,21,18,18,False,True,True
+37277,T20I,False,India Won by 86 runs,run,86.0,True,True,221,135,221,135,9,9,120,120,18,21,18,True,True,True
+37278,T20I,False,India Won by 133 runs,run,133.0,True,True,297,164,293,164,6,7,120,120,18,21,18,True,True,False
+40036,T20I,False,India Won by 7 wickets,wicket,7.0,True,True,132,133,132,133,10,3,120,77,22,18,18,False,True,True
+40037,T20I,False,India Won by 2 wickets,wicket,2.0,True,True,165,166,165,166,9,8,120,116,22,18,18,False,True,True
+40038,T20I,False,England Won by 26 runs,run,26.0,True,True,171,145,170,145,9,9,120,120,22,18,22,True,True,False
+40039,T20I,False,India Won by 15 runs,run,15.0,True,True,181,166,181,166,9,10,120,118,18,22,18,True,True,True
+40040,T20I,False,India Won by 150 runs,run,150.0,True,True,247,97,247,97,9,10,120,63,18,22,18,True,True,True
+34427,T20I,False,India Won by 43 runs,run,43.0,True,True,213,170,213,170,7,10,120,116,18,27,18,True,True,True
+34428,T20I,True,India Won by 7 wickets(D/L Method),wicket,7.0,True,True,161,81,161,81,9,3,120,39,27,18,18,False,False,False
+36562,T20I,False,Australia Won by 28 runs,run,28.0,True,True,179,151,179,151,10,10,117,116,20,22,20,True,True,True
+36563,T20I,False,England Won by 3 wickets,wicket,3.0,True,True,193,194,193,194,6,7,120,114,20,22,22,False,True,True
+36559,T20I,False,Australia Won by 7 wickets,wicket,7.0,True,True,154,156,154,156,9,3,120,58,26,20,20,False,True,True
+36560,T20I,False,Australia Won by 70 runs,run,70.0,True,True,196,126,196,126,4,10,120,100,20,26,20,True,True,True
+36561,T20I,False,Australia Won by 6 wickets,wicket,6.0,True,True,149,153,149,153,9,4,120,97,26,20,20,False,True,True
+37014,T20I,False,South Africa Won by 8 wickets,wicket,8.0,True,True,171,174,171,174,8,2,120,106,23,19,19,False,True,True
+37015,T20I,False,Ireland Won by 10 runs,run,10.0,True,True,195,185,195,185,6,9,120,120,23,19,23,True,True,True
+35423,T20I,False,Netherlands Won by 5 wickets,wicket,5.0,True,True,152,153,152,153,5,5,120,97,89,24,24,False,True,True
+35425,T20I,False,Netherlands Won by 102 runs,run,102.0,True,True,217,115,217,115,5,10,120,94,24,315,24,True,True,True
+35427,T20I,False,Canada Won by 8 runs,run,8.0,True,True,132,124,132,124,9,8,120,120,89,24,89,True,True,True
+35428,T20I,False,United States Of America Won by 20 runs,run,20.0,True,True,168,148,168,148,6,7,120,120,315,89,315,True,True,True
+35429,T20I,False,Netherlands Won by 4 runs,run,4.0,True,True,132,128,132,128,8,10,120,115,24,315,24,True,True,True
+36199,T20I,False,England Won by 21 runs,run,21.0,True,True,188,167,188,167,6,9,120,120,22,28,22,True,True,True
+36200,T20I,False,England Won by 4 wickets,wicket,4.0,True,True,196,199,196,195,6,6,120,111,28,22,22,False,True,False
+36201,T20I,False,England Won by 37 runs,run,37.0,True,True,248,211,248,211,3,8,120,120,22,28,22,True,True,True
+36208,T20I,True,South Africa Won by 14 runs(DLS method),run,14.0,True,True,97,54,97,54,5,5,47,30,19,22,19,True,False,False
+36209,T20I,False,England Won by 146 runs,run,146.0,True,True,304,158,304,158,2,10,120,97,22,19,22,True,True,True
+37085,OTHER,False,Bangladesh A Won by 5 wickets,wicket,5.0,True,True,150,151,150,151,8,5,120,110,283,3093,3093,False,True,True
+37086,OTHER,False,Afghanistan A Won by 11 runs,run,11.0,True,True,166,155,166,155,7,10,120,117,4444,3674,4444,True,True,True
+37087,OTHER,False,United Arab Emirates Won by 4 wickets,wicket,4.0,True,True,150,151,150,151,8,6,120,115,313,272,272,False,True,True
+37088,OTHER,False,India A Won by 7 runs,run,7.0,True,True,183,176,183,176,8,7,120,120,222,341,222,True,True,True
+37089,OTHER,False,Sri Lanka A Won by 42 runs,run,42.0,True,True,178,136,178,136,5,7,120,120,3674,283,3674,True,True,True
+37090,OTHER,False,Afghanistan A Won by 4 wickets,wicket,4.0,True,True,164,165,164,165,4,6,120,115,3093,4444,4444,False,True,True
+37091,OTHER,False,Pakistan A Won by 74 runs,run,74.0,True,True,185,111,185,111,5,7,120,120,341,313,341,True,True,True
+37092,OTHER,False,India A Won by 7 wickets,wicket,7.0,True,True,107,111,107,111,10,3,101,65,272,222,222,False,True,True
+37093,OTHER,False,Hong Kong Won by 5 wickets,wicket,5.0,True,True,131,133,131,132,10,5,119,117,4444,283,283,False,True,True
+37094,OTHER,False,Sri Lanka A Won by 19 runs,run,19.0,True,True,161,142,161,142,7,7,120,120,3674,3093,3674,True,True,True
+37095,OTHER,False,Pakistan A Won by 114 runs,run,114.0,True,True,179,65,179,65,4,10,120,99,341,272,341,True,True,True
+37096,OTHER,False,India A Won by 6 wickets,wicket,6.0,True,True,140,146,140,146,5,4,120,92,313,222,222,False,True,True
+37097,OTHER,False,Sri Lanka A Won by 7 wickets,wicket,7.0,True,True,135,137,135,137,9,3,120,99,341,3674,3674,False,True,True
+37098,OTHER,False,Afghanistan A Won by 20 runs,run,20.0,True,True,206,186,206,186,4,7,120,120,4444,222,4444,True,True,True
+37099,OTHER,False,Afghanistan A Won by 7 wickets,wicket,7.0,True,True,133,134,133,134,7,3,120,109,3674,4444,4444,False,True,True
+37553,T20I,False,West Indies Won by 5 wickets,wicket,5.0,True,True,179,180,179,180,7,5,120,115,27,28,28,False,True,True
+37554,T20I,False,Sri Lanka Won by 73 runs,run,73.0,True,True,162,89,162,89,5,10,120,97,27,28,27,True,True,True
+37555,T20I,False,Sri Lanka Won by 9 wickets,wicket,9.0,True,True,162,166,162,166,8,1,120,108,28,27,27,False,True,True
+37894,T20I,False,Sri Lanka Won by 4 wickets,wicket,4.0,True,True,135,140,131,140,10,6,117,114,17,27,27,False,True,True
+37895,T20I,False,New Zealand Won by 5 runs,run,5.0,True,True,108,103,108,103,10,10,117,119,17,27,17,True,True,True
+37940,T20I,False,India Won by 61 runs,run,61.0,True,True,202,141,202,141,8,10,120,107,18,19,18,True,True,True
+37941,T20I,False,South Africa Won by 3 wickets,wicket,3.0,True,True,124,128,124,128,6,7,120,114,18,19,19,False,True,True
+37942,T20I,False,India Won by 11 runs,run,11.0,True,True,219,208,219,208,6,7,120,120,18,19,18,True,True,True
+37943,T20I,False,India Won by 135 runs,run,135.0,True,True,283,148,283,148,1,10,120,110,18,19,18,True,True,True
+37926,T20I,False,Pakistan Won by 57 runs,run,57.0,True,True,165,108,165,108,4,10,120,93,25,72,25,True,True,True
+37927,T20I,False,Pakistan Won by 10 wickets,wicket,10.0,True,True,57,61,57,61,10,0,76,33,72,25,25,False,True,True
+37928,T20I,False,Zimbabwe Won by 2 wickets,wicket,2.0,True,True,132,133,132,133,7,8,120,119,25,72,72,False,True,True
+40694,IPL,False,Royal Challengers Bengaluru Won by 7 wickets,wicket,7.0,True,True,174,177,174,177,8,3,120,98,8,5,5,False,True,True
+40695,IPL,False,Sunrisers Hyderabad Won by 44 runs,run,44.0,True,True,286,242,282,242,6,6,120,120,242,3,242,True,True,False
+40696,IPL,False,Chennai Super Kings Won by 4 wickets,wicket,4.0,True,True,155,158,155,158,9,6,120,115,2,1,1,False,True,True
+40697,IPL,False,Delhi Capitals Won by 1 wickets,wicket,1.0,True,True,209,211,209,211,8,9,120,117,3509,7,7,False,True,True
+40698,IPL,False,Punjab Kings Won by 11 runs,run,11.0,True,True,243,232,243,232,5,5,120,120,4,3508,4,True,True,True
+40699,IPL,False,Kolkata Knight Riders Won by 8 wickets,wicket,8.0,True,True,151,153,151,153,9,2,120,105,3,8,8,False,True,True
+40700,IPL,False,Lucknow Super Giants Won by 5 wickets,wicket,5.0,True,True,190,193,190,193,9,5,120,97,242,3509,3509,False,True,True
+40701,IPL,False,Royal Challengers Bengaluru Won by 50 runs,run,50.0,True,True,196,146,196,146,7,8,120,120,5,1,5,True,True,True
+40702,IPL,False,Gujarat Titans Won by 36 runs,run,36.0,True,True,196,160,196,160,8,6,120,120,3508,2,3508,True,True,True
+40703,IPL,False,Delhi Capitals Won by 7 wickets,wicket,7.0,True,True,163,166,163,166,10,3,112,96,242,7,7,False,True,True
+40704,IPL,False,Rajasthan Royals Won by 6 runs,run,6.0,True,True,182,176,182,176,9,6,120,120,3,1,3,True,True,True
+40705,IPL,False,Mumbai Indians Won by 8 wickets,wicket,8.0,True,True,116,121,116,121,10,2,98,77,8,2,2,False,True,True
+40706,IPL,False,Punjab Kings Won by 8 wickets,wicket,8.0,True,True,171,177,171,177,7,2,120,98,3509,4,4,False,True,True
+40707,IPL,False,Gujarat Titans Won by 8 wickets,wicket,8.0,True,True,169,170,169,170,8,2,120,107,5,3508,3508,False,True,True
+40708,IPL,False,Kolkata Knight Riders Won by 80 runs,run,80.0,True,True,200,120,200,120,6,10,120,100,8,242,8,True,True,True
+40709,IPL,False,Lucknow Super Giants Won by 12 runs,run,12.0,True,True,203,191,203,191,8,5,120,120,3509,2,3509,True,True,True
+40710,IPL,False,Delhi Capitals Won by 25 runs,run,25.0,True,True,183,158,183,158,6,5,120,120,7,1,7,True,True,True
+40711,IPL,False,Rajasthan Royals Won by 50 runs,run,50.0,True,True,205,155,205,155,4,9,120,120,3,4,3,True,True,True
+40712,IPL,False,Lucknow Super Giants Won by 4 runs,run,4.0,True,True,238,234,238,234,3,7,120,120,3509,8,3509,True,True,True
+40713,IPL,False,Gujarat Titans Won by 7 wickets,wicket,7.0,True,True,152,153,152,153,8,3,120,100,242,3508,3508,False,True,True
+40714,IPL,False,Royal Challengers Bengaluru Won by 12 runs,run,12.0,True,True,221,209,221,209,5,9,120,120,5,2,5,True,True,True
+40715,IPL,False,Punjab Kings Won by 18 runs,run,18.0,True,True,219,201,219,201,6,5,120,120,4,1,4,True,True,True
+40716,IPL,False,Gujarat Titans Won by 58 runs,run,58.0,True,True,217,159,217,159,6,10,120,116,3508,3,3508,True,True,True
+40717,IPL,False,Delhi Capitals Won by 6 wickets,wicket,6.0,True,True,163,169,163,169,7,4,120,107,5,7,7,False,True,True
+40718,IPL,False,Kolkata Knight Riders Won by 8 wickets,wicket,8.0,True,True,103,107,103,107,9,2,120,61,1,8,8,False,True,True
+40719,IPL,False,Lucknow Super Giants Won by 6 wickets,wicket,6.0,True,True,180,186,180,186,6,4,120,117,3508,3509,3509,False,True,True
+40720,IPL,False,Sunrisers Hyderabad Won by 8 wickets,wicket,8.0,True,True,245,247,245,247,6,2,120,111,4,242,242,False,True,True
+40721,IPL,False,Royal Challengers Bengaluru Won by 9 wickets,wicket,9.0,True,True,173,175,173,175,4,1,120,105,3,5,5,False,True,True
+40722,IPL,False,Mumbai Indians Won by 12 runs,run,12.0,True,True,205,193,205,193,5,10,120,114,2,7,2,True,True,True
+40723,IPL,False,Chennai Super Kings Won by 5 wickets,wicket,5.0,True,True,166,168,166,168,7,5,120,117,3509,1,1,False,True,True
+40724,IPL,False,Punjab Kings Won by 16 runs,run,16.0,True,True,111,95,111,95,10,10,93,91,4,8,4,True,True,True
+40726,IPL,False,Mumbai Indians Won by 4 wickets,wicket,4.0,True,True,162,166,162,166,5,6,120,109,242,2,2,False,True,True
+40727,IPL,True,Punjab Kings Won by 5 wickets,wicket,5.0,True,True,95,98,95,98,9,5,84,73,5,4,4,False,True,True
+40728,IPL,False,Gujarat Titans Won by 7 wickets,wicket,7.0,True,True,203,204,203,204,8,3,120,116,7,3508,3508,False,True,True
+40729,IPL,False,Lucknow Super Giants Won by 2 runs,run,2.0,True,True,180,178,180,178,5,5,120,120,3509,3,3509,True,True,True
+40730,IPL,False,Royal Challengers Bengaluru Won by 7 wickets,wicket,7.0,True,True,157,159,157,159,6,3,120,113,4,5,5,False,True,True
+40731,IPL,False,Mumbai Indians Won by 9 wickets,wicket,9.0,True,True,176,177,176,177,5,1,120,94,1,2,2,False,True,True
+40732,IPL,False,Gujarat Titans Won by 39 runs,run,39.0,True,True,198,159,198,159,3,8,120,120,3508,8,3508,True,True,True
+40733,IPL,False,Delhi Capitals Won by 8 wickets,wicket,8.0,True,True,159,161,159,161,6,2,120,107,3509,7,7,False,True,True
+40734,IPL,False,Mumbai Indians Won by 7 wickets,wicket,7.0,True,True,143,146,143,146,8,3,120,94,242,2,2,False,True,True
+40735,IPL,False,Royal Challengers Bengaluru Won by 11 runs,run,11.0,True,True,205,194,205,194,5,9,120,120,5,3,5,True,True,True
+40736,IPL,False,Sunrisers Hyderabad Won by 5 wickets,wicket,5.0,True,True,154,155,154,155,10,5,119,112,1,242,242,False,True,True
+40738,IPL,False,Mumbai Indians Won by 54 runs,run,54.0,True,True,215,161,215,161,7,10,120,120,2,3509,2,True,True,True
+40739,IPL,False,Royal Challengers Bengaluru Won by 6 wickets,wicket,6.0,True,True,162,165,162,165,8,4,120,111,7,5,5,False,True,True
+40740,IPL,False,Rajasthan Royals Won by 8 wickets,wicket,8.0,True,True,209,212,209,212,4,2,120,95,3508,3,3,False,True,True
+40741,IPL,False,Kolkata Knight Riders Won by 14 runs,run,14.0,True,True,204,190,204,190,9,9,120,120,8,7,8,True,True,True
+40742,IPL,False,Punjab Kings Won by 4 wickets,wicket,4.0,True,True,190,194,190,194,10,6,116,118,1,4,4,False,True,True
+40743,IPL,False,Mumbai Indians Won by 100 runs,run,100.0,True,True,217,117,217,117,2,10,120,97,2,3,2,True,True,True
+40744,IPL,False,Gujarat Titans Won by 38 runs,run,38.0,True,True,224,186,224,186,6,6,120,120,3508,242,3508,True,True,True
+40745,IPL,False,Royal Challengers Bengaluru Won by 2 runs,run,2.0,True,True,213,211,213,211,5,5,120,120,5,1,5,True,True,True
+40746,IPL,False,Kolkata Knight Riders Won by 1 run,run,1.0,True,True,206,205,206,205,4,8,120,120,8,3,8,True,True,True
+40747,IPL,False,Punjab Kings Won by 37 runs,run,37.0,True,True,236,199,236,199,5,7,120,120,4,3509,4,True,True,True
+40749,IPL,True,Gujarat Titans Won by 3 wickets (DLS Method),wicket,3.0,True,True,155,147,155,147,8,7,120,114,2,3508,3508,False,False,False
+40750,IPL,False,Chennai Super Kings Won by 2 wickets,wicket,2.0,True,True,179,183,179,183,6,8,120,118,8,1,1,False,True,True
+40752,IPL,False,Royal Challengers Bengaluru Won by 6 wickets,wicket,6.0,True,True,227,230,227,230,3,4,120,112,3509,5,5,False,True,True
+40753,IPL,False,Sunrisers Hyderabad Won by 110 runs,run,110.0,True,True,278,168,278,168,3,10,120,112,242,8,242,True,True,True
+40754,IPL,False,Punjab Kings Won by 7 wickets,wicket,7.0,True,True,184,187,184,187,7,3,120,111,2,4,4,False,True,True
+40755,IPL,False,Gujarat Titans Won by 10 wickets,wicket,10.0,True,True,199,205,199,205,3,0,120,114,7,3508,3508,False,True,True
+40756,IPL,False,Rajasthan Royals Won by 6 wickets,wicket,6.0,True,True,187,188,186,188,8,4,120,103,1,3,3,False,True,True
+40757,IPL,False,Sunrisers Hyderabad Won by 42 runs,run,42.0,True,True,231,189,231,189,6,10,120,119,242,5,242,True,True,True
+40758,IPL,False,Lucknow Super Giants Won by 33 runs,run,33.0,True,True,235,202,235,202,2,9,120,120,3509,3508,3509,True,True,True
+40759,IPL,False,Mumbai Indians Won by 59 runs,run,59.0,True,True,180,121,180,121,5,10,120,110,2,7,2,True,True,True
+40760,IPL,False,Punjab Kings Won by 10 runs,run,10.0,True,True,219,209,219,209,5,7,120,120,4,3,4,True,True,True
+40762,IPL,False,Chennai Super Kings Won by 83 runs,run,83.0,True,True,230,147,230,147,5,10,120,111,1,3508,1,True,True,True
+40763,IPL,False,Sunrisers Hyderabad Won by 6 wickets,wicket,6.0,True,True,205,206,205,206,7,4,120,110,3509,242,242,False,True,True
+40764,IPL,False,Royal Challengers Bengaluru Won by 8 wickets,wicket,8.0,True,True,101,106,101,106,10,2,85,60,4,5,5,False,True,True
+40765,IPL,False,Mumbai Indians Won by 20 runs,run,20.0,True,True,228,208,228,208,5,6,120,120,2,3508,2,True,True,True
+40766,IPL,False,Punjab Kings Won by 5 wickets,wicket,5.0,True,True,203,207,203,207,6,5,120,114,2,4,4,False,True,True
+40767,IPL,False,Royal Challengers Bengaluru Won by 6 runs,run,6.0,True,True,190,184,190,184,9,7,120,120,5,4,5,True,True,True
+43057,IPL,False,Delhi Capitals Won by 6 wickets,wicket,6.0,True,True,206,208,206,207,8,4,120,117,4,7,7,False,True,True
+38626,T20I,False,Zimbabwe Won by 4 wickets,wicket,4.0,True,True,144,145,144,145,6,6,120,120,78,72,72,False,True,True
+38627,T20I,False,Afghanistan Won by 50 runs,run,50.0,True,True,153,103,153,103,6,10,120,106,78,72,78,True,True,True
+38628,T20I,False,Afghanistan Won by 3 wickets,wicket,3.0,True,True,127,128,127,128,10,7,119,117,72,78,78,False,True,True
+38632,T20I,False,New Zealand Won by 8 runs,run,8.0,True,True,172,164,172,164,8,8,120,120,17,27,17,True,True,True
+38633,T20I,False,New Zealand Won by 45 runs,run,45.0,True,True,186,141,186,141,5,10,120,115,17,27,17,True,True,True
+38634,T20I,False,Sri Lanka Won by 7 runs,run,7.0,True,True,218,211,218,211,5,7,120,120,27,17,27,True,True,True
+39808,T20I,False,New Zealand Won by 9 wickets,wicket,9.0,True,True,91,92,91,92,10,1,112,61,25,17,17,False,True,True
+39809,T20I,True,New Zealand Won by 5 wickets,wicket,5.0,True,True,135,137,135,137,9,5,90,79,25,17,17,False,True,True
+39810,T20I,False,Pakistan Won by 9 wickets,wicket,9.0,True,True,204,207,204,207,10,1,119,96,17,25,25,False,True,True
+39811,T20I,False,New Zealand Won by 115 runs,run,115.0,True,True,220,105,219,105,6,10,120,98,17,25,17,True,True,False
+39812,T20I,False,New Zealand Won by 8 wickets,wicket,8.0,True,True,128,131,128,131,9,2,120,60,25,17,17,False,True,True
+39984,T20I,False,Zimbabwe Won by 3 wickets,wicket,3.0,True,True,137,141,137,141,8,7,120,116,23,72,72,False,True,True
+41504,T20I,False,West Indies Won by 62 runs,run,62.0,True,True,256,194,256,194,5,7,120,120,28,23,28,True,True,True
+41505,T20I,False,Australia Won by 3 wickets,wicket,3.0,True,True,189,190,189,190,8,7,120,113,28,20,20,False,True,True
+41506,T20I,False,Australia Won by 8 wickets,wicket,8.0,True,True,172,173,172,173,8,2,120,92,28,20,20,False,True,True
+41507,T20I,False,Australia Won By 6 Wickets,wicket,6.0,True,True,214,215,214,215,4,4,120,97,28,20,20,False,True,True
+41508,T20I,False,Australia Won by 3 wickets,wicket,3.0,True,True,205,206,205,206,9,7,120,116,28,20,20,False,True,True
+41509,T20I,False,Australia Won by 3 wickets,wicket,3.0,True,True,170,173,170,173,10,7,119,102,28,20,20,False,True,True
+41510,T20I,False,Pakistan Won by 14 runs,run,14.0,True,True,178,164,178,164,6,7,120,120,25,28,25,True,True,True
+41511,T20I,False,West Indies Won by 2 wickets,wicket,2.0,True,True,133,135,133,135,9,8,120,120,25,28,28,False,True,True
+41512,T20I,False,Pakistan Won by 13 runs,run,13.0,True,True,189,176,189,176,4,6,120,120,25,28,25,True,True,True
+41849,T20I,False,South Africa Won by 9 wickets,wicket,9.0,True,True,173,176,173,176,7,1,120,107,28,19,19,False,True,True
+41850,T20I,False,South Africa Won by 7 wickets,wicket,7.0,True,True,221,225,221,225,4,3,120,105,28,19,19,False,True,True
+41851,T20I,True,West Indies Won by 6 runs(DLS Method),run,6.0,True,True,114,118,114,118,3,6,60,60,28,19,28,True,False,False
+41969,T20I,False,Australia Won by 17 runs,run,17.0,True,True,178,161,178,161,10,9,120,120,20,19,20,True,True,True
+41970,T20I,False,South Africa Won by 53 runs,run,53.0,True,True,218,165,218,165,7,10,120,106,19,20,19,True,True,True
+41971,T20I,False,Australia Won by 2 wickets,wicket,2.0,True,True,172,173,172,173,7,8,120,119,19,20,20,False,True,True
+41976,T20I,False,Australia Won by 4 wickets,wicket,4.0,True,True,125,126,125,126,10,6,112,80,18,20,20,False,True,True
+41977,T20I,False,India Won by 5 wickets,wicket,5.0,True,True,186,188,186,188,6,5,120,111,20,18,18,False,True,True
+41978,T20I,False,India Won by 48 runs,run,48.0,True,True,167,119,167,119,8,10,120,110,18,20,18,True,True,True
+42027,T20I,False,India Won by 101 runs,run,101.0,True,True,175,74,175,74,6,10,120,75,18,19,18,True,True,True
+42028,T20I,False,South Africa Won by 51 runs,run,51.0,True,True,213,162,213,162,4,10,120,115,19,18,19,True,True,True
+42029,T20I,False,India Won by 7 wickets,wicket,7.0,True,True,117,120,117,120,10,3,120,95,19,18,18,False,True,True
+42031,T20I,False,India Won by 30 runs,run,30.0,True,True,231,201,231,201,5,8,120,120,18,19,18,True,True,True
+42742,T20I,False,Pakistan Won by 37 runs,run,37.0,True,True,201,164,201,164,7,10,120,116,25,21,25,True,True,True
+42743,T20I,False,Pakistan Won by 57 runs,run,57.0,True,True,201,144,201,144,6,9,120,114,25,21,25,True,True,True
+42744,T20I,False,Pakistan Won by 7 wickets,wicket,7.0,True,True,196,197,196,197,6,3,120,104,21,25,25,False,True,True
+42783,T20I,False,Bangladesh Won by 27 runs,run,27.0,True,True,191,164,191,164,7,10,120,120,21,272,21,True,True,True
+42784,T20I,False,United Arab Emirates Won by 2 wickets,wicket,2.0,True,True,205,206,205,206,5,8,120,119,21,272,272,False,True,True
+43171,T20I,False,United Arab Emirates Won by 7 wickets,wicket,7.0,True,True,162,166,162,166,9,3,120,115,21,272,272,False,True,True
+43592,T20I,False,Sri Lanka Won by 7 wickets,wicket,7.0,True,True,154,159,154,159,5,3,120,114,21,27,27,False,True,True
+43594,T20I,False,Bangladesh Won by 83 runs,run,83.0,True,True,177,94,177,94,7,10,120,92,21,27,21,True,True,True
+43595,T20I,False,Bangladesh Won by 8 wickets,wicket,8.0,True,True,132,133,132,133,7,2,120,99,27,21,21,False,True,True
+44265,T20I,False,Bangladesh Won by 7 wickets,wicket,7.0,True,True,110,112,110,112,10,3,117,93,25,21,21,False,True,True
+44266,T20I,False,Bangladesh Won by 8 runs,run,8.0,True,True,133,125,133,125,10,10,120,116,21,25,21,True,True,True
+44267,T20I,False,Pakistan Won by 74 runs,run,74.0,True,True,178,104,178,104,7,10,120,100,25,21,25,True,True,True
+45391,T20I,False,England Won by 4 wickets,wicket,4.0,True,True,190,191,190,191,7,6,120,114,18,22,22,False,True,True
+45392,T20I,False,England Won by 125 runs,run,125.0,True,True,201,76,201,76,7,10,120,70,22,18,22,True,True,True
+45393,T20I,False,England Won by 9 wickets,wicket,9.0,True,True,158,159,158,159,7,1,120,83,18,22,22,False,True,True
+45394,T20I,False,England Won by 56 runs,run,56.0,True,True,257,201,257,201,3,8,120,120,22,18,22,True,True,True
+45489,T20I,False,England Won by 119 runs,run,119.0,True,True,254,135,254,135,4,10,120,114,22,27,22,True,True,True
+45490,T20I,False,England Won by 6 wickets,wicket,6.0,True,True,145,146,145,146,9,4,120,73,27,22,22,False,True,True
+45491,T20I,False,England Won by 8 wickets,wicket,8.0,True,True,124,126,124,126,10,2,113,58,27,22,22,False,True,True
+45495,T20I,False,Afghanistan Won by 94 runs,run,94.0,True,True,188,94,188,94,6,9,120,120,78,283,78,True,True,True
+45496,T20I,False,India Won by 9 wickets,wicket,9.0,True,True,57,60,57,60,10,1,79,27,272,18,18,False,True,True
+45497,T20I,False,Bangladesh Won by 7 wickets,wicket,7.0,True,True,143,144,143,144,7,3,120,106,283,21,21,False,True,True
+45498,T20I,False,Pakistan Won by 93 runs,run,93.0,True,True,160,67,160,67,7,10,120,100,25,313,25,True,True,True
+45499,T20I,False,Sri Lanka Won by 6 wickets,wicket,6.0,True,True,139,140,139,140,5,4,120,88,21,27,27,False,True,True
+45500,T20I,False,India Won by 7 wickets,wicket,7.0,True,True,127,131,127,131,9,3,120,95,25,18,18,False,True,True
+45501,T20I,False,United Arab Emirates Won by 42 runs,run,42.0,True,True,172,130,172,130,5,10,120,112,272,313,272,True,True,True
+45502,T20I,False,Sri Lanka Won by 4 wickets,wicket,4.0,True,True,149,153,149,153,4,6,120,113,283,27,27,False,True,True
+45503,T20I,False,Bangladesh Won by 8 runs,run,8.0,True,True,154,146,154,146,5,10,120,120,21,78,21,True,True,True
+45504,T20I,False,Pakistan Won by 41 runs,run,41.0,True,True,146,105,146,105,9,10,120,106,25,272,25,True,True,True
+45505,T20I,False,Sri Lanka Won by 6 wickets,wicket,6.0,True,True,169,171,169,171,8,4,120,112,78,27,27,False,True,True
+45506,T20I,False,India Won by 21 runs,run,21.0,True,True,188,167,188,167,8,4,120,120,18,313,18,True,True,True
+45507,T20I,False,Bangladesh Won by 4 wickets,wicket,4.0,True,True,168,169,168,169,7,6,120,119,27,21,21,False,True,True
+45508,T20I,False,India Won by 6 wickets,wicket,6.0,True,True,171,174,171,174,5,4,120,113,25,18,18,False,True,True
+45509,T20I,False,Pakistan Won by 5 wickets,wicket,5.0,True,True,133,138,133,138,8,5,120,108,27,25,25,False,True,True
+45510,T20I,False,India Won by 41 runs,run,41.0,True,True,168,127,168,127,6,10,120,117,18,21,18,True,True,True
+45511,T20I,False,Pakistan Won by 11 runs,run,11.0,True,True,135,124,135,124,8,9,120,120,25,21,25,True,True,True
+45513,T20I,False,India Won by 5 wickets,wicket,5.0,True,True,146,150,146,150,10,5,115,118,25,18,18,False,True,True
+45851,T20I,False,Pakistan Won by 39 runs,run,39.0,True,True,182,143,182,143,7,10,120,119,25,78,25,True,True,True
+45852,T20I,False,Pakistan Won by 31 runs,run,31.0,True,True,207,176,207,176,10,8,120,120,25,272,25,True,True,True
+45853,T20I,False,Afghanistan Won by 38 runs,run,38.0,True,True,188,150,188,150,4,8,120,120,78,272,78,True,True,True
+45854,T20I,False,Afghanistan Won by 18 runs,run,18.0,True,True,169,151,169,151,5,9,120,120,78,25,78,True,True,True
+45855,T20I,False,Pakistan Won by 31 runs,run,31.0,True,True,171,140,171,140,5,7,120,120,25,272,25,True,True,True
+45856,T20I,False,Afghanistan Won by 4 runs,run,4.0,True,True,170,166,170,166,4,5,120,120,78,272,78,True,True,True
+45857,T20I,False,Pakistan Won by 75 runs,run,75.0,True,True,141,66,141,66,8,10,120,95,25,78,25,True,True,True
+45903,T20I,False,Sri Lanka Won by 4 wickets,wicket,4.0,True,True,175,177,175,177,7,6,120,115,72,27,27,False,True,True
+45904,T20I,False,Zimbabwe Won by 5 wickets,wicket,5.0,True,True,80,84,80,84,10,5,106,86,27,72,72,False,True,True
+45905,T20I,False,Sri Lanka Won by 8 wickets,wicket,8.0,True,True,191,193,191,193,8,2,120,106,72,27,27,False,True,True
+45906,T20I,False,Bangladesh Won by 8 wickets,wicket,8.0,True,True,136,138,136,138,8,2,120,81,24,21,21,False,True,True
+45907,T20I,False,Bangladesh Won by 9 wickets,wicket,9.0,True,True,103,104,103,104,10,1,105,79,24,21,21,False,True,True
+46007,T20I,False,England Won by 4 wickets,wicket,4.0,True,True,196,197,196,197,3,6,120,106,23,22,22,False,True,True
+46009,T20I,False,England Won by 6 wickets,wicket,6.0,True,True,154,155,154,155,8,4,120,103,23,22,22,False,True,True
+46249,T20I,False,Nepal Won by 19 runs,run,19.0,True,True,148,129,148,129,8,9,120,120,282,28,282,True,True,True
+46250,T20I,False,Nepal Won by 90 runs,run,90.0,True,True,173,83,173,83,6,10,120,103,282,28,282,True,True,True
+46251,T20I,False,West Indies Won by 10 wickets,wicket,10.0,True,True,122,123,122,123,10,0,119,74,282,28,28,False,True,True
+46310,T20I,False,Australia Won by 6 wickets,wicket,6.0,True,True,181,185,181,185,6,4,120,99,17,20,20,False,True,True
+46312,T20I,False,Australia Won by 3 wickets,wicket,3.0,True,True,156,160,156,160,9,7,120,108,17,20,20,False,True,True
+46740,T20I,False,South Africa Won by 55 runs,run,55.0,True,True,194,139,194,138,9,10,120,109,19,25,19,True,True,False
+46741,T20I,False,Pakistan Won by 9 wickets,wicket,9.0,True,True,110,112,110,112,10,1,116,79,19,25,25,False,True,True
+46742,T20I,False,Pakistan Won by 4 wickets,wicket,4.0,True,True,139,140,139,140,9,6,120,114,19,25,25,False,True,True
+46748,T20I,False,England Won by 65 runs,run,65.0,True,True,236,171,236,171,4,10,120,108,22,17,22,True,True,True
+46753,T20I,False,Bangladesh Won by 4 wickets,wicket,4.0,True,True,151,153,151,153,9,6,120,112,78,21,21,False,True,True
+46754,T20I,False,Bangladesh Won by 2 wickets,wicket,2.0,True,True,147,150,147,150,5,8,120,115,78,21,21,False,True,True
+46755,T20I,False,Bangladesh Won by 6 wickets,wicket,6.0,True,True,143,144,143,144,9,4,120,108,78,21,21,False,True,True
+46940,T20I,False,West Indies Won by 16 runs,run,16.0,True,True,165,149,165,149,3,10,120,118,28,21,28,True,True,True
+46941,T20I,False,West Indies Won by 14 runs,run,14.0,True,True,149,135,149,135,9,8,120,120,28,21,28,True,True,True
+46942,T20I,False,West Indies Won by 5 wickets,wicket,5.0,True,True,151,152,151,152,10,5,120,101,21,28,28,False,True,True
+47241,T20I,False,Ireland Won by 39 runs,run,39.0,True,True,181,142,181,142,4,9,120,120,23,21,23,True,True,True
+47242,T20I,False,Bangladesh Won by 4 wickets,wicket,4.0,True,True,170,174,170,174,6,6,120,118,23,21,21,False,True,True
+47243,T20I,False,Bangladesh Won by 8 wickets,wicket,8.0,True,True,117,119,117,119,10,2,119,82,23,21,21,False,True,True
+47260,T20I,False,Afghanistan Won by 53 runs,run,53.0,True,True,180,127,180,127,6,10,120,97,78,72,78,True,True,True
+47261,T20I,False,Afghanistan Won by 7 wickets,wicket,7.0,True,True,125,129,125,129,10,3,117,108,72,78,78,False,True,True
+47262,T20I,False,Afghanistan Won by 9 runs,run,9.0,True,True,210,201,210,201,3,10,120,120,78,72,78,True,True,True
+47965,T20I,False,West Indies Won by 7 runs,run,7.0,True,True,164,157,164,157,6,9,120,120,28,17,28,True,True,True
+47966,T20I,False,New Zealand Won by 3 runs,run,3.0,True,True,207,204,207,204,5,8,120,120,17,28,17,True,True,True
+47967,T20I,False,New Zealand Won by 9 runs,run,9.0,True,True,177,168,177,168,9,10,120,119,17,28,17,True,True,True
+47969,T20I,False,New Zealand Won by 8 wickets,wicket,8.0,True,True,140,141,140,141,10,2,112,94,28,17,17,False,True,True
+47976,T20I,False,Pakistan Won by 5 wickets,wicket,5.0,True,True,147,151,147,151,8,5,120,116,72,25,25,False,True,True
+47977,T20I,False,Zimbabwe Won by 67 runs,run,67.0,True,True,162,95,162,95,8,10,120,120,72,27,72,True,True,True
+47978,T20I,False,Pakistan Won by 7 wickets,wicket,7.0,True,True,128,131,128,131,7,3,120,93,27,25,25,False,True,True
+47979,T20I,False,Pakistan Won by 69 runs,run,69.0,True,True,195,126,195,126,5,10,120,114,25,72,25,True,True,True
+47980,T20I,False,Sri Lanka Won by 9 wickets,wicket,9.0,True,True,146,148,146,148,5,1,120,98,72,27,27,False,True,True
+47981,T20I,False,Sri Lanka Won by 6 runs,run,6.0,True,True,184,178,184,178,5,7,120,120,27,25,27,True,True,True
+47982,T20I,False,Pakistan Won by 6 wickets,wicket,6.0,True,True,114,118,114,118,10,4,115,112,27,25,25,False,True,True
+48015,OTHER,False,Pakistan A Won by 40 runs,run,40.0,True,True,220,180,220,180,4,9,120,120,341,313,341,True,True,True
+48016,OTHER,False,India A Won by 148 runs,run,148.0,True,True,297,149,297,149,4,7,120,120,222,272,222,True,True,True
+48017,OTHER,False,Bangladesh A Won by 8 wickets,wicket,8.0,True,True,167,171,167,171,8,2,120,66,283,3093,3093,False,True,True
+48018,OTHER,False,Afghanistan A Won by 3 wickets,wicket,3.0,True,True,170,171,170,171,9,7,120,119,3674,4444,4444,False,True,True
+48019,OTHER,False,Oman Won by 2 wickets,wicket,2.0,True,True,154,155,154,155,6,8,120,120,272,313,313,False,True,True
+48020,OTHER,False,Pakistan A Won by 8 wickets,wicket,8.0,True,True,136,137,136,137,10,2,114,80,222,341,341,False,True,True
+48021,OTHER,False,Sri Lanka A Won by 7 wickets,wicket,7.0,True,True,117,120,117,120,9,3,120,83,283,3674,3674,False,True,True
+48022,OTHER,False,Bangladesh A Won by 8 wickets,wicket,8.0,True,True,78,79,78,79,10,2,112,81,4444,3093,3093,False,True,True
+48023,OTHER,False,Pakistan A Won by 9 wickets,wicket,9.0,True,True,59,61,59,61,10,1,108,32,272,341,341,False,True,True
+48024,OTHER,False,India A Won by 6 wickets,wicket,6.0,True,True,135,138,135,138,7,4,120,107,313,222,222,False,True,True
+48025,OTHER,False,Afghanistan A Won by 24 runs,run,24.0,True,True,140,116,140,116,6,9,120,120,4444,283,4444,True,True,True
+48026,OTHER,False,Sri Lanka A Won by 6 runs,run,6.0,True,True,159,153,159,153,7,6,120,120,3674,3093,3674,True,True,True
+48028,OTHER,False,Pakistan A Won by 5 runs,run,5.0,True,True,153,148,153,148,9,9,120,120,341,3674,341,True,True,True
+50125,IPL,False,Royal Challengers Bengaluru Won by 6 wickets,wicket,6.0,True,True,201,203,201,203,9,4,120,94,242,5,5,False,True,True
+50126,IPL,False,Mumbai Indians Won by 6 wickets,wicket,6.0,True,True,220,224,220,224,4,4,120,115,8,2,2,False,True,True
+50127,IPL,False,Rajasthan Royals Won by 8 wickets,wicket,8.0,True,True,127,128,127,128,10,2,118,73,1,3,3,False,True,True
+50128,IPL,False,Punjab Kings Won by 3 wickets,wicket,3.0,True,True,162,165,162,165,6,7,120,115,3508,4,4,False,True,True
+50129,IPL,False,Delhi Capitals Won by 6 wickets,wicket,6.0,True,True,141,145,141,145,10,4,112,103,3509,7,7,False,True,True
+50130,IPL,False,Sunrisers Hyderabad Won by 65 runs,run,65.0,True,True,226,161,226,161,8,10,120,96,242,8,242,True,True,True
+50131,IPL,False,Punjab Kings Won by 5 wickets,wicket,5.0,True,True,209,210,209,210,5,5,120,112,1,4,4,False,True,True
+50132,IPL,False,Delhi Capitals Won by 6 wickets,wicket,6.0,True,True,162,164,162,164,6,4,120,109,2,7,7,False,True,True
+50133,IPL,False,Rajasthan Royals Won by 6 runs,run,6.0,True,True,210,204,210,204,6,8,120,120,3,3508,3,True,True,True
+50134,IPL,False,Lucknow Super Giants Won by 5 wickets,wicket,5.0,True,True,156,160,156,160,9,5,120,119,242,3509,3509,False,True,True
+50135,IPL,False,Royal Challengers Bengaluru Won by 43 runs,run,43.0,True,True,250,207,250,207,3,10,120,118,5,1,5,True,True,True
+50137,IPL,True,Rajasthan Royals Won by 27 runs,run,27.0,True,True,150,123,150,123,3,9,66,66,3,2,3,True,True,True
+50138,IPL,False,Gujarat Titans Won by 1 run,run,1.0,True,True,210,209,210,209,4,8,120,120,3508,7,3508,True,True,True
+50139,IPL,False,Lucknow Super Giants Won by 3 wickets,wicket,3.0,True,True,181,182,181,182,4,7,120,120,8,3509,3509,False,True,True
+50140,IPL,False,Rajasthan Royals Won by 6 wickets,wicket,6.0,True,True,201,202,201,202,8,4,120,108,5,3,3,False,True,True
+50141,IPL,False,Punjab Kings Won by 6 wickets,wicket,6.0,True,True,219,223,219,223,6,4,120,113,242,4,4,False,True,True
+50142,IPL,False,Chennai Super Kings Won by 23 runs,run,23.0,True,True,212,189,212,189,1,10,120,120,1,7,1,True,True,True
+50143,IPL,False,Gujarat Titans Won by 7 wickets,wicket,7.0,True,True,164,165,164,165,8,3,120,112,3509,3508,3508,False,True,True
+50144,IPL,False,Royal Challengers Bengaluru Won by 18 runs,run,18.0,True,True,240,222,240,222,4,5,120,120,5,2,5,True,True,True
+50342,IPL,False,Sunrisers Hyderabad Won by 57 runs,run,57.0,True,True,216,159,216,159,6,10,120,114,242,3,242,True,True,True
+50343,IPL,False,Chennai Super Kings Won by 32 runs,run,32.0,True,True,192,160,192,160,5,7,120,120,1,8,1,True,True,True
+50344,IPL,False,Royal Challengers Bengaluru Won by 5 wickets,wicket,5.0,True,True,146,149,146,149,10,5,120,91,3509,5,5,False,True,True
+50345,IPL,False,Punjab Kings Won by 7 wickets,wicket,7.0,True,True,195,198,195,198,6,3,120,99,2,4,4,False,True,True
+50346,IPL,False,Gujarat Titans Won by 5 wickets,wicket,5.0,True,True,180,181,180,181,10,5,120,118,8,3508,3508,False,True,True
+50347,IPL,False,Delhi Capitals Won by 6 wickets,wicket,6.0,True,True,175,179,175,179,8,4,120,119,5,7,7,False,True,True
+50348,IPL,False,Sunrisers Hyderabad Won by 10 runs,run,10.0,True,True,194,184,194,184,9,8,120,120,242,1,242,True,True,True
+50349,IPL,False,Kolkata Knight Riders Won by 4 wickets,wicket,4.0,True,True,155,161,155,161,9,6,120,118,3,8,8,False,True,True
+50350,IPL,False,Punjab Kings Won by 54 runs,run,54.0,True,True,254,200,254,200,7,5,120,120,4,3509,4,True,True,True
+50351,IPL,False,Mumbai Indians Won by 99 runs,run,99.0,True,True,199,100,199,100,5,10,120,95,2,3508,2,True,True,True
+50352,IPL,False,Sunrisers Hyderabad Won by 47 runs,run,47.0,True,True,242,195,242,195,2,9,120,120,242,7,242,True,True,True
+50353,IPL,False,Rajasthan Royals Won by 40 runs,run,40.0,True,True,159,119,159,119,6,10,120,108,3,3509,3,True,True,True
+50354,IPL,False,Chennai Super Kings Won by 103 runs,run,103.0,True,True,207,104,207,104,6,10,120,114,1,2,1,True,True,True
+50355,IPL,False,Royal Challengers Bengaluru Won by 5 wickets,wicket,5.0,True,True,205,206,205,206,3,5,120,113,3508,5,5,False,True,True
+50356,IPL,False,Punjab Kings Won by 6 wickets,wicket,6.0,True,True,264,265,264,265,2,4,120,113,7,4,4,False,True,True
+50357,IPL,False,Sunrisers Hyderabad Won by 5 wickets,wicket,5.0,True,True,228,229,228,229,6,5,120,111,3,242,242,False,True,True
+50358,IPL,False,Gujarat Titans Won by 8 wickets,wicket,8.0,True,True,158,162,158,162,7,2,120,100,1,3508,3508,False,True,True
+50360,IPL,False,Royal Challengers Bengaluru Won by 9 wickets,wicket,9.0,True,True,75,77,75,77,10,1,99,39,7,5,5,False,True,True
+50361,IPL,False,Rajasthan Royals Won by 6 wickets,wicket,6.0,True,True,222,228,222,228,4,4,120,116,4,3,3,False,True,True
+50362,IPL,False,Sunrisers Hyderabad Won by 6 wickets,wicket,6.0,True,True,243,249,243,249,5,4,120,112,2,242,242,False,True,True
+50363,IPL,False,Gujarat Titans Won by 4 wickets,wicket,4.0,True,True,155,158,155,158,10,6,116,95,5,3508,3508,False,True,True
+50364,IPL,False,Delhi Capitals Won by 7 wickets,wicket,7.0,True,True,225,226,225,226,6,3,120,115,3,7,7,False,True,True
+50365,IPL,False,Chennai Super Kings Won by 8 wickets,wicket,8.0,True,True,159,160,159,160,7,2,120,109,2,1,1,False,True,True
+50366,IPL,False,Kolkata Knight Riders Won by 7 wickets,wicket,7.0,True,True,165,169,165,169,10,3,114,110,242,8,8,False,True,True
+50367,IPL,False,Gujarat Titans Won by 4 wickets,wicket,4.0,True,True,163,167,163,167,9,6,120,119,4,3508,3508,False,True,True
+50368,IPL,False,Mumbai Indians Won by 6 wickets,wicket,6.0,True,True,228,229,228,229,5,4,120,112,3509,2,2,False,True,True
+50369,IPL,False,Chennai Super Kings Won by 8 wickets,wicket,8.0,True,True,155,159,155,159,7,2,120,105,7,1,1,False,True,True
+50370,IPL,False,Sunrisers Hyderabad Won by 33 runs,run,33.0,True,True,235,202,235,202,4,7,120,120,242,4,242,True,True,True
+50371,IPL,True,Lucknow Super Giants Won by 9 runs (DLS method),run,9.0,True,True,209,203,209,203,3,6,114,114,3509,5,3509,True,False,False
+50372,IPL,False,Kolkata Knight Riders Won by 8 wickets,wicket,8.0,True,True,142,147,142,147,8,2,120,86,7,8,8,False,True,True
+50373,IPL,False,Gujarat Titans Won by 77 runs,run,77.0,True,True,229,152,229,152,4,10,120,99,3508,3,3508,True,True,True
+50374,IPL,False,Chennai Super Kings Won by 5 wickets,wicket,5.0,True,True,203,208,203,208,8,5,120,116,3509,1,1,False,True,True
+50375,IPL,False,Royal Challengers Bengaluru Won by 2 wickets,wicket,2.0,True,True,166,167,166,167,7,8,120,120,2,5,5,False,True,True
+50376,IPL,False,Delhi Capitals Won by 3 wickets,wicket,3.0,True,True,210,216,210,216,5,7,120,114,4,7,7,False,True,True
+50377,IPL,False,Gujarat Titans Won by 82 runs,run,82.0,True,True,168,86,168,86,5,10,120,89,3508,242,3508,True,True,True
+50378,IPL,False,Royal Challengers Bengaluru Won by 6 wickets,wicket,6.0,True,True,192,194,192,194,4,4,120,115,8,5,5,False,True,True
+50379,IPL,False,Mumbai Indians Won by 6 wickets,wicket,6.0,True,True,200,205,200,205,8,4,120,119,4,2,2,False,True,True
+50380,IPL,False,Lucknow Super Giants Won by 7 wickets,wicket,7.0,True,True,187,188,187,188,5,3,120,100,1,3509,3509,False,True,True
+50381,IPL,False,Kolkata Knight Riders Won by 29 runs,run,29.0,True,True,247,218,247,218,2,4,120,120,8,3508,8,True,True,True
+50382,IPL,False,Royal Challengers Bengaluru Won by 23 runs,run,23.0,True,True,222,199,222,199,4,8,120,120,5,4,5,True,True,True
+50383,IPL,False,Delhi Capitals Won by 5 wickets,wicket,5.0,True,True,193,197,193,197,8,5,120,116,3,7,7,False,True,True
+50384,IPL,False,Sunrisers Hyderabad Won by 5 wickets,wicket,5.0,True,True,180,181,180,181,7,5,120,114,1,242,242,False,True,True
+50385,IPL,False,Rajasthan Royals Won by 7 wickets,wicket,7.0,True,True,220,225,220,225,5,3,120,115,3509,3,3,False,True,True
+50386,IPL,False,Kolkata Knight Riders Won by 4 wickets,wicket,4.0,True,True,147,148,147,148,8,6,120,113,2,8,8,False,True,True
+50387,IPL,False,Gujarat Titans Won by 89 runs,run,89.0,True,True,229,140,229,140,4,10,120,82,3508,1,3508,True,True,True
+50388,IPL,False,Sunrisers Hyderabad Won by 55 runs,run,55.0,True,True,255,200,255,200,4,4,120,120,242,5,242,True,True,True
+50389,IPL,False,Punjab Kings Won by 7 wickets,wicket,7.0,True,True,196,200,196,200,6,3,120,108,3509,4,4,False,True,True
+50390,IPL,False,Rajasthan Royals Won by 30 runs,run,30.0,True,True,205,175,205,175,8,9,120,120,3,2,3,True,True,True
+50391,IPL,False,Delhi Capitals Won by 40 runs,run,40.0,True,True,203,163,203,163,5,10,120,112,7,8,7,True,True,True
+50942,IPL,False,Royal Challengers Bengaluru Won by 92 runs,run,92.0,True,True,254,162,254,162,5,10,120,117,5,3508,5,True,True,True
+50943,IPL,False,Rajasthan Royals Won by 47 runs,run,47.0,True,True,243,196,243,196,8,10,120,116,3,242,3,True,True,True
+50944,IPL,False,Gujarat Titans Won by 7 wickets,wicket,7.0,True,True,214,219,214,219,6,3,120,112,3,3508,3508,False,True,True
+50945,IPL,False,Royal Challengers Bengaluru Won by 5 wickets,wicket,5.0,True,True,155,161,155,161,8,5,120,108,3508,5,5,False,True,True
+48466,T20I,False,Ireland Won by 57 runs,run,57.0,True,True,178,121,178,121,6,10,120,119,23,272,23,True,True,True
+48467,T20I,False,Ireland Won by 30 runs,run,30.0,True,True,170,140,169,140,7,8,120,120,23,272,23,True,True,False
+48512,T20I,False,Pakistan Won by 6 wickets,wicket,6.0,True,True,128,129,128,129,10,4,116,100,27,25,25,False,True,True
+48514,T20I,False,Sri Lanka Won by 14 runs,run,14.0,True,True,160,146,160,146,6,8,72,72,27,25,27,True,True,True
+48591,T20I,False,India Won by 48 runs,run,48.0,True,True,238,190,238,190,7,7,120,120,18,17,18,True,True,True
+48592,T20I,False,India Won by 7 wickets,wicket,7.0,True,True,208,209,208,209,6,3,120,92,17,18,18,False,True,True
+48593,T20I,False,India Won by 8 wickets,wicket,8.0,True,True,153,155,153,155,9,2,120,60,17,18,18,False,True,True
+48594,T20I,False,New Zealand Won by 50 runs,run,50.0,True,True,215,165,215,165,7,10,120,112,17,18,17,True,True,True
+48595,T20I,False,India Won by 46 runs,run,46.0,True,True,271,225,271,225,5,10,120,118,18,17,18,True,True,True
+48596,T20I,False,Afghanistan Won by 38 runs,run,38.0,True,True,181,143,181,143,3,9,120,120,78,28,78,True,True,True
+48597,T20I,False,Afghanistan Won by 39 runs,run,39.0,True,True,189,150,189,150,4,10,120,113,78,28,78,True,True,True
+48598,T20I,False,West Indies Won by 13 runs,run,13.0,True,True,151,138,151,138,7,8,120,120,28,78,28,True,True,True
+48610,T20I,True,England Won by 11 runs (DLS method),run,11.0,True,True,133,125,133,125,10,4,98,90,27,22,22,False,False,False
+48611,T20I,True,England Won by 6 wickets(DLS Method),wicket,6.0,True,True,189,173,189,173,5,4,120,100,27,22,22,False,False,False
+48612,T20I,False,England Won by 12 runs,run,12.0,True,True,128,116,128,116,9,10,120,117,22,27,22,True,True,True
+48915,T20I,False,Pakistan Won by 22 runs,run,22.0,True,True,168,146,168,146,8,8,120,120,25,20,25,True,True,True
+48916,T20I,False,Pakistan Won by 90 runs,run,90.0,True,True,198,108,198,108,5,10,120,94,25,20,25,True,True,True
+48917,T20I,False,Pakistan Won by 111 runs,run,111.0,True,True,207,96,207,96,6,9,120,101,25,20,25,True,True,True
+49736,T20I,False,South Africa Won by 7 wickets,wicket,7.0,True,True,91,93,91,93,10,3,87,100,17,19,19,False,True,True
+49737,T20I,False,New Zealand Won by 68 runs,run,68.0,True,True,175,107,175,107,6,10,120,93,17,19,17,True,True,True
+49738,T20I,False,New Zealand Won by 8 wickets,wicket,8.0,True,True,136,137,136,137,9,2,120,98,19,17,17,False,True,True
+49739,T20I,False,South Africa Won by 19 runs,run,19.0,True,True,164,145,164,145,5,10,120,113,19,17,19,True,True,True
+49740,T20I,False,South Africa Won by 33 runs,run,33.0,True,True,187,154,187,154,4,8,120,120,19,17,19,True,True,True
+50188,T20I,False,Bangladesh Won by 6 wickets,wicket,6.0,True,True,182,183,182,183,6,4,120,108,17,21,21,False,True,True
+50190,T20I,True,New Zealand Won by 6 wickets (DLS Method),wicket,6.0,True,True,102,104,102,104,10,4,86,70,21,17,17,False,True,True
+50340,T20I,False,Ireland Won by 34 runs,run,34.0,True,True,182,148,182,148,9,10,120,113,23,18,23,True,True,True
+50341,T20I,False,Ireland Won by 1 run,run,1.0,True,True,154,153,154,153,8,9,120,120,23,18,23,True,True,True
+50404,T20I,False,India Won by 8 wickets,wicket,8.0,True,True,171,172,171,172,10,2,115,88,28,18,18,False,True,True
+50405,T20I,False,West Indies Won by 6 wickets,wicket,6.0,True,True,249,252,249,252,5,4,120,111,18,28,28,False,True,True
+50406,T20I,False,India Won by 14 runs,run,14.0,True,True,223,209,223,209,10,7,120,120,18,28,18,True,True,True
+50407,T20I,False,West Indies Won by 24 runs,run,24.0,True,True,247,223,247,223,3,9,120,117,28,18,28,True,True,True
+50503,T20I,False,West Indies Won by 7 wickets,wicket,7.0,True,True,147,149,147,149,9,3,120,116,27,28,28,False,True,True
+50504,T20I,False,Sri Lanka Won by 37 runs,run,37.0,True,True,194,157,194,157,6,10,120,109,27,28,27,True,True,True
+50505,T20I,False,West Indies Won by 5 wickets,wicket,5.0,True,True,169,170,169,170,10,5,120,118,27,28,28,False,True,True
+50507,T20I,False,India Won by 7 wickets,wicket,7.0,True,True,125,126,125,126,7,3,120,80,72,18,18,False,True,True
+50508,T20I,False,India Won by 90 runs,run,90.0,True,True,219,129,219,129,5,10,120,107,18,72,18,True,True,True
+50509,T20I,False,India Won by 35 runs,run,35.0,True,True,192,157,192,157,5,7,120,120,18,72,18,True,True,True
+50597,T20I,False,Australia Won by 4 wickets,wicket,4.0,True,True,131,133,131,133,10,6,114,110,21,20,20,False,True,True
+50598,T20I,False,Australia Won by 7 runs,run,7.0,True,True,196,189,196,189,5,6,120,120,20,21,20,True,True,True
+50599,T20I,False,Australia Won by 7 wickets,wicket,7.0,True,True,109,112,109,112,8,3,120,66,21,20,20,False,True,True
+51383,T20I,False,Zimbabwe Won by 32 runs,run,32.0,True,True,170,138,170,138,6,10,120,114,72,21,72,True,True,True
+51384,T20I,False,Bangladesh Won by 34 runs,run,34.0,True,True,186,152,186,152,5,10,120,118,21,72,21,True,True,True
+51385,T20I,False,Bangladesh Won by 4 wickets,wicket,4.0,True,True,143,144,143,144,7,6,120,118,72,21,21,False,True,True
+54210,T20I,False,India Won by 4 wickets,wicket,4.0,True,True,225,230,225,230,4,6,120,118,17,18,18,False,True,True
+54211,T20I,False,India Won by 4 wickets,wicket,4.0,True,True,180,181,180,181,5,6,120,119,17,18,18,False,True,True
+54212,T20I,False,India Won by 6 wickets,wicket,6.0,True,True,198,199,198,199,3,4,120,80,17,18,18,False,True,True
+54213,T20I,False,New Zealand Won by 87 runs,run,87.0,True,True,259,172,259,172,7,9,120,120,17,18,17,True,True,True
+54214,T20I,False,New Zealand Won by 7 wickets,wicket,7.0,True,True,191,195,191,195,8,3,120,108,18,17,17,False,True,True
+54408,T20I,False,India Won by 7 wickets,wicket,7.0,True,True,156,157,156,157,8,3,120,82,78,18,18,False,True,True
+54409,T20I,False,India Won by 7 wickets,wicket,7.0,True,True,159,163,159,163,8,3,120,89,78,18,18,False,True,True
+54410,T20I,False,India Won by 127 runs,run,127.0,True,True,221,94,221,94,7,10,120,85,18,78,18,True,True,True
+54711,T20I,True,India Won by 2 runs,run,2.0,True,True,32,30,32,30,4,3,30,30,18,3886,18,True,True,True
+55078,T20I,False,Pakistan Won by 4 wickets,wicket,4.0,True,True,182,187,181,187,8,6,120,113,27,25,25,False,True,True
+55079,T20I,False,Pakistan Won by 82 runs,run,82.0,True,True,215,133,215,133,3,7,120,120,25,27,25,True,True,True
+55080,T20I,False,Sri Lanka Won by 8 wickets,wicket,8.0,True,True,168,172,168,172,8,2,120,103,25,27,27,False,True,True
+55559,T20I,False,Afghanistan Won by 37 runs,run,37.0,True,True,177,140,177,140,10,10,119,115,78,72,78,True,True,True
+55560,T20I,False,Afghanistan Won by 19 runs,run,19.0,True,True,221,202,221,202,7,5,120,120,78,72,78,True,True,True
+55561,T20I,False,Afghanistan Won by 7 wickets,wicket,7.0,True,True,79,81,79,81,10,3,87,49,72,78,78,False,True,True

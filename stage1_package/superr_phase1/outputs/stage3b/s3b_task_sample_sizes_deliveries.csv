@@ -1,0 +1,6 @@
+category,wp_train_deliveries,pressure_deliveries,pressure_legal,batting_balls_faced,batter_innings_rows,distinct_batters,bowling_deliveries,bowler_innings_rows,distinct_bowlers
+IPL league,80141,81564,77896,78248,5259,334,81564,4022,259
+IPL knockout,4451,4573,4383,4403,313,128,4573,223,92
+T20I non-knockout,98595,101434,97285,97712,7086,658,101434,5073,470
+T20I final,1190,1190,1152,1154,91,66,1190,58,41
+TOTAL,184377,188761,180716,181517,12749,816,188761,9376,589

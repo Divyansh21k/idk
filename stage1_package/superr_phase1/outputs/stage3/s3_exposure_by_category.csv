@@ -1,0 +1,5 @@
+cat,deliveries,late_16_20,distinct_batters,distinct_bowlers,batter_innings_rows,bowler_match_rows,innings2_overs16_20_deliveries
+IPL knockout,4263,913,128,92,308,218,385
+IPL league,77848,17518,334,259,5261,4022,7607
+T20I knockout (final),1152,252,66,41,91,58,112
+T20I non-knockout,96961,20988,658,470,7067,5066,8526

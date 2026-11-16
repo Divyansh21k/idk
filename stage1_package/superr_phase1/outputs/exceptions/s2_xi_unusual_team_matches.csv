@@ -1,0 +1,18 @@
+match_id,team_id,n_played,n_impact,n_impact_off,n_dup_keys,scope,comp_name,match_date,home_team,away_team
+13613,20,17,0,0,6,T20I,Sri Lanka in Australia T20I Series 2022,2022-02-13,Australia,Sri Lanka
+13613,27,17,0,0,6,T20I,Sri Lanka in Australia T20I Series 2022,2022-02-13,Australia,Sri Lanka
+20880,78,12,0,0,0,T20I,Afghanistan v Pakistan T20I Series 2023,2023-03-27,Afghanistan,Pakistan
+21176,17,17,0,0,6,T20I,Sri Lanka in New Zealand T20I Series 2023,2023-04-02,New Zealand,Sri Lanka
+21176,27,16,0,0,5,T20I,Sri Lanka in New Zealand T20I Series 2023,2023-04-02,New Zealand,Sri Lanka
+21585,2,13,1,1,0,IPL,IPL 2023,2023-05-26,Gujarat Titans,Mumbai Indians
+28333,17,10,0,0,0,T20I,Bangladesh in New Zealand T20I Series 2023,2023-12-29,New Zealand,Bangladesh
+28962,18,19,0,0,8,T20I,Afghanistan in India T20I Series 2024,2024-01-17,India,Afghanistan
+28962,78,20,0,0,9,T20I,Afghanistan in India T20I Series 2024,2024-01-17,India,Afghanistan
+29926,78,12,0,0,0,T20I,Afghanistan in Sri Lanka T20I Series 2024,2024-02-21,Sri Lanka,Afghanistan
+31272,3509,13,1,1,0,IPL,IPL 2024,2024-05-05,Lucknow Super Giants,Kolkata Knight Riders
+32132,72,12,0,0,0,T20I,Zimbabwe in Bangladesh T20I Series 2024,2024-05-03,Bangladesh,Zimbabwe
+40039,18,12,0,0,0,T20I,England in India T20I Series 2025,2025-01-31,India,England
+40749,2,13,1,1,0,IPL,IPL 2025,2025-05-06,Mumbai Indians,Gujarat Titans
+50354,2,13,1,1,0,IPL,IPL 2026,2026-04-23,Mumbai Indians,Chennai Super Kings
+50356,7,13,1,1,0,IPL,IPL 2026,2026-04-25,Delhi Capitals,Punjab Kings
+50386,8,13,1,1,0,IPL,IPL 2026,2026-05-20,Kolkata Knight Riders,Mumbai Indians

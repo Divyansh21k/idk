@@ -1,0 +1,5 @@
+task,innings/match rule,reason
+WP training,"Match decided by a margin (not tie/super over/no result), not revised/D-L, not data-quality excluded, both innings present, innings 1 complete",match-level label needs an outcome
+Pressure calculation,"IPL/T20I, ball-by-ball present, innings 1-2, not data-quality excluded, not an undeclared reduced-overs match; revised matches: innings 1 only if first_inn_revised_overs is null and the innings is complete; no-result/abandoned/tie/super-over matches ARE eligible (win probability needs only the state)",WP of a state does not need the match result; revised innings 2 has a different target/overs
+Batting performance,Same innings as pressure calculation (separate flag; may diverge on delivery-level exceptions),needs pressure index and stage-1 expectation
+Bowling performance,Same innings as pressure calculation plus the extras mapping (separate flag),"needs pressure index, stage-1 expectation and charging rules"

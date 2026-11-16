@@ -1,0 +1,29 @@
+ID,Assumption,Evidence so far,Planned test / sensitivity,Impact if wrong,Status
+A1,"`other` extras behave like a no-ball: no legal ball consumed, 1 penalty run, bat runs allowed, free hit follows","Over-structure test (4 vs 220 bad complete overs); same value pattern as Overstep; free-hit signature after `other` (1 run-out in 262 next deliveries, boundary rate 32%)",S11 (`other` legal / not faced),Ball counts and bowler charges for 264 deliveries,Supported (behaviour); label OPEN
+A2,"Bowler is charged bat runs, wides and the no-ball penalty, never byes, leg-byes or penalty runs",Convention; not in the files,None possible from data,Bowler values shift by extras,Convention
+A3,"IPL playoff roles are Q1, Eliminator, Q2, Final by order within season",Stage label agrees in 20/20,Descriptive only,Sub-labels only,Inference
+A4,"Knockout shift, interaction and player deviation variance are estimated on IPL knockouts only",User directive; T20I finals tiny and heterogeneous,S6,Knockout parameters,Design
+A5,Player skill transfers across IPL and T20I,Not yet tested; 182 batters have eligible balls in both,"Transfer diagnostic (technical 6.3), S7",Pooled ranking validity,Unverified
+A6,"Practical margins 0.01, 0.025, 0.05 runs per delivery",Judgement (about 1/7 of the between-batter SD for 0.025),Reported at all three,Equivalence conclusions,Judgement
+A7,"w_K = leverage share of IPL knockout deliveries, frozen at F1",Proxies 5.3-5.5%,S3,Overall rating,Frozen at F1
+A8,T20I finals get nuisance terms and no player-level knockout term,User directive,S6,Finals inform only general parameters,Design
+A9,Stage-2 errors approximately normal with constant variance,Not yet tested,Step 5 residual diagnostics; stressed simulation,Interval coverage,Unverified
+A10,Timestamps unused,IST/UTC change between 2023 and 2024 (inference),None needed,None,Design
+A11,`extras_2_runs` on no-ball-like deliveries are byes or leg-byes (not charged to the bowler),"All 35 no-ball-like rows with extras2>0 have bat runs 0 (21 Overstep, 14 other); not conclusive",S11,Bowler charge on up to 35 deliveries,"Supported, not conclusive"
+A12,A revision of overs inside a match may have happened at any time; only uncurtailed first innings are retained,Timing is not in the data,S8,Revised matches,Design
+A13,A free hit follows a no-ball-like delivery and is not used up by a wide,"918 flagged deliveries: 4 run-outs, 0 credited dismissals; wicket rate 0.44% vs 5.44%",Step 1 checks B14/B15,Leverage and expected value on 918 deliveries,Supported
+A14,An illegal delivery takes the pressure of its pre-delivery state,Definition,"S15, S16","Pressure exposure of 8,045 eligible wides/no-balls",Definition
+A15,"Undeclared reduced-overs matches: innings 1 under 120 legal balls, not all out, normal result, no revised field or D/L text","3 matches (15795, 31278, 48514)",S14,3 matches,Inference
+A16,Match 37099 over 14.1 `legbyes` label with a bat run is a label error,"Neighbouring leg-bye (13.6) has extras1=1, runs 0; out-of-scope match",None needed,None (out of scope),Supported
+A17,Matches 17555 and 36097: the unlabelled single extra runs are on legal deliveries and are not charged to the bowler,Overs have exactly 6 legal rows; bye or leg-bye gives the same treatment; a wide would break the over,Totals reconcile,1 run each,Supported
+A18,Run-out wicket cost is charged to the dismissed batter (striker or non-striker),271 of 600 run-outs dismiss the non-striker,Needs sign-off (D51),Batter values,OPEN
+A19,Role by modal batting order is stable,Not yet tested,Step 5a stability check across seasons,Role priors and thresholds,Unverified
+A20,Retire Out with null dismissed id (match 40709) retired the non-striker,Striker bats later; non-striker does not,None,1 row,Inference
+A21,Ties and super-over-decided matches are excluded from WP training labels only,8 matches,Label 0.5 variant,WP training,Design
+A22,States in no-result/partial innings are valid pressure situations (no hidden reduction),9 incomplete innings 1 retained with flag,S11 (exclude no-result matches),14 matches,Unverified
+A23,Cross-fitted WP (by match) avoids leakage,Design,Step 3 leakage test,Pressure index,Design
+A24,High-pressure reference PI* = 0.90 (top-quintile midpoint),Design,S10,"Score level, not order",Design
+A25,Opposition quality is connected across IPL and T20I through players in both,182 dual-competition batters,Step 5 connectivity check,Opposition adjustment,Unverified
+A26,The IPL impact-player rule (2023 onwards) changes batting depth and is not modelled,[KNOW]; `is_impact` flags exist,Limitation,Resource table accuracy,Limitation
+A27,"Bowler credit for Bowled, Caught, LBW, Stump, Hit Wicket only",Convention (D12),None,Bowler wicket counts (609 fewer than is_wicket),Convention
+A28,Reduced-overs or D/L matches without any flag may remain in the data,Found 3 undeclared + 4 text-only,S14,Unknown,Limitation

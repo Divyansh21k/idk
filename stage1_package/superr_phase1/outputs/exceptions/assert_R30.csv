@@ -1,0 +1,2 @@
+match_id,innings,overid,over_ball_num,innings_ball_num,striker_id,striker_name,non_striker_id,bowler_name,runs,is_wicket,dismissal_type
+37086,1,18,6,111,3550,Sharafuddin Ashraf,3550,Dushan Hemantha,1,False,

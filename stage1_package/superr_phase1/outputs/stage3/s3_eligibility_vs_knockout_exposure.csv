@@ -1,0 +1,5 @@
+role,eligible_min_legal_balls,eligible_players,with_any_KO_balls,KO_balls>=12,KO_balls>=30,KO_balls>=60,KO_balls>=120,median_KO_balls_among_eligible,p75_KO_balls,max_KO_balls,median_league_IPL_balls
+batter,300,167,107,84,62,30,6,13.0,45.0,241,299.0
+batter,500,116,81,70,52,29,6,22.5,58.5,241,489.5
+bowler,300,173,96,94,62,32,8,18.0,46.0,198,296.0
+bowler,500,118,79,78,56,31,8,24.0,60.0,198,452.5

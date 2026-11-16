@@ -1,0 +1,15 @@
+match_id,innings,ball,is_wicket,dism_type,player,role_on_ball,appears_after_in_innings
+14114,2,80,False,,Rahul Tripathi,striker,False
+15610,1,38,False,,Darwish Rasooli,striker,False
+16064,2,10,False,,Rohit Sharma,striker,False
+20188,1,64,False,,Bhanuka Rajapaksa,non_striker,False
+20243,1,99,False,,Krunal Pandya,non_striker,False
+20880,2,65,False,,Najibullah Zadran,striker,False
+28964,1,65,False,,Kane Williamson,striker,False
+29926,2,54,False,,Pathum Nissanka,striker,False
+31709,1,80,False,,Mohammad Rizwan,non_striker,False
+37094,2,38,False,,Mohammad Saif Hassan,striker,False
+40709,2,117,True,Retire Out,Hardik Pandya,striker,True
+40709,2,117,True,Retire Out,Namboori Tilak Varma,non_striker,False
+40725,2,36,False,,Sanju Samson,striker,False
+40763,2,116,False,,Kamindu Mendis,striker,False

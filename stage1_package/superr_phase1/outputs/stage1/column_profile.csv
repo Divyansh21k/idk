@@ -1,0 +1,78 @@
+file,column,dtype,n_null,pct_null,nunique,min,max,top
+ball_by_ball,match_id,int64,0,0.0,867,13511.0,55561.0,
+ball_by_ball,innings,int64,0,0.0,4,1.0,4.0,
+ball_by_ball,overid,int64,0,0.0,20,1.0,20.0,
+ball_by_ball,over_ball_num,int64,0,0.0,13,1.0,13.0,
+ball_by_ball,innings_ball_num,int64,0,0.0,136,1.0,136.0,
+ball_by_ball,batting_team_id,int64,0,0.0,38,1.0,4444.0,
+ball_by_ball,bowling_team_id,int64,0,0.0,38,1.0,4444.0,
+ball_by_ball,striker_id,int64,0,0.0,888,8.0,71727.0,
+ball_by_ball,striker_name,str,0,0.0,885,,,
+ball_by_ball,non_striker_id,int64,0,0.0,867,8.0,68410.0,
+ball_by_ball,non_striker_name,str,0,0.0,864,,,
+ball_by_ball,bowler_id,int64,0,0.0,647,23.0,71727.0,
+ball_by_ball,bowler_name,str,0,0.0,646,,,
+ball_by_ball,batting_type,str,0,0.0,2,,,"{""RHB"": 131006, ""LHB"": 69993}"
+ball_by_ball,bowling_type,str,0,0.0,12,,,"{""Right-arm Leg-Break"": 28027, ""Right-arm medium-fast"": 27014, ""Right-arm Fast"": 26637, ""Right-arm medium"": 23919, ""Slow left-arm orthodox"": 23582, ""Right-arm offbreak"": 20948, ""Right-arm fast-medium"": 15380, ""Left-arm medium-fast"": 12492, ""Left-arm fast-medium"": 7780, ""Left-arm medium"": 6082, ""Left-arm Chinaman"": 4685, ""Left-arm Fast"": 4453}"
+ball_by_ball,batting_order,int64,0,0.0,13,1.0,13.0,
+ball_by_ball,runs,int64,0,0.0,7,0.0,6.0,
+ball_by_ball,is_four,bool,0,0.0,2,,,"{""false"": 177716, ""true"": 23283}"
+ball_by_ball,is_six,bool,0,0.0,2,,,"{""false"": 188188, ""true"": 12811}"
+ball_by_ball,is_wicket,bool,0,0.0,2,,,"{""false"": 190118, ""true"": 10881}"
+ball_by_ball,dismissal_type_id,float64,190118,94.587,8,1.0,10.0,
+ball_by_ball,dismissal_type,str,190118,94.587,9,,,"{""NaN"": 190118, ""Caught"": 7557, ""Bowled"": 1775, ""LBW"": 709, ""RunOut"": 600, ""Stump"": 214, ""Hit Wicket"": 17, ""Retire Out"": 6, ""Obstracting the field"": 2, ""Obstructing the field"": 1}"
+ball_by_ball,dismissed_player_id,float64,190107,94.581,814,8.0,71727.0,
+ball_by_ball,extras_type,str,189167,94.113,6,,,"{""NaN"": 189167, ""wide"": 7714, ""legbyes"": 2748, ""Overstep"": 576, ""byes"": 529, ""other"": 264, ""Penalty"": 1}"
+ball_by_ball,extras1_runs,int64,0,0.0,6,0.0,5.0,
+ball_by_ball,extras_2_runs,int64,0,0.0,3,0.0,4.0,
+ball_by_ball,pace_or_spin,str,0,0.0,2,,,"{""Pace"": 123886, ""Spin"": 77113}"
+ball_by_ball,bowl_speed,float64,0,0.0,1033,-1.0,1456.1,
+ball_by_ball,stroke,str,6158,3.064,30,,,
+ball_by_ball,delivery_style,str,391,0.195,34,,,
+ball_by_ball,over_or_around,str,407,0.202,2,,,"{""Over"": 154670, ""Around"": 45922, ""NaN"": 407}"
+ball_by_ball,on_or_off,str,0,0.0,2,,,"{""Off-side"": 104875, ""On-side"": 96124}"
+ball_by_ball,delivery_ist_time,str,0,0.0,200826,,,
+matches,match_id,int64,0,0.0,883,13511.0,55561.0,
+matches,comp_id,int64,0,0.0,138,1331.0,3787.0,
+matches,match_number,int64,0,0.0,75,1.0,75.0,
+matches,match_date,str,0,0.0,686,,,
+matches,stage,str,0,0.0,7,,,"{""League"": 620, ""Others"": 226, ""Final"": 12, ""Qualifier"": 10, ""Super 4"": 6, ""Eliminator"": 5, ""Semi Final"": 4}"
+matches,venue_id,int64,0,0.0,98,1.0,3692.0,
+matches,venue_country,str,0,0.0,17,,,
+matches,home_team_id,int64,0,0.0,36,1.0,4444.0,
+matches,home_team,str,0,0.0,36,,,
+matches,away_team_id,int64,0,0.0,36,1.0,4444.0,
+matches,away_team,str,0,0.0,36,,,
+matches,home_team_captain_id,float64,44,4.983,89,8.0,39444.0,
+matches,away_team_captain_id,float64,45,5.096,98,8.0,39444.0,
+matches,toss_win_team_id,float64,15,1.699,37,1.0,4444.0,
+matches,toss_opted,str,15,1.699,2,,,"{""Fielding"": 639, ""Batting"": 229, ""NaN"": 15}"
+matches,man_of_the_match,int64,0,0.0,293,0.0,67864.0,
+matches,first_inn_revised_overs,float64,858,97.169,13,30.0,114.0,
+matches,second_inn_revised_overs,float64,858,97.169,12,30.0,114.0,
+matches,revised_target,float64,860,97.395,23,33.0,213.0,
+matches,knock_out,int64,0,0.0,2,0.0,1.0,
+matches,win_team_id,float64,41,4.643,36,1.0,4444.0,
+matches,result,str,0,0.0,670,,,
+competitions,comp_id,int64,0,0.0,141,1331.0,3787.0,
+competitions,comp_name,str,0,0.0,141,,,
+competitions,match_format,str,0,0.0,2,,,"{""T20I"": 134, ""T20"": 7}"
+competitions,season,str,0,0.0,8,,,"{""2024"": 33, ""2025"": 33, ""2026"": 25, ""2022"": 25, ""2023"": 20, ""2022/23"": 3, ""2023/24"": 1, ""2024/25"": 1}"
+playing_eleven,match_id,int64,0,0.0,880,13511.0,55561.0,
+playing_eleven,team_id,int64,0,0.0,38,1.0,4444.0,
+playing_eleven,player_id,int64,0,0.0,1082,8.0,71727.0,
+playing_eleven,batting_order,float64,8678,30.577,13,1.0,13.0,
+playing_eleven,is_played,bool,0,0.0,2,,,"{""true"": 19714, ""false"": 8667}"
+playing_eleven,is_captain,object,8667,30.538,2,,,"{""false"": 18031, ""NaN"": 8667, ""true"": 1683}"
+playing_eleven,is_wk,object,8667,30.538,2,,,"{""false"": 18039, ""NaN"": 8667, ""true"": 1675}"
+playing_eleven,is_impact,int64,0,0.0,2,0.0,1.0,
+playing_eleven,is_impact_off,int64,0,0.0,2,0.0,1.0,
+teams,comp_id,int64,0,0.0,141,1331.0,3787.0,
+teams,team_id,int64,0,0.0,38,1.0,4444.0,
+teams,team_name,str,0,0.0,38,,,
+competition_team_player_mapping,comp_id,int64,0,0.0,140,1331.0,3787.0,
+competition_team_player_mapping,comp_name,str,0,0.0,140,,,
+competition_team_player_mapping,team_id,int64,0,0.0,38,1.0,4444.0,
+competition_team_player_mapping,team_name,str,0,0.0,38,,,
+competition_team_player_mapping,player_id,int64,0,0.0,1217,8.0,71727.0,
+competition_team_player_mapping,player_name,str,0,0.0,1210,,,

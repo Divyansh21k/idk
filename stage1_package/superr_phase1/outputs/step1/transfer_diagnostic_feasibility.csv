@@ -1,0 +1,7 @@
+group,threshold_each_competition,players_IPL_ge,players_T20I_ge,players_both_ge
+batters (balls faced),60,164,295,87
+batters (balls faced),120,128,201,68
+batters (balls faced),300,84,108,37
+bowlers (deliveries bowled),60,178,305,97
+bowlers (deliveries bowled),120,145,214,79
+bowlers (deliveries bowled),300,90,109,38

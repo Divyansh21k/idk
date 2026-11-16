@@ -1,0 +1,19 @@
+match_id,scope,revised,result,res_unit,res_n,winner_name_in_result_matches_a_team,win_team_id_agrees,T1_a,T2_a,T1_b,T2_b,wk1,wk2,legal1,legal2,team1,team2,winner_id,winner_batted_first,margin_ok_a,margin_ok_b
+13612,T20I,True,Australia Won by 20 runs (D/L method),run,20.0,True,True,149,122,149,122,9,8,120,114,20,27,20,True,False,False
+14130,IPL,False,Lucknow Super Giants Won 36  Runs,run,36.0,True,True,167,130,167,130,6,8,119,119,3509,2,3509,True,False,False
+16754,T20I,True,Ireland Won by 7 Wickets(D/L Method),wicket,7.0,True,True,95,56,95,56,5,3,90,40,78,23,23,False,False,False
+20182,IPL,False,Punjab Kings Won by 7 Runs(D/L Method),run,7.0,True,True,191,146,191,146,5,7,120,96,4,8,4,True,False,False
+20190,IPL,False,Lucknow Super Giants Won by 6 wickets,wicket,6.0,True,True,121,127,121,127,8,5,120,96,242,3509,3509,False,False,False
+21586,IPL,True,Chennai Super Kings Won by 5 wickets  (DLS method),wicket,5.0,True,True,214,171,214,171,4,5,120,90,3508,1,1,False,False,False
+21070,T20I,True,Bangladesh Won by 22 Runs (DLS method),run,22.0,True,True,207,81,207,81,5,5,116,48,21,23,21,True,False,False
+24822,T20I,False,India Won by 2 Runs (DLS method),run,2.0,True,True,139,47,139,47,7,2,120,41,23,18,18,False,False,False
+28046,T20I,True,South Africa won by 5 wickets (DLS),wicket,5.0,True,True,180,154,180,154,7,5,117,83,18,19,19,False,False,False
+28334,T20I,False,New Zealand won by 17runs (DLS Method),run,17.0,True,True,110,95,110,95,10,5,116,88,21,17,17,False,False,False
+29984,T20I,True,Australia Won by 27 Runs (DLS method),run,27.0,True,True,118,98,118,98,4,3,64,60,20,17,20,True,False,False
+34428,T20I,True,India Won by 7 wickets(D/L Method),wicket,7.0,True,True,161,81,161,81,9,3,120,39,27,18,18,False,False,False
+36208,T20I,True,South Africa Won by 14 runs(DLS method),run,14.0,True,True,97,54,97,54,5,5,47,30,19,22,19,True,False,False
+40749,IPL,True,Gujarat Titans Won by 3 wickets (DLS Method),wicket,3.0,True,True,155,147,155,147,8,7,120,114,2,3508,3508,False,False,False
+41851,T20I,True,West Indies Won by 6 runs(DLS Method),run,6.0,True,True,114,118,114,118,3,6,60,60,28,19,28,True,False,False
+50371,IPL,True,Lucknow Super Giants Won by 9 runs (DLS method),run,9.0,True,True,209,203,209,203,3,6,114,114,3509,5,3509,True,False,False
+48610,T20I,True,England Won by 11 runs (DLS method),run,11.0,True,True,133,125,133,125,10,4,98,90,27,22,22,False,False,False
+48611,T20I,True,England Won by 6 wickets(DLS Method),wicket,6.0,True,True,189,173,189,173,5,4,120,100,27,22,22,False,False,False

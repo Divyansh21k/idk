@@ -1,0 +1,26 @@
+cat,task,matches,innings
+IPL league,WP training,331,662
+IPL knockout,WP training,19,38
+T20I non-knockout,WP training,416,832
+T20I final,WP training,5,10
+TOTAL,WP training,771,1542
+IPL league,Pressure calculation,341,676
+IPL knockout,Pressure calculation,20,39
+T20I non-knockout,Pressure calculation,436,858
+T20I final,Pressure calculation,5,10
+TOTAL,Pressure calculation,802,1583
+IPL league,Batting performance,341,676
+IPL knockout,Batting performance,20,39
+T20I non-knockout,Batting performance,436,858
+T20I final,Batting performance,5,10
+TOTAL,Batting performance,802,1583
+IPL league,Bowling performance,341,676
+IPL knockout,Bowling performance,20,39
+T20I non-knockout,Bowling performance,436,858
+T20I final,Bowling performance,5,10
+TOTAL,Bowling performance,802,1583
+IPL league,All innings 1-2 in the 837,347,690
+IPL knockout,All innings 1-2 in the 837,20,40
+T20I non-knockout,All innings 1-2 in the 837,465,912
+T20I final,All innings 1-2 in the 837,5,10
+TOTAL,All innings 1-2 in the 837,837,1652

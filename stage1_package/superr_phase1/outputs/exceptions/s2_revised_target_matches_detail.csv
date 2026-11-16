@@ -1,0 +1,35 @@
+match_id,scope,match_date,home_team,away_team,first_inn_revised_overs,second_inn_revised_overs,revised_target,result,T_bat_e1_e2_1,legal_1,wkts_1,T_bat_e1_e2_2,legal_2,wkts_2,T1_plus1_eq_target,has_bbb
+13612,T20I,2022-02-11,Australia,Sri Lanka,,114.0,143.0,Australia Won by 20 runs (D/L method),149,120,9,122.0,114.0,8.0,False,True
+15410,T20I,2022-06-19,India,South Africa,114.0,,,Match Abandoned,28,21,2,,,,False,True
+15546,T20I,2022-07-02,West Indies,Bangladesh,84.0,,,No Result,105,78,8,,,,False,True
+16753,T20I,2022-08-15,Ireland,Afghanistan,66.0,,,Afghanistan Won by 27 Runs,132,66,6,105.0,66.0,10.0,False,True
+16754,T20I,2022-08-17,Ireland,Afghanistan,,42.0,56.0,Ireland Won by 7 Wickets(D/L Method),95,90,5,56.0,40.0,3.0,False,True
+17395,T20I,2022-09-23,India,Australia,48.0,48.0,91.0,India Won by 6 Wickets,90,48,5,92.0,44.0,4.0,True,True
+17765,T20I,2022-10-14,Australia,England,72.0,72.0,130.0,No Result,112,72,2,30.0,23.0,3.0,False,True
+21586,IPL,2023-05-29,Chennai Super Kings,Gujarat Titans,,90.0,171.0,Chennai Super Kings Won by 5 wickets  (DLS method),214,120,4,171.0,90.0,5.0,False,True
+19959,T20I,2023-03-25,South Africa,West Indies,66.0,,,West Indies won by 3 wickets,131,66,8,132.0,63.0,7.0,False,True
+21070,T20I,2023-03-27,Bangladesh,Ireland,,48.0,104.0,Bangladesh Won by 22 Runs (DLS method),207,116,5,81.0,48.0,5.0,False,True
+21071,T20I,2023-03-29,Bangladesh,Ireland,102.0,102.0,203.0,Bangladesh Won by 77 Runs,202,102,3,125.0,102.0,9.0,True,True
+28046,T20I,2023-12-12,South Africa,India,,90.0,152.0,South Africa won by 5 wickets (DLS),180,117,7,154.0,83.0,5.0,False,True
+29984,T20I,2024-02-25,New Zealand,Australia,,60.0,126.0,Australia Won by 27 Runs (DLS method),118,64,4,98.0,60.0,3.0,False,True
+31707,T20I,2024-04-18,Pakistan,New Zealand,30.0,,,No Result,2,2,1,,,,False,True
+37354,T20I,2024-11-14,Australia,Pakistan,42.0,42.0,94.0,Australia Won by 29 runs,93,42,4,64.0,42.0,9.0,True,True
+36098,T20I,2024-08-28,West Indies,South Africa,78.0,78.0,116.0,West Indies Won by 8 wickets (DLS),108,78,4,116.0,56.0,2.0,False,True
+34428,T20I,2024-07-28,Sri Lanka,India,,48.0,78.0,India Won by 7 wickets(D/L Method),161,120,9,81.0,39.0,3.0,False,True
+36208,T20I,2025-09-10,England,South Africa,54.0,30.0,69.0,South Africa Won by 14 runs(DLS method),97,47,5,54.0,30.0,5.0,False,True
+40727,IPL,2025-04-18,Royal Challengers Bengaluru,Punjab Kings,84.0,84.0,96.0,Punjab Kings Won by 5 wickets,95,84,9,98.0,73.0,5.0,True,True
+40749,IPL,2025-05-06,Mumbai Indians,Gujarat Titans,,114.0,147.0,Gujarat Titans Won by 3 wickets (DLS Method),155,120,8,147.0,114.0,7.0,False,True
+39809,T20I,2025-03-18,New Zealand,Pakistan,90.0,90.0,136.0,New Zealand Won by 5 wickets,135,90,9,137.0,79.0,5.0,True,True
+39983,T20I,2025-02-22,Zimbabwe,Ireland,54.0,,,No Result,77,54,5,,,,False,True
+39985,T20I,2025-02-25,Zimbabwe,Ireland,108.0,,,No Result,142,108,6,,,,False,True
+41851,T20I,2026-02-01,South Africa,West Indies,60.0,60.0,125.0,West Indies Won by 6 runs(DLS Method),114,60,3,118.0,60.0,6.0,False,True
+41975,T20I,2025-10-29,Australia,India,108.0,,,No Result,97,58,1,,,,False,True
+46311,T20I,2025-10-03,Australia,New Zealand,54.0,54.0,,No Result,16,13,1,,,,False,True
+46749,T20I,2025-10-23,New Zealand,England,84.0,,,No Result,38,22,1,,,,False,True
+50137,IPL,2026-04-07,Rajasthan Royals,Mumbai Indians,66.0,66.0,151.0,Rajasthan Royals Won by 27 runs,150,66,3,123.0,66.0,9.0,True,True
+50371,IPL,2026-05-07,Lucknow Super Giants,Royal Challengers Bengaluru,114.0,114.0,213.0,Lucknow Super Giants Won by 9 runs (DLS method),209,114,3,203.0,114.0,6.0,False,True
+48610,T20I,2026-01-30,Sri Lanka,England,102.0,90.0,115.0,England Won by 11 runs (DLS method),133,98,10,125.0,90.0,4.0,False,True
+48611,T20I,2026-02-01,Sri Lanka,England,,102.0,168.0,England Won by 6 wickets(DLS Method),189,120,5,173.0,100.0,4.0,False,True
+50190,T20I,2026-05-02,Bangladesh,New Zealand,90.0,90.0,103.0,New Zealand Won by 6 wickets (DLS Method),102,86,10,104.0,70.0,4.0,True,True
+50408,T20I,2026-10-17,India,West Indies,54.0,54.0,,No Result,118,46,5,,,,False,True
+54711,T20I,2026-09-22,Japan,India,30.0,30.0,33.0,India Won by 2 runs,32,30,4,30.0,30.0,3.0,True,True
