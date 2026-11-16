@@ -173,10 +173,14 @@ for col, fb in [('E_batter_runs', 'E_batter_runs_fb'), ('E_bowler_runs', 'E_bowl
     mask = b_pressure[col].isna()
     b_pressure.loc[mask, col] = b_pressure.loc[mask, fb]
     # If still missing, use overall mean
-    overall_mean = b[b['elig_pressure'] == True][col.replace('E_', '').replace('dismissed', 'dismissed_role')].apply(
-        lambda x: (x == 'striker') if col == 'E_batter_dismissed' else x).mean() if col == 'E_batter_dismissed' else b[b['elig_pressure'] == True][
-        'batter_runs' if col == 'E_batter_runs' else 'bowler_charged_runs' if col == 'E_bowler_runs' else 'bowler_wicket_credit'
-    ].mean()
+    if col == 'E_batter_dismissed':
+        overall_mean = (b[b['elig_pressure'] == True]['dismissed_role'] == 'striker').mean()
+    elif col == 'E_batter_runs':
+        overall_mean = b[b['elig_pressure'] == True]['batter_runs'].mean()
+    elif col == 'E_bowler_runs':
+        overall_mean = b[b['elig_pressure'] == True]['bowler_charged_runs'].mean()
+    else:
+        overall_mean = b[b['elig_pressure'] == True]['bowler_wicket_credit'].mean()
     b_pressure[col] = b_pressure[col].fillna(overall_mean)
 
 # ------------------------------------------------------------------ compute wicket cost c(s) for each delivery

@@ -1,0 +1,50 @@
+id,description,expected,actual,status,hard
+A01,all matches,883,883,PASS,True
+A02,IPL + T20I,853,853,PASS,True
+A03,IPL + T20I with ball-by-ball,837,837,PASS,True
+A04,exclusive flag combinations,"{""(none)"": 772, ""revised"": 28, ""revised noresult/partial"": 10, ""noresult/partial"": 14, ""tie/superover"": 8, ""undeclared-reduced-overs"": 3, ""dq"": 2}","{""(none)"": 772, ""revised"": 28, ""noresult/partial"": 14, ""revised noresult/partial"": 10, ""tie/superover"": 8, ""undeclared-reduced-overs"": 3, ""dq"": 2}",PASS,True
+A05,flag totals,"{""revised"": 38, ""revised_by_fields"": 34, ""revised_text_only"": 4, ""noresult_partial"": 24, ""tie_or_superover"": 8, ""undeclared_reduced"": 3, ""dq"": 2, ""innings34_in_scope"": 4, ""minor_flag"": 2}","{""revised"": 38, ""revised_by_fields"": 34, ""revised_text_only"": 4, ""noresult_partial"": 24, ""tie_or_superover"": 8, ""undeclared_reduced"": 3, ""dq"": 2, ""innings34_in_scope"": 4, ""minor_flag"": 2}",PASS,True
+A06,earlier preliminary base 837 - 38 - 2,797,797,PASS,True
+A07,"WP training matches [matches, innings]","{""IPL league"": [331, 662], ""IPL knockout"": [19, 38], ""T20I non-knockout"": [416, 832], ""T20I final"": [5, 10], ""TOTAL"": [771, 1542]}","{""IPL league"": [331, 662], ""IPL knockout"": [19, 38], ""T20I non-knockout"": [416, 832], ""T20I final"": [5, 10], ""TOTAL"": [771, 1542]}",PASS,True
+A08p,"elig_pressure [matches, innings]","{""IPL league"": [341, 676], ""IPL knockout"": [20, 39], ""T20I non-knockout"": [436, 858], ""T20I final"": [5, 10], ""TOTAL"": [802, 1583]}","{""IPL league"": [341, 676], ""IPL knockout"": [20, 39], ""T20I non-knockout"": [436, 858], ""T20I final"": [5, 10], ""TOTAL"": [802, 1583]}",PASS,True
+A08b,"elig_batting [matches, innings]","{""IPL league"": [341, 676], ""IPL knockout"": [20, 39], ""T20I non-knockout"": [436, 858], ""T20I final"": [5, 10], ""TOTAL"": [802, 1583]}","{""IPL league"": [341, 676], ""IPL knockout"": [20, 39], ""T20I non-knockout"": [436, 858], ""T20I final"": [5, 10], ""TOTAL"": [802, 1583]}",PASS,True
+A08b,"elig_bowling [matches, innings]","{""IPL league"": [341, 676], ""IPL knockout"": [20, 39], ""T20I non-knockout"": [436, 858], ""T20I final"": [5, 10], ""TOTAL"": [802, 1583]}","{""IPL league"": [341, 676], ""IPL knockout"": [20, 39], ""T20I non-knockout"": [436, 858], ""T20I final"": [5, 10], ""TOTAL"": [802, 1583]}",PASS,True
+A09,matches with no eligible innings,35,35,PASS,True
+A10,revised matches with innings 1 retained,8,8,PASS,True
+A11,no-result/partial matches retained,14,14,PASS,True
+A12,tie/super-over matches retained,8,8,PASS,True
+A13,incomplete innings 1 retained with flag,10,10,PASS,True
+A14_deliveries,exposure: deliveries,"{""IPL league"": 81564, ""IPL knockout"": 4573, ""T20I non-knockout"": 101434, ""T20I final"": 1190, ""TOTAL"": 188761}","{""IPL league"": 81564, ""IPL knockout"": 4573, ""T20I non-knockout"": 101434, ""T20I final"": 1190, ""TOTAL"": 188761}",PASS,True
+A14_legal,exposure: legal,"{""IPL league"": 77896, ""IPL knockout"": 4383, ""T20I non-knockout"": 97285, ""T20I final"": 1152, ""TOTAL"": 180716}","{""IPL league"": 77896, ""IPL knockout"": 4383, ""T20I non-knockout"": 97285, ""T20I final"": 1152, ""TOTAL"": 180716}",PASS,True
+A14_balls_faced,exposure: balls_faced,"{""IPL league"": 78248, ""IPL knockout"": 4403, ""T20I non-knockout"": 97712, ""T20I final"": 1154, ""TOTAL"": 181517}","{""IPL league"": 78248, ""IPL knockout"": 4403, ""T20I non-knockout"": 97712, ""T20I final"": 1154, ""TOTAL"": 181517}",PASS,True
+A14_batter_innings_rows,exposure: batter_innings_rows,"{""IPL league"": 5259, ""IPL knockout"": 313, ""T20I non-knockout"": 7086, ""T20I final"": 91, ""TOTAL"": 12749}","{""IPL league"": 5259, ""IPL knockout"": 313, ""T20I non-knockout"": 7086, ""T20I final"": 91, ""TOTAL"": 12749}",PASS,True
+A14_distinct_batters,exposure: distinct_batters,"{""IPL league"": 334, ""IPL knockout"": 128, ""T20I non-knockout"": 658, ""T20I final"": 66, ""TOTAL"": 816}","{""IPL league"": 334, ""IPL knockout"": 128, ""T20I non-knockout"": 658, ""T20I final"": 66, ""TOTAL"": 816}",PASS,True
+A14_bowler_innings_rows,exposure: bowler_innings_rows,"{""IPL league"": 4022, ""IPL knockout"": 223, ""T20I non-knockout"": 5073, ""T20I final"": 58, ""TOTAL"": 9376}","{""IPL league"": 4022, ""IPL knockout"": 223, ""T20I non-knockout"": 5073, ""T20I final"": 58, ""TOTAL"": 9376}",PASS,True
+A14_distinct_bowlers,exposure: distinct_bowlers,"{""IPL league"": 259, ""IPL knockout"": 92, ""T20I non-knockout"": 470, ""T20I final"": 41, ""TOTAL"": 589}","{""IPL league"": 259, ""IPL knockout"": 92, ""T20I non-knockout"": 470, ""T20I final"": 41, ""TOTAL"": 589}",PASS,True
+A14_wp_training_deliveries,exposure: wp_training_deliveries,"{""IPL league"": 80141, ""IPL knockout"": 4451, ""T20I non-knockout"": 98595, ""T20I final"": 1190, ""TOTAL"": 184377}","{""IPL league"": 80141, ""IPL knockout"": 4451, ""T20I non-knockout"": 98595, ""T20I final"": 1190, ""TOTAL"": 184377}",PASS,True
+A15,player exposure tables: batters / bowlers,"[816, 589]","[816, 589]",PASS,True
+A16,extras raw label counts,"{""(none)"": 189167, ""Overstep"": 576, ""Penalty"": 1, ""byes"": 529, ""legbyes"": 2748, ""other"": 264, ""wide"": 7714}","{""(none)"": 189167, ""wide"": 7714, ""legbyes"": 2748, ""Overstep"": 576, ""byes"": 529, ""other"": 264, ""Penalty"": 1}",PASS,True
+A17,extras clean labels: untyped_extra / relabelled leg-bye / (none),"[2, 2747, 189166]","[2, 2747, 189166]",PASS,True
+B01,delivery rows,200999,200999,PASS,True
+B02,delivery key unique,0,0,PASS,True
+B03,team total per innings equals raw runs+extras1+extras2 (all innings),0,0,PASS,True
+B04,bowler-charged + uncharged extras = team total (every innings): no category lost or double counted,0,0,PASS,True
+B05,batter runs on balls faced = bat runs (wides carry none),269550,269550,PASS,True
+B06,legal balls per innings equal independent count from raw labels,0,0,PASS,True
+B07,no innings 1-2 above 120 legal balls,0,0,PASS,True
+B08,runs_before + last delivery runs = innings total (state bookkeeping),0,0,PASS,True
+B09,wickets_before + last = innings wickets,0,0,PASS,True
+B10,legal balls left before each eligible delivery within 0..120,0,0,PASS,True
+B11,WP-training innings are a subset of pressure-eligible innings,0,0,PASS,True
+B12,batting rows eligible imply innings eligible and ball faced,0,0,PASS,True
+B13,innings-2 target = innings-1 total + 1 (eligible non-revised),0,0,PASS,True
+B14,free-hit deliveries with a bowler-credited dismissal (not possible under the free-hit rule [KNOW]),0,0,PASS,True
+B15,free-hit flag only follows no-ball-like deliveries: first innings delivery never flagged,0,0,PASS,True
+B16,bowlers with more than one arm / pace-spin value,"[0, 0]","[0, 0]",PASS,True
+B17,batters with one role; modal order within 1..13,"[0, true]","[0, true]",PASS,True
+B18,"wickets with unattributed dismissed player (Retire Out, match 40709)",1,1,PASS,True
+B19,null player ids on eligible rows,0,0,PASS,True
+B20,batter_ball_faced equals independent rule (not a wide) on every delivery,0,0,PASS,True
+B21,batting_row_eligible = innings eligible AND ball faced,0,0,PASS,True
+B22,bowler_charged_runs equals independent recomputation from raw columns,0,0,PASS,True
+B23,delivery_kind equals independent mapping from raw extras_type,0,0,PASS,True

@@ -1,0 +1,5 @@
+scenario,w_K,batter_top10_overlap_with_primary,bowler_top10_overlap_with_primary
+S3_wK_primary,0.05293222690681777,10,10
+S3_wK_10pct,0.1,10,10
+S3_wK_20pct,0.2,10,10
+S3_wK_delivery_share,0.0531,10,10

@@ -1,0 +1,817 @@
+player_id,faced_IPL knockout,faced_IPL league,faced_T20I final,faced_T20I non-knockout,modal_batting_order,batting_role,batter_innings_rows,player_name,faced_IPL,faced_T20I
+8,2,460,0,0,7,lower (7+),47,Mahendra Singh Dhoni,462,0
+23,2,33,0,0,8,lower (7+),9,Piyush Chawla,35,0
+28,0,8,0,0,11,lower (7+),3,Ishant Sharma,8,0
+47,170,1916,0,359,1,opener (1-2),89,Virat Kohli,2086,359
+88,42,1234,0,0,2,opener (1-2),54,Faf du Plessis,1276,0
+109,75,586,0,0,1,opener (1-2),37,Wriddhiman Saha,661,0
+126,74,1076,0,388,2,opener (1-2),87,Rohit Sharma,1150,388
+142,0,757,0,0,2,opener (1-2),30,Shikhar Dhawan,757,0
+143,43,415,0,175,6,middle (5-6),59,Dinesh Karthik,458,175
+147,0,5,0,0,8,lower (7+),1,Pradeep Sangwan,5,0
+152,60,771,0,107,6,middle (5-6),63,Ravindra Jadeja,831,107
+158,0,30,0,0,9,lower (7+),1,Amit Mishra,30,0
+161,0,24,0,0,8,lower (7+),6,Dwayne Bravo,24,0
+167,10,1002,0,0,3,top order (3-4),55,Ajinkya Rahane,1012,0
+169,0,171,0,0,2,opener (1-2),11,Robin Uthappa,171,0
+198,0,349,0,0,5,middle (5-6),20,Manish Pandey,349,0
+220,0,804,0,313,2,opener (1-2),45,David Warner,804,313
+223,0,0,0,168,1,opener (1-2),10,Steven Smith,0,168
+232,0,0,0,22,5,middle (5-6),2,Tom Cooper,0,22
+250,0,61,0,269,1,opener (1-2),19,Aaron Finch,61,269
+274,0,0,0,158,1,opener (1-2),9,Martin Guptill,0,158
+278,0,12,1,38,10,lower (7+),16,Tim Southee,12,39
+286,0,0,0,1,10,lower (7+),1,Kane Richardson,0,1
+295,0,5,0,65,7,lower (7+),6,Wayne Parnell,5,65
+305,13,277,0,27,5,middle (5-6),37,Ravichandran Ashwin,290,27
+332,0,0,0,150,6,middle (5-6),7,Angelo Mathews,0,150
+344,0,26,0,0,7,lower (7+),5,Sheldon Jackson,26,0
+360,7,133,0,16,9,lower (7+),32,Bhuvneshwar Kumar,140,16
+393,0,10,0,0,7,lower (7+),1,Kedar Jadhav,10,0
+395,4,17,0,0,9,lower (7+),6,Karn Sharma,21,0
+403,0,73,0,17,9,lower (7+),15,Umesh Yadav,73,17
+418,0,0,0,80,4,top order (3-4),6,Richard Berrington,0,80
+443,0,0,0,494,1,opener (1-2),34,Paul Stirling,0,494
+470,0,0,0,4,10,lower (7+),2,Mohammad Amir,0,4
+478,0,0,0,41,5,middle (5-6),2,Eoin Morgan,0,41
+479,0,13,0,103,10,lower (7+),20,Adil Rashid,13,103
+492,0,0,0,39,5,middle (5-6),5,Andre Fletcher,0,39
+494,0,114,0,78,5,middle (5-6),17,Kieron Pollard,114,78
+499,0,0,0,264,4,top order (3-4),14,Shakib Al Hasan,0,264
+505,0,0,0,9,4,top order (3-4),2,Mushfiqur Rahim,0,9
+507,0,0,0,249,5,middle (5-6),13,Mohammad Mahmudullah,0,249
+535,9,320,0,0,4,top order (3-4),22,Ambati Rayudu,329,0
+722,0,0,0,48,8,lower (7+),4,Liam Dawson,0,48
+728,0,0,0,438,3,top order (3-4),21,Dawid Malan,0,438
+757,0,0,0,10,5,middle (5-6),2,Sybrand Engelbrecht,0,10
+768,0,0,0,776,2,opener (1-2),31,Reeza Hendricks,0,776
+772,0,257,0,153,3,top order (3-4),25,Rilee Rossouw,257,153
+773,0,0,0,14,8,lower (7+),3,Shadley Van Schalkwyk,0,14
+778,0,0,0,28,4,top order (3-4),2,Darren Bravo,0,28
+781,18,490,0,0,2,opener (1-2),47,Sunil Narine,508,0
+786,12,8,0,109,8,lower (7+),19,Chris Jordan,20,109
+796,40,104,0,263,7,lower (7+),29,Matthew Wade,144,263
+813,194,1570,0,947,2,opener (1-2),116,Jos Buttler,1764,947
+818,0,996,0,663,1,opener (1-2),79,Mitchell Marsh,996,663
+820,0,2,0,0,7,lower (7+),1,Nathan Coulter Nile,2,0
+829,0,21,0,7,9,lower (7+),12,Mitchell Starc,21,7
+830,2,27,0,9,11,lower (7+),11,Josh Hazlewood,29,9
+838,24,464,0,432,4,top order (3-4),71,Glenn Maxwell,488,432
+914,3,35,0,0,8,lower (7+),8,Krishnappa Gowtham,38,0
+930,0,151,0,0,3,top order (3-4),12,Karun Nair,151,0
+953,58,1628,0,231,2,opener (1-2),71,Lokesh Rahul,1686,231
+985,0,0,0,59,3,top order (3-4),7,Brendan Taylor,0,59
+988,0,0,0,4,10,lower (7+),1,Graeme Cremer,0,4
+992,31,453,0,0,2,opener (1-2),29,Mayank Agarwal,484,0
+1039,0,35,0,0,3,top order (3-4),5,Mandeep Singh,35,0
+1040,0,93,0,0,5,middle (5-6),5,Harpreet Bhatia,93,0
+1045,0,11,0,0,8,lower (7+),3,David Wiese,11,0
+1071,13,59,0,0,8,lower (7+),11,Jaydev Unadkat,72,0
+1077,63,848,0,335,5,middle (5-6),79,David Miller,911,335
+1100,0,0,0,59,5,middle (5-6),4,Dinesh Chandimal,0,59
+1101,0,0,0,456,6,middle (5-6),37,George Dockrell,0,456
+1107,0,31,10,594,5,middle (5-6),47,Mohammad Nabi,31,604
+1116,0,0,0,245,2,opener (1-2),15,Craig Ervine,0,245
+1159,0,0,0,24,11,lower (7+),5,Tendai Chatara,0,24
+1171,0,0,0,48,8,lower (7+),8,Chris Woakes,0,48
+1183,0,0,0,150,2,opener (1-2),8,Alex Hales,0,150
+1187,0,188,0,198,1,opener (1-2),19,Jason Roy,188,198
+1195,0,14,0,20,4,top order (3-4),4,Ben Stokes,14,20
+1205,46,370,0,257,2,opener (1-2),33,Jonny Bairstow,416,257
+1210,0,0,0,86,3,top order (3-4),5,James Vince,0,86
+1219,0,62,0,36,9,lower (7+),10,David Willey,62,36
+1233,0,0,0,29,4,top order (3-4),1,Gary Ballance,0,29
+1318,0,537,0,163,7,lower (7+),55,Andre Russell,537,163
+1327,0,0,0,393,2,opener (1-2),25,Johnson Charles,0,393
+1389,0,5,0,32,9,lower (7+),11,Sean Abbott,5,32
+1440,63,542,0,67,3,top order (3-4),42,Rahul Tripathi,605,67
+1481,0,0,6,562,3,top order (3-4),32,Kusal Perera,0,568
+1487,0,2,0,54,8,lower (7+),13,Adam Milne,2,54
+1541,0,0,0,157,5,middle (5-6),14,Sean Williams,0,157
+1556,0,5,0,0,10,lower (7+),1,David Payne,5,0
+1566,5,33,0,8,9,lower (7+),15,Mohammed Shami,38,8
+1568,0,258,38,239,3,top order (3-4),24,Kane Williamson,258,277
+1596,4,376,0,375,6,middle (5-6),53,Moeen Ali,380,375
+1612,0,8,0,2,10,lower (7+),3,Yuzvendra Chahal,8,2
+1617,0,52,0,0,7,lower (7+),6,Rishi Dhawan,52,0
+1649,0,0,0,52,4,top order (3-4),5,Regis Chakabva,0,52
+1699,104,1230,5,1322,4,top order (3-4),131,Suryakumar Yadav,1334,1327
+1701,4,21,0,0,8,lower (7+),6,Swapnil Singh,25,0
+1758,50,146,0,51,8,lower (7+),35,Patrick Cummins,196,51
+1791,0,0,0,9,6,middle (5-6),2,Wesley Barresi,0,9
+1801,0,0,0,20,6,middle (5-6),3,Nitish Kumar,0,20
+1810,0,0,0,50,3,top order (3-4),6,Devon Thomas,0,50
+1813,0,41,0,19,9,lower (7+),10,Deepak Chahar,41,19
+1924,0,138,0,43,5,middle (5-6),12,Sam Billings,138,43
+1941,34,714,17,696,2,opener (1-2),60,Devon Conway,748,713
+1944,0,2,0,88,8,lower (7+),12,Keshav Maharaj,2,88
+2003,0,191,45,185,3,top order (3-4),31,Bhanuka Rajapaksa,191,230
+2054,5,4,0,2,10,lower (7+),3,Jason Behrendorff,9,2
+2101,5,813,0,420,1,opener (1-2),63,Quinton de Kock,818,420
+2210,0,0,0,36,2,opener (1-2),4,Sabbir Rahman,0,36
+2213,0,0,0,201,2,opener (1-2),13,Soumya Sarkar,0,201
+2214,0,15,0,187,3,top order (3-4),14,Gulbadin Naib,15,187
+2218,0,0,0,84,3,top order (3-4),6,Anamul Haque,0,84
+2246,0,0,0,242,1,opener (1-2),11,Tom Latham,0,242
+2258,82,1303,21,810,3,top order (3-4),120,Sanju Samson,1385,831
+2261,2,97,0,46,8,lower (7+),29,Harshal Patel,99,46
+2296,0,0,0,6,10,lower (7+),2,Safyaan Sharif,0,6
+2304,0,3,0,10,9,lower (7+),5,Tymal Mills,3,10
+2315,0,6,0,15,10,lower (7+),6,Reece Topley,6,15
+2320,10,54,0,13,8,lower (7+),19,Trent Boult,64,13
+2321,0,0,0,1,10,lower (7+),1,Olly Stone,0,1
+2334,0,28,0,54,3,top order (3-4),11,Dwaine Pretorius,28,54
+2351,0,0,4,108,4,top order (3-4),12,Danushka Gunathilaka,0,112
+2361,0,0,0,98,2,opener (1-2),10,Temba Bavuma,0,98
+2364,0,0,0,47,1,opener (1-2),4,Ashton Agar,0,47
+2367,39,728,0,329,2,opener (1-2),64,Travis Head,767,329
+2373,0,18,0,2,7,lower (7+),3,Ashton Turner,18,2
+2379,0,0,0,337,4,top order (3-4),20,Ben Duckett,0,337
+2382,0,93,0,53,8,lower (7+),18,Jamie Overton,93,53
+2399,4,41,3,46,9,lower (7+),28,Dushmantha Chameera,45,49
+2407,0,0,21,151,4,top order (3-4),13,Dhananjaya de Silva,0,172
+2411,0,11,0,0,11,lower (7+),3,Sandeep Sharma,11,0
+2416,13,236,0,491,2,opener (1-2),44,Kyle Mayers,249,491
+2417,0,13,0,209,10,lower (7+),31,Akeal Hosein,13,209
+2418,0,0,0,20,4,top order (3-4),2,Justin Greaves,0,20
+2436,28,44,10,654,6,middle (5-6),58,Dasun Shanaka,72,664
+2439,0,0,0,1,9,lower (7+),1,Akila Dananjaya,0,1
+2463,0,0,0,675,5,middle (5-6),40,Ryan Burl,0,675
+2483,0,2,0,19,10,lower (7+),9,Lizaad Williams,2,19
+2485,0,0,54,1125,2,opener (1-2),51,Babar Azam,0,1179
+2490,0,0,61,421,7,lower (7+),45,Mohammad Nawaz,0,482
+2523,0,0,0,169,3,top order (3-4),11,Will Young,0,169
+2526,0,0,3,130,9,lower (7+),27,Ish Sodhi,0,133
+2531,0,15,0,0,4,top order (3-4),1,Joe Root,15,0
+2533,0,0,0,263,5,middle (5-6),20,Najibullah Zadran,0,263
+2534,0,0,0,6,4,top order (3-4),1,Rahmat Shah,0,6
+2573,6,50,0,219,1,opener (1-2),19,Evin Lewis,56,219
+2633,8,97,0,340,7,lower (7+),58,Jason Holder,105,340
+2636,0,16,0,36,10,lower (7+),15,Adam Zampa,16,36
+2639,57,772,0,389,5,middle (5-6),84,Marcus Stoinis,829,389
+2650,0,0,0,41,4,top order (3-4),2,Raymon Reifer,0,41
+2661,0,0,0,150,2,opener (1-2),7,Shamarh Brooks,0,150
+2671,0,4,0,1004,3,top order (3-4),56,Liton Das,4,1004
+2680,0,0,0,222,6,middle (5-6),21,Nurul Hasan,0,222
+2681,0,0,0,92,9,lower (7+),17,Taskin Ahmed,0,92
+2687,0,0,0,509,4,top order (3-4),35,Roston Chase,0,509
+2750,0,0,0,28,7,lower (7+),3,Alex Carey,0,28
+2756,38,517,0,0,6,middle (5-6),41,Shashank Singh,555,0
+2790,0,20,0,0,8,lower (7+),1,Praveen Dubey,20,0
+2847,0,206,0,0,8,lower (7+),28,Shardul Thakur,206,0
+2852,0,8,0,0,6,middle (5-6),2,Jagadeesha Suchith,8,0
+2860,0,7,0,0,2,opener (1-2),2,KS Bharat,7,0
+2876,0,801,0,478,7,lower (7+),105,Axar Patel,801,478
+2877,10,376,0,0,4,top order (3-4),26,Vijay Shankar,386,0
+2878,0,19,0,0,9,lower (7+),5,Mohit Sharma,19,0
+2884,11,11,0,0,1,opener (1-2),2,Manan Vohra,22,0
+2887,0,0,0,28,5,middle (5-6),3,Harmeet Singh,0,28
+2892,0,0,3,75,7,lower (7+),13,Asif Ali,0,78
+2921,0,0,67,796,3,top order (3-4),47,Fakhar Zaman,0,863
+2930,0,24,0,287,4,top order (3-4),20,Rassie van der Dussen,24,287
+2933,0,24,0,3,10,lower (7+),11,Jasprit Bumrah,24,3
+2972,0,0,0,169,2,opener (1-2),8,Yasim Murtaza,0,169
+2984,0,136,0,838,4,top order (3-4),55,Sikandar Raza,136,838
+2985,0,5,0,15,11,lower (7+),6,Mark Wood,5,15
+2996,0,0,0,28,2,opener (1-2),2,Stephanus Myburgh,0,28
+2997,0,0,0,18,10,lower (7+),5,Paul van Meekeren,0,18
+3024,0,0,78,1072,1,opener (1-2),36,Mohammad Rizwan,0,1150
+3033,0,0,0,7,9,lower (7+),2,Usman Qadir,0,7
+3038,0,0,2,52,5,middle (5-6),5,Hussain Talat,0,54
+3040,0,0,0,2,8,lower (7+),1,Kashif Daud,0,2
+3056,0,0,45,410,5,middle (5-6),30,Iftikhar Ahmed,0,455
+3077,0,0,0,7,9,lower (7+),4,Usama Mir,0,7
+3091,0,0,63,740,1,opener (1-2),37,Sahibzada Farhan,0,803
+3097,0,0,21,155,3,top order (3-4),10,Shan Masood,0,176
+3125,1,1119,0,803,3,top order (3-4),111,Nicholas Pooran,1120,803
+3135,0,0,0,4,10,lower (7+),2,Yannic Cariah,0,4
+3174,0,10,0,18,8,lower (7+),9,Matt Henry,10,18
+3260,0,0,0,54,3,top order (3-4),2,Hashmatullah Shahidi,0,54
+3272,0,7,0,41,7,lower (7+),9,Fabian Allen,7,41
+3275,0,19,0,111,10,lower (7+),20,Alzarri Joseph,19,111
+3276,0,0,0,145,8,lower (7+),21,Gudakesh Motie,0,145
+3280,0,0,0,490,3,top order (3-4),25,Nazmul Hossain Shanto,0,490
+3281,0,0,0,113,7,lower (7+),11,Mosaddek Hossain,0,113
+3282,0,0,0,264,1,opener (1-2),16,Mehidy Hasan Miraz,0,264
+3297,46,650,0,503,6,middle (5-6),91,Shimron Hetmyer,696,503
+3298,9,92,0,44,8,lower (7+),29,Jofra Archer,101,44
+3304,0,0,0,16,1,opener (1-2),2,Munim Shahriar,0,16
+3306,0,0,0,24,3,top order (3-4),1,Afsar Zazai,0,24
+3323,0,27,10,360,6,middle (5-6),36,Jimmy Neesham,27,370
+3330,111,940,0,833,5,middle (5-6),113,Hardik Pandya,1051,833
+3361,0,0,0,59,6,middle (5-6),6,Michael Leask,0,59
+3373,0,0,0,48,5,middle (5-6),6,Aizaz Khan,0,48
+3374,0,0,19,828,5,middle (5-6),50,Mark Chapman,0,847
+3377,0,0,0,165,3,top order (3-4),8,Babar Hayat,0,165
+3382,0,0,0,188,4,top order (3-4),7,Nizakat Khan,0,188
+3383,0,0,0,87,4,top order (3-4),6,Kinchit Shah,0,87
+3415,0,0,0,110,5,middle (5-6),5,Matthew Cross,0,110
+3451,0,30,0,0,1,opener (1-2),3,Baba Indrajith,30,0
+3469,0,7,0,0,8,lower (7+),1,Shreyas Gopal,7,0
+3489,0,0,48,608,4,top order (3-4),39,Salman Agha,0,656
+3539,0,0,0,138,2,opener (1-2),7,Ben McDermott,0,138
+3543,0,0,0,65,5,middle (5-6),5,Shahidullah Kamal,0,65
+3544,0,0,0,85,2,opener (1-2),6,Usman Ghani,0,85
+3545,0,0,0,14,2,opener (1-2),1,Ihsanullah Janat,0,14
+3550,0,0,0,21,8,lower (7+),3,Sharafuddin Ashraf,0,21
+3578,0,0,0,161,5,middle (5-6),11,Imad Wasim,0,161
+3595,0,0,0,8,9,lower (7+),2,Andy McBrine,0,8
+3605,25,1087,0,502,4,top order (3-4),87,Aiden Markram,1112,502
+3613,0,0,0,33,9,lower (7+),2,Shakeel Ahmed,0,33
+3622,0,0,0,15,10,lower (7+),3,Hayden Walsh,0,15
+3623,0,0,0,19,9,lower (7+),4,Hasan Ali,0,19
+3627,0,0,0,37,7,lower (7+),4,Andile Phehlukwayo,0,37
+3628,8,97,0,36,9,lower (7+),25,Kagiso Rabada,105,36
+3629,0,63,0,75,8,lower (7+),14,Corbin Bosch,63,75
+3635,0,0,0,53,4,top order (3-4),6,Jason Smith,0,53
+3639,0,0,0,1127,1,opener (1-2),58,Brandon King,0,1127
+3641,0,0,0,70,8,lower (7+),9,Ben Dwarshuis,0,70
+3644,0,178,0,23,9,lower (7+),37,Kuldeep Yadav,178,23
+3645,0,224,0,0,5,middle (5-6),16,Sarfaraz Khan,224,0
+3647,73,1084,0,661,4,top order (3-4),93,Shreyas Iyer,1157,661
+3648,39,510,0,202,3,top order (3-4),52,Deepak Hooda,549,202
+3651,0,9,0,0,5,middle (5-6),2,Ricky Bhui,9,0
+3653,0,37,0,20,10,lower (7+),18,Avesh Khan,37,20
+3660,0,3,0,5,9,lower (7+),3,Luke Wood,3,5
+3664,0,0,0,23,9,lower (7+),6,Binura Fernando,0,23
+3669,0,0,0,163,4,top order (3-4),8,Sadeera Samarawickrama,0,163
+3672,10,0,19,1261,2,opener (1-2),65,Kusal Mendis,10,1280
+3673,0,0,0,16,8,lower (7+),2,Ramesh Mendis,0,16
+3683,0,0,0,1,10,lower (7+),1,Gavin Main,0,1
+3686,0,0,0,22,9,lower (7+),5,CB Sole,0,22
+3689,0,0,0,58,7,lower (7+),6,Mark Watt,0,58
+3697,5,13,0,50,9,lower (7+),14,Kyle Jamieson,18,50
+3700,0,37,0,682,1,opener (1-2),39,Tim Seifert,37,682
+3720,0,0,0,30,9,lower (7+),8,Craig Young,0,30
+3727,0,143,0,260,1,opener (1-2),28,Matthew Short,143,260
+3771,0,0,0,1,11,lower (7+),1,Vivian Kingma,0,1
+3772,0,0,0,32,7,lower (7+),5,Logan van Beek,0,32
+3775,0,0,0,9,8,lower (7+),2,Sompal Kami,0,9
+3782,7,397,0,0,6,middle (5-6),42,M Shahrukh Khan,404,0
+3802,0,0,0,52,2,opener (1-2),3,Anshuman Rath,0,52
+3832,0,0,0,41,3,top order (3-4),3,Rezza Gaznavi,0,41
+3839,0,0,0,19,9,lower (7+),3,Amjad Mahboob,0,19
+3858,0,0,0,46,1,opener (1-2),3,Jatinder Singh,0,46
+3871,0,0,0,59,2,opener (1-2),3,Aamir Kaleem,0,59
+3876,0,0,0,5,5,middle (5-6),1,Sufyan Mehmood,0,5
+3916,29,687,0,100,6,middle (5-6),66,Jitesh Sharma,716,100
+3926,73,443,0,0,6,middle (5-6),56,Rahul Tewatia,516,0
+3954,0,0,0,553,1,opener (1-2),26,Andrew Balbirnie,0,553
+3967,31,23,0,0,2,opener (1-2),3,Tom Kohler,54,0
+3986,0,0,0,108,4,top order (3-4),6,Matthew Renshaw,0,108
+3995,0,0,0,3,8,lower (7+),2,Donald Tiripano,0,3
+4007,0,493,0,327,1,opener (1-2),43,Ryan Rickelton,493,327
+4101,3,97,0,420,7,lower (7+),56,Mitchell Santner,100,420
+4102,0,0,0,98,1,opener (1-2),5,George Munsey,0,98
+4106,0,267,0,864,4,top order (3-4),67,Daryl Mitchell,267,864
+4111,0,0,4,200,6,middle (5-6),17,Khushdil Shah,0,204
+4117,23,1378,0,934,3,top order (3-4),116,Ishan Kishan,1401,934
+4201,0,0,0,20,10,lower (7+),3,Fareed Malik,0,20
+4211,7,32,0,0,5,middle (5-6),4,Vishnu Vinod,39,0
+4219,47,566,0,0,5,middle (5-6),50,Krunal Pandya,613,0
+4221,0,0,0,3,9,lower (7+),1,Chris Green,0,3
+4229,0,21,0,110,7,lower (7+),12,George Linde,21,110
+4237,0,0,0,7,11,lower (7+),4,Tabraiz Shamsi,0,7
+4246,0,821,0,0,3,top order (3-4),48,Nitish Rana,821,0
+4260,82,1123,0,205,5,middle (5-6),70,Heinrich Klaasen,1205,205
+4265,0,2,0,0,11,lower (7+),1,T Natarajan,2,0
+4288,0,2,0,0,8,lower (7+),1,Navdeep Saini,2,0
+4369,0,122,0,934,3,top order (3-4),56,Shai Hope,122,934
+4372,0,0,0,82,2,opener (1-2),7,Rony Talukder,0,82
+4373,0,7,0,52,11,lower (7+),13,Mustafizur Rahman,7,52
+4391,15,577,0,396,4,top order (3-4),67,Liam Livingstone,592,396
+4409,0,506,0,334,6,middle (5-6),56,Sam Curran,506,334
+4412,0,0,0,199,2,opener (1-2),11,Max ODowd,0,199
+4417,0,0,0,2,9,lower (7+),2,Karan KC,0,2
+4438,0,0,0,20,9,lower (7+),2,Jasdeep Singh,0,20
+4458,0,0,0,24,2,opener (1-2),3,AHT Donald,0,24
+4460,0,0,0,23,8,lower (7+),3,Jeffrey Vandersay,0,23
+4486,0,5,0,0,4,top order (3-4),1,BR Sharath,5,0
+4487,0,16,0,0,10,lower (7+),6,Vyshak Kumar,16,0
+4489,7,12,0,3,9,lower (7+),5,Prasidh Krishna,19,3
+4494,0,235,0,0,6,middle (5-6),20,Abhinav Manohar,235,0
+4499,0,0,0,33,10,lower (7+),5,Saqib Mahmood,0,33
+4505,0,2,0,20,9,lower (7+),2,Jhye Richardson,2,20
+4604,0,0,0,1,11,lower (7+),1,Mitchell Swepson,0,1
+4636,0,0,0,54,8,lower (7+),9,Bjorn Fortuin,0,54
+4639,0,0,0,148,9,lower (7+),20,Wellington Masakadza,0,148
+4641,0,9,0,53,10,lower (7+),15,Lungi Ngidi,9,53
+4658,0,0,0,74,9,lower (7+),14,Nasum Ahmed,0,74
+4662,0,0,0,97,7,lower (7+),9,Cole McConchie,0,97
+4665,0,0,0,19,2,opener (1-2),2,Tom Blundell,0,19
+4684,0,0,0,146,3,top order (3-4),9,Dane Cleaver,0,146
+4686,0,0,0,114,7,lower (7+),9,Joshua Clarkson,0,114
+4692,0,6,0,24,9,lower (7+),13,Lockie Ferguson,6,24
+4695,0,0,0,83,4,top order (3-4),6,Nick Kelly,0,83
+4703,0,929,0,297,4,top order (3-4),70,Rishabh Pant,929,297
+4708,0,863,1,365,5,middle (5-6),80,Rinku Singh,863,366
+4716,0,1,0,0,9,lower (7+),1,Mayank Dagar,1,0
+4722,34,207,18,232,8,lower (7+),68,Rashid Khan,241,250
+4736,51,246,0,582,3,top order (3-4),54,Josh Inglis,297,582
+4755,3,1109,22,388,4,top order (3-4),96,Shivam Dube,1112,410
+4773,0,0,0,512,5,middle (5-6),34,Jaker Ali Anik,0,512
+4779,0,11,0,100,6,middle (5-6),9,Pieter Willem Mulder,11,100
+4780,0,0,0,442,1,opener (1-2),22,Mohammad Saif Hassan,0,442
+4784,0,0,0,91,1,opener (1-2),7,Tony de Zorzi,0,91
+4790,0,0,0,14,11,lower (7+),3,Lutho Sipamla,0,14
+4793,0,0,0,86,3,top order (3-4),5,Dean Foxcroft,0,86
+4802,0,0,0,21,3,top order (3-4),3,Stephen Doheny,0,21
+4807,0,0,0,19,11,lower (7+),5,Joshua Little,0,19
+4812,0,0,0,753,4,top order (3-4),40,Harry Tector,0,753
+4814,0,0,0,623,3,top order (3-4),35,Lorcan Tucker,0,623
+4815,0,0,0,11,11,lower (7+),3,Benjamin White,0,11
+4816,0,4,0,1,11,lower (7+),4,Khaleel Ahmed,4,1
+4817,0,75,0,0,1,opener (1-2),7,Anmolpreet Singh,75,0
+4821,36,186,0,0,4,top order (3-4),25,Mahipal Lomror,222,0
+4823,78,354,0,177,4,top order (3-4),47,Washington Sundar,432,177
+4826,0,0,0,4,8,lower (7+),1,George Garton,0,4
+4830,0,0,0,72,5,middle (5-6),6,Keacy Carty,0,72
+4837,5,0,0,38,11,lower (7+),8,Obed McCoy,5,38
+4838,0,0,0,29,9,lower (7+),3,Keemo Paul,0,29
+4840,0,44,0,84,7,lower (7+),19,Odean Smith,44,84
+4842,0,0,0,69,10,lower (7+),7,Shamar Springer,0,69
+4847,0,163,6,609,1,opener (1-2),49,Finn Allen,163,615
+4853,0,76,22,967,4,top order (3-4),54,Glenn Phillips,76,989
+4854,0,287,0,287,2,opener (1-2),43,Rachin Ravindra,287,287
+4856,0,0,0,33,10,lower (7+),8,Benjamin Sears,0,33
+4857,0,0,0,7,8,lower (7+),2,Nathan Smith,0,7
+4867,0,0,0,416,1,opener (1-2),28,Wesley Madhevere,0,416
+4871,0,0,0,15,7,lower (7+),2,Brandon Mavuta,0,15
+4874,0,0,0,62,10,lower (7+),19,Richard Ngarava,0,62
+4876,0,0,0,63,6,middle (5-6),6,Milton Shumba,0,63
+4880,0,0,0,3,6,middle (5-6),1,Aarif Sheikh,0,3
+4881,0,0,0,19,6,middle (5-6),1,Dipendra Airee,0,19
+4882,0,0,0,44,1,opener (1-2),3,Kushal Bhurtel,0,44
+4895,0,0,0,702,5,middle (5-6),50,Charith Asalanka,0,702
+4900,1,85,32,326,7,lower (7+),59,Wanindu Hasaranga,86,358
+4901,0,0,0,5,10,lower (7+),3,Asitha Fernando,0,5
+4902,0,0,0,59,4,top order (3-4),8,Avishka Fernando,0,59
+4904,0,69,0,524,5,middle (5-6),38,Kamindu Mendis,69,524
+4926,0,0,6,309,6,middle (5-6),27,Shadab Khan,0,315
+4947,0,0,0,9,10,lower (7+),3,Kasun Rajitha,0,9
+4974,0,0,0,7,4,top order (3-4),1,Mohammad Nadeem,0,7
+4983,0,0,0,3,7,lower (7+),1,Sikander Zulfiqar,0,3
+4986,20,370,0,1144,5,middle (5-6),98,Rovman Powell,390,1144
+5029,6,67,0,0,3,top order (3-4),5,Prerak Mankad,73,0
+5034,0,14,0,0,8,lower (7+),4,Murugan Ashwin,14,0
+5039,188,681,0,0,4,top order (3-4),46,Rajat Patidar,869,0
+5041,0,18,0,5,10,lower (7+),8,Mukesh Kumar,18,5
+5189,0,0,10,191,8,lower (7+),26,Faheem Ashraf,0,201
+5379,0,0,0,265,8,lower (7+),25,Mark Adair,0,265
+5441,0,0,0,109,8,lower (7+),14,Barry McCarthy,0,109
+5547,0,0,0,13,10,lower (7+),2,Nosthush Kenjige,0,13
+5553,36,676,0,884,1,opener (1-2),79,Phil Salt,712,884
+5561,0,0,0,12,10,lower (7+),2,Brad Wheal,0,12
+5562,0,2,0,4,10,lower (7+),3,Richard Gleeson,2,4
+5577,0,16,0,0,10,lower (7+),4,Sai Kishore,16,0
+5608,0,118,0,0,2,opener (1-2),8,Narayan Jagadeesan,118,0
+5665,0,2,0,0,8,lower (7+),1,Sanjay Yadav,2,0
+5738,0,28,0,62,8,lower (7+),14,Xavier Bartlett,28,62
+5750,0,0,0,17,9,lower (7+),4,Ehsan Khan,0,17
+5808,0,0,3,220,5,middle (5-6),22,Karim Janat,0,223
+5809,5,20,0,42,10,lower (7+),11,Naveen ul Haq,25,42
+5837,0,0,0,244,7,lower (7+),23,Mahedi Hasan,0,244
+5839,0,0,0,117,5,middle (5-6),9,Yasir Ali Chowdhury,0,117
+5866,0,0,0,60,7,lower (7+),5,Patrick Kruger,0,60
+5877,0,0,0,57,3,top order (3-4),3,Andries Gous,0,57
+5882,0,0,0,339,4,top order (3-4),18,Afif Hossain,0,339
+5892,0,0,0,5,10,lower (7+),1,Blair Tickner,0,5
+5928,0,391,0,0,1,opener (1-2),26,Prithvi Shaw,391,0
+5939,64,617,0,387,4,top order (3-4),62,Cameron Green,681,387
+5940,0,3,0,0,11,lower (7+),2,Riley Meredith,3,0
+5944,13,50,0,9,10,lower (7+),13,Mohammed Siraj,63,9
+5977,0,0,0,15,9,lower (7+),3,Khary Pierre,0,15
+5979,0,0,2,9,11,lower (7+),4,Abrar Ahmed,0,11
+6025,0,0,0,2,9,lower (7+),2,Henry Shipley,0,2
+6035,0,0,0,103,2,opener (1-2),5,Chirag Suri,0,103
+6059,44,1398,0,336,2,opener (1-2),74,Ruturaj Gaikwad,1442,336
+6097,0,0,0,37,8,lower (7+),8,Brydon Carse,0,37
+6160,0,0,14,136,8,lower (7+),16,Chamika Karunaratne,0,150
+6161,0,92,0,0,9,lower (7+),12,Rahul Chahar,92,0
+6166,0,0,0,6,8,lower (7+),1,Jack Edwards,0,6
+6172,0,0,0,1,3,top order (3-4),1,Lasith Croospulle,0,1
+6203,0,0,0,25,2,opener (1-2),3,Surendran Chandramohan,0,25
+6256,0,34,0,15,11,lower (7+),14,Varun Chakravarthy,34,15
+6272,0,379,0,316,3,top order (3-4),54,William Jacks,379,316
+6273,0,0,0,221,2,opener (1-2),16,Tom Banton,0,221
+6280,0,150,0,701,4,top order (3-4),52,Harry Brook,150,701
+6281,16,1200,6,1010,2,opener (1-2),127,Abhishek Sharma,1216,1016
+6284,0,59,0,0,8,lower (7+),13,Anukul Roy,59,0
+6286,0,7,0,18,8,lower (7+),5,Shivam Mavi,7,18
+6288,252,1786,10,595,2,opener (1-2),109,Shubman Gill,2038,605
+6297,0,0,0,5,11,lower (7+),2,Matthew Parkinson,0,5
+6314,65,908,0,0,3,top order (3-4),59,Devdutt Padikkal,973,0
+6342,0,12,0,129,3,top order (3-4),13,Matthew Breetzke,12,129
+6350,0,0,0,12,10,lower (7+),2,Matthew Kuhnemann,0,12
+6354,0,12,0,1,10,lower (7+),7,Spencer Johnson,12,1
+6355,0,0,7,156,9,lower (7+),24,Shaheen Afridi,0,163
+6389,0,0,0,16,10,lower (7+),3,Tanvir Islam,0,16
+6395,0,0,0,46,6,middle (5-6),5,Josh Philippe,0,46
+6396,38,563,0,565,6,middle (5-6),92,Tim David,601,565
+6398,0,0,0,142,7,lower (7+),11,Aaron Hardie,0,142
+6423,72,932,0,70,4,top order (3-4),68,Riyan Parag,1004,70
+6433,0,0,5,302,4,top order (3-4),19,Darwish Rasooli,0,307
+6436,0,0,0,4,8,lower (7+),1,Qais Ahmad,0,4
+6440,0,0,0,41,1,opener (1-2),4,Omair Yousuf,0,41
+6441,0,0,0,16,4,top order (3-4),3,Abdullah Shafique,0,16
+6448,0,0,15,1073,2,opener (1-2),44,Ibrahim Zadran,0,1088
+6450,0,0,0,69,9,lower (7+),13,Mujeeb Ur Rahman,0,69
+6457,0,96,0,0,3,top order (3-4),10,Urvil Patel,96,0
+6460,7,818,0,0,5,middle (5-6),55,Ayush Badoni,825,0
+6464,0,41,0,90,9,lower (7+),38,Arshdeep Singh,41,90
+6466,0,177,0,0,3,top order (3-4),10,Atharwa Taide,177,0
+6467,0,266,0,0,2,opener (1-2),20,Anuj Rawat,266,0
+6473,0,0,0,12,4,top order (3-4),2,Nuwanidu Fernando,0,12
+6486,0,31,0,0,2,opener (1-2),1,Tanush Kotian,31,0
+6487,0,56,0,0,2,opener (1-2),4,Priyam Garg,56,0
+6489,1,11,0,0,6,middle (5-6),2,Darshan Nalkande,12,0
+6503,0,0,0,2,11,lower (7+),1,Zahoor Khan,0,2
+6506,0,0,0,12,6,middle (5-6),2,Mohammad Imran Randhawa,0,12
+6512,0,47,4,297,6,middle (5-6),32,Michael Bracewell,47,301
+6514,0,0,0,43,3,top order (3-4),5,Anil Nidamanuru,0,43
+6515,0,0,0,6,11,lower (7+),3,Benjamin Lister,0,6
+6518,0,29,0,39,8,lower (7+),12,Daniel Sams,29,39
+6523,0,0,0,43,10,lower (7+),15,Blessing Muzarabani,0,43
+6526,0,69,0,0,7,lower (7+),5,Himmat Singh,69,0
+6565,0,0,0,46,1,opener (1-2),3,Katene Clarke,0,46
+6574,0,0,0,261,2,opener (1-2),14,Alick Athanaze,0,261
+6591,0,2,0,0,11,lower (7+),1,KM Asif,2,0
+6628,0,27,0,70,9,lower (7+),17,Gerald Coetzee,27,70
+6643,0,0,0,46,10,lower (7+),7,Hasan Mahmud,0,46
+6645,0,0,0,61,4,top order (3-4),4,Mohammad Sheikh,0,61
+6651,0,0,0,870,4,top order (3-4),46,Towhid Hridoy,0,870
+6664,0,0,0,340,3,top order (3-4),20,Dion Myers,0,340
+6669,7,21,0,0,9,lower (7+),7,Mohsin Khan,28,0
+6671,0,217,0,0,5,middle (5-6),16,Lalit Yadav,217,0
+6674,46,207,4,827,1,opener (1-2),65,Rahmanullah Gurbaz,253,831
+6676,14,87,1,521,6,middle (5-6),50,Azmatullah Omarzai,101,522
+6677,0,0,4,9,10,lower (7+),4,Mohammad Hasnain,0,13
+6683,0,13,0,0,10,lower (7+),3,Mayank Markande,13,0
+6697,0,1,0,0,9,lower (7+),1,Shams Mulani,1,0
+6705,0,0,0,26,6,middle (5-6),3,Scott McKechnie,0,26
+6725,15,272,0,508,5,middle (5-6),54,Sherfane Rutherford,287,508
+6726,9,128,0,525,7,lower (7+),64,Romario Shepherd,137,525
+6739,0,0,0,135,1,opener (1-2),7,Amir Jangoo,0,135
+6772,0,6,0,0,10,lower (7+),2,Chetan Sakariya,6,0
+6783,0,0,0,58,6,middle (5-6),10,Azam Khan,0,58
+6795,0,0,0,3,10,lower (7+),1,Terrance Hinds,0,3
+6797,0,0,0,12,9,lower (7+),3,Dominic Drakes,0,12
+6806,0,24,0,0,9,lower (7+),8,Tushar Deshpande,24,0
+6819,119,1334,0,346,1,opener (1-2),85,Yashasvi Jaiswal,1453,346
+6881,0,0,0,176,4,top order (3-4),12,Scott Edwards,0,176
+6900,0,0,0,19,3,top order (3-4),3,Michael Jones,0,19
+6919,0,0,0,11,7,lower (7+),1,Tyrone Kane,0,11
+6922,0,0,0,61,7,lower (7+),4,Abdul Samad,0,61
+6931,0,175,18,1379,1,opener (1-2),72,Pathum Nissanka,175,1397
+6932,0,0,0,3,9,lower (7+),1,Pramod Madushan,0,3
+6985,0,0,0,163,4,top order (3-4),5,Bas de Leede,0,163
+6995,0,0,0,39,8,lower (7+),2,Saad Zafar,0,39
+7001,0,0,0,20,7,lower (7+),3,Dilon Heyliger,0,20
+7002,0,0,0,109,4,top order (3-4),4,Nicholas Kirton,0,109
+7003,0,0,0,16,2,opener (1-2),3,Rayyan Pathan,0,16
+7008,0,0,0,23,8,lower (7+),2,Gus Atkinson,0,23
+7044,0,0,0,67,1,opener (1-2),5,Jamie Smith,0,67
+7046,0,0,0,74,1,opener (1-2),5,Tinashe Kamunhukamwe,0,74
+7049,0,0,47,343,3,top order (3-4),20,Kamil Mishara,0,390
+7052,0,0,0,89,7,lower (7+),7,Dunith Wellalage,0,89
+7059,72,466,0,0,4,top order (3-4),35,Nehal Wadhera,538,0
+7060,0,14,0,0,9,lower (7+),2,Arjun Tendulkar,14,0
+7094,0,0,0,494,5,middle (5-6),33,Curtis Campher,0,494
+7120,0,0,0,64,3,top order (3-4),3,Rohit Paudel,0,64
+7140,0,0,0,9,8,lower (7+),2,Senuran Muthusamy,0,9
+7152,0,0,0,230,1,opener (1-2),13,Hazratullah Zazai,0,230
+7155,0,0,0,3,5,middle (5-6),2,Sahan Arachchige,0,3
+7201,0,0,0,18,8,lower (7+),2,Haroon Arshad,0,18
+7216,41,1084,0,0,2,opener (1-2),59,Prabhsimran Singh,1125,0
+7227,0,0,0,5,10,lower (7+),1,Nijat Masood,0,5
+7240,0,15,11,19,11,lower (7+),11,FazalHaq Farooqi,15,30
+7250,0,8,0,0,11,lower (7+),3,Mukesh Choudhary,8,0
+7260,70,702,0,23,3,top order (3-4),53,Dhruv Jurel,772,23
+7269,3,0,0,0,10,lower (7+),1,Sushant Mishra,3,0
+7270,0,44,0,22,10,lower (7+),16,Anrich Nortje,44,22
+7304,1,20,0,0,10,lower (7+),5,Sanvir Singh,21,0
+7312,1,8,0,21,9,lower (7+),6,Nandre Burger,9,21
+7322,1,7,0,0,10,lower (7+),3,Yash Dayal,8,0
+7325,11,125,0,0,9,lower (7+),21,Harpreet Brar,136,0
+7327,0,38,0,0,10,lower (7+),6,Rasikh Salam,38,0
+7338,0,0,15,59,4,top order (3-4),9,Haider Ali,0,74
+7341,0,193,0,81,1,opener (1-2),22,Jake McGurk,193,81
+7344,0,0,0,76,10,lower (7+),15,Shoriful Islam,0,76
+7355,0,0,0,104,5,middle (5-6),7,Tayyab Tahir,0,104
+7364,0,0,13,90,10,lower (7+),22,Haris Rauf,0,103
+7406,0,0,0,102,4,top order (3-4),4,Rizwan CP,0,102
+7409,0,0,0,60,5,middle (5-6),3,Sundeep Jora,0,60
+7446,17,397,0,0,7,lower (7+),40,Abdul Samad,414,0
+7472,34,401,0,0,6,middle (5-6),32,Shahbaz Ahmed,435,0
+7473,0,14,0,0,11,lower (7+),5,Akash Deep,14,0
+7498,0,8,0,0,2,opener (1-2),1,Abhijeet Tomar,8,0
+7503,6,47,0,52,8,lower (7+),28,Ravi Bishnoi,53,52
+7533,0,15,0,0,9,lower (7+),6,Simarjeet Singh,15,0
+7544,77,767,0,50,3,top order (3-4),53,Venkatesh Iyer,844,50
+7545,0,3,0,0,11,lower (7+),1,Kuldeep Sen,3,0
+7566,0,0,0,40,2,opener (1-2),4,Ben Curran,0,40
+7574,7,10,0,0,10,lower (7+),4,Kumar Kartikeya Singh,17,0
+7625,0,101,0,11,6,middle (5-6),12,Suryansh Shedge,101,11
+7634,0,0,0,40,4,top order (3-4),3,Aaron Jones,0,40
+7689,0,0,0,12,11,lower (7+),5,Dilshan Madushanka,0,12
+7690,0,0,63,812,2,opener (1-2),57,Saim Ayub,0,875
+7692,0,0,0,15,6,middle (5-6),1,Qasim Akram,0,15
+7696,0,0,0,22,9,lower (7+),6,Mohammad Wasim,0,22
+7699,0,0,0,88,8,lower (7+),13,Abbas Afridi,0,88
+7702,0,0,0,35,7,lower (7+),4,Chamindu Wickramasinghe,0,35
+7704,0,0,11,49,4,top order (3-4),6,Pavan Rathnayake,0,60
+7709,0,0,0,32,10,lower (7+),3,Ainsley Ndlovu,0,32
+7710,0,0,0,1,9,lower (7+),1,Brandon Glover,0,1
+7741,0,0,0,264,7,lower (7+),27,Gareth Delany,0,264
+7744,0,0,0,74,4,top order (3-4),5,Jordan Cox,0,74
+7755,0,0,0,57,4,top order (3-4),4,Harsh Thaker,0,57
+7756,0,0,0,4,11,lower (7+),1,Kaleem Sana,0,4
+7761,0,0,0,24,7,lower (7+),3,Ravinderpal Singh,0,24
+7808,0,171,0,105,8,lower (7+),33,Marco Jansen,171,105
+7894,0,0,0,115,6,middle (5-6),11,Tony Munyonga,0,115
+7897,76,1154,53,1052,5,middle (5-6),116,Namboori Tilak Varma,1230,1105
+7900,0,0,0,900,2,opener (1-2),43,Tanzid Hasan,0,900
+7901,0,0,0,516,2,opener (1-2),35,Parvez Emon,0,516
+7903,0,0,0,360,6,middle (5-6),31,Shamim Hossain,0,360
+7905,0,0,0,163,9,lower (7+),17,Tanzim Sakib,0,163
+7911,0,0,0,50,2,opener (1-2),5,Oliver Hairs,0,50
+7912,0,0,0,137,3,top order (3-4),11,Vikramjit Singh,0,137
+7914,0,0,0,1,11,lower (7+),1,Clayton Floyd,0,1
+7915,0,0,0,37,1,opener (1-2),3,Monank Patel,0,37
+7920,0,9,0,48,9,lower (7+),11,Nathan Ellis,9,48
+7924,0,0,0,51,4,top order (3-4),3,Kushal Malla,0,51
+7925,0,0,0,11,1,opener (1-2),1,Rohan Rangarajan,0,11
+7926,0,0,0,15,5,middle (5-6),1,Manpreet Singh,0,15
+7927,0,0,0,81,4,top order (3-4),3,Janak Prakash,0,81
+7928,0,0,0,9,8,lower (7+),2,Vinoth Baskaran,0,9
+7929,0,0,0,17,7,lower (7+),3,Aryaman Sunil Uchil,0,17
+7931,0,0,0,62,1,opener (1-2),3,Aritra Dutta,0,62
+7935,0,0,0,4,11,lower (7+),2,Mohammad Ghazanfar,0,4
+7937,0,0,0,2,4,top order (3-4),1,Wasim Ali,0,2
+7967,5,53,6,50,9,lower (7+),26,Noor Ahmad,58,56
+7978,0,0,0,101,4,top order (3-4),9,Johnathan Campbell,0,101
+8005,0,0,0,50,7,lower (7+),5,Zawar Farid,0,50
+8009,0,0,0,38,10,lower (7+),10,Junaid Siddique,0,38
+8014,0,0,0,32,6,middle (5-6),3,Avi Dixit,0,32
+8040,0,46,0,0,8,lower (7+),5,Ripal Patel,46,0
+8049,0,0,2,45,9,lower (7+),9,Naseem Shah,0,47
+8085,0,106,0,0,6,middle (5-6),10,Suyash Prabhudessai,106,0
+8093,0,0,0,19,6,middle (5-6),2,Nikhil Chaudhary,0,19
+8101,0,334,0,0,7,lower (7+),26,Ashutosh Sharma,334,0
+8141,0,4,0,0,8,lower (7+),2,Auqib Nabi,4,0
+8177,0,14,0,0,11,lower (7+),2,Akash Madhwal,14,0
+8182,20,171,0,141,6,middle (5-6),29,Donovan Ferreira,191,141
+8217,0,0,0,13,5,middle (5-6),2,Ansh Tandon,0,13
+8221,50,491,0,131,4,top order (3-4),45,Nitish Reddy,541,131
+8238,0,293,0,0,4,top order (3-4),18,Sameer Rizvi,293,0
+8241,0,0,0,10,8,lower (7+),1,Lokesh Bam,0,10
+8251,0,21,0,0,2,opener (1-2),4,Kumar Kushagra,21,0
+8266,0,24,0,0,8,lower (7+),3,Sumit Kumar 1,24,0
+8295,0,0,0,114,7,lower (7+),14,Matthew Forde,0,114
+8298,0,0,0,2,11,lower (7+),1,Ramon Simmonds,0,2
+8301,0,0,0,200,5,middle (5-6),13,Asif Khan,0,200
+8311,0,0,0,6,7,lower (7+),1,Dan Mousley,0,6
+8326,0,0,0,6,11,lower (7+),3,Jayden Seales,0,6
+8380,0,0,0,161,8,lower (7+),28,Mohammad Rishad Hossain,0,161
+8405,0,0,0,8,2,opener (1-2),1,Kanwarpal Tathgur,0,8
+8408,0,0,0,82,5,middle (5-6),4,Shreyas Movva,0,82
+8424,0,0,0,4,11,lower (7+),1,Tanveer Sangha,0,4
+8530,0,16,0,0,9,lower (7+),5,Kartik Tyagi,16,0
+8580,0,16,0,0,9,lower (7+),4,Yudhvir Singh,16,0
+8600,0,0,0,415,2,opener (1-2),38,Tadiwanashe Marumani,0,415
+8623,0,0,0,1,8,lower (7+),1,Kristian Clarke,0,1
+8634,0,6,0,0,10,lower (7+),1,Ashwani Kumar,6,0
+8637,0,0,0,103,3,top order (3-4),8,Vriitya Aravind,0,103
+8638,0,0,0,139,6,middle (5-6),9,Basil Hameed,0,139
+8639,0,0,0,15,9,lower (7+),2,Kartik Meiyappan,0,15
+8647,0,16,15,498,2,opener (1-2),30,Sediqullah Atal,16,513
+8652,0,0,0,72,5,middle (5-6),7,Mohammad Ishaq,0,72
+8654,0,301,0,62,3,top order (3-4),21,Cooper Connolly,301,62
+8661,0,0,0,31,10,lower (7+),8,Matheesha Pathirana,0,31
+8664,0,0,0,3,10,lower (7+),1,Victor Nyauchi,0,3
+8719,0,0,0,43,3,top order (3-4),4,Aryan Lakra,0,43
+8723,0,0,0,8,9,lower (7+),2,Mohammed Faraazuddin,0,8
+8726,0,0,0,224,1,opener (1-2),11,Alishan Sharafu,0,224
+8727,0,0,0,5,7,lower (7+),1,Sanchit Sharma,0,5
+8739,0,0,0,129,6,middle (5-6),9,Muhammad Irfan,0,129
+8741,0,0,5,325,3,top order (3-4),29,Mohammad Haris,0,330
+8746,0,27,0,0,10,lower (7+),11,Vaibhav Arora,27,0
+8771,0,0,0,82,3,top order (3-4),5,Rubin Hermann,0,82
+8805,0,0,0,35,10,lower (7+),6,Ottneil Baartman,0,35
+15269,0,0,0,39,5,middle (5-6),2,Mohammed Aslam,0,39
+15271,0,0,0,38,4,top order (3-4),3,Usmangani Ibrahim Patel,0,38
+15274,0,0,0,46,1,opener (1-2),3,Ravija Sandaruwan,0,46
+15279,0,0,0,14,5,middle (5-6),2,Shiraz Khan,0,14
+15280,0,0,0,24,6,middle (5-6),3,Sayed Monib,0,24
+15303,0,0,0,22,3,top order (3-4),3,Bilal Tahir,0,22
+15551,0,0,0,125,4,top order (3-4),9,Ackeem Auguste,0,125
+15629,0,0,0,47,5,middle (5-6),3,Shayan Jahangir,0,47
+16498,0,0,0,4,8,lower (7+),2,Sultan Ahmad,0,4
+17413,0,0,0,59,5,middle (5-6),6,Neil Rock,0,59
+17419,0,0,0,81,2,opener (1-2),6,Tim Tector,0,81
+17424,0,0,0,12,9,lower (7+),4,Graham Hume,0,12
+17432,0,0,0,272,2,opener (1-2),14,Ross Adair,0,272
+17910,0,0,0,9,1,opener (1-2),3,Mohammad Akram,0,9
+17911,0,0,0,11,8,lower (7+),2,Nangeyalia Kharote,0,11
+17937,0,0,0,7,3,top order (3-4),2,Zubaid Akbari,0,7
+19012,0,0,0,94,1,opener (1-2),6,Zeeshan Ali,0,94
+19020,0,0,0,3,11,lower (7+),1,Ateeq Iqbal,0,3
+19125,0,0,0,7,10,lower (7+),2,Ayush Shukla,0,7
+19145,0,0,0,22,7,lower (7+),3,Aamer Jamal,0,22
+19147,0,0,0,55,8,lower (7+),5,Faraz Akram,0,55
+19307,0,0,0,15,8,lower (7+),2,Tharindu Rathnayake,0,15
+19309,0,0,0,95,1,opener (1-2),6,Lahiru Udara,0,95
+19312,0,0,0,20,11,lower (7+),7,Nuwan Thushara,0,20
+19315,5,0,0,2,11,lower (7+),2,Vijayakanth Viyaskanth,5,2
+19316,0,34,2,166,9,lower (7+),36,Maheesh Theekshana,34,168
+19530,0,0,0,6,11,lower (7+),1,Shahnawaz Dhani,0,6
+19714,0,529,0,0,2,opener (1-2),33,Abishek Porel,529,0
+19781,0,2,0,121,6,middle (5-6),12,Mitchell Owen,2,121
+19894,0,0,0,52,6,middle (5-6),8,Mitchell Hay,0,52
+19902,0,0,0,37,8,lower (7+),4,Tim Pringle,0,37
+20005,6,92,0,0,8,lower (7+),12,Arshad Khan,98,0
+20006,0,197,0,6,8,lower (7+),26,Ramandeep Singh,197,6
+20023,0,25,0,0,3,top order (3-4),3,Karan Sharma,25,0
+20163,0,0,0,51,2,opener (1-2),2,Aasif Sheikh,0,51
+20175,0,0,0,2,10,lower (7+),1,Nandan Yadav,0,2
+20229,0,0,0,1,11,lower (7+),1,Mohammad Ali,0,1
+20310,0,0,0,11,10,lower (7+),1,Ahmed Daniyal,0,11
+20316,0,0,0,1,11,lower (7+),1,Shahab Alam,0,1
+20327,0,0,4,309,3,top order (3-4),21,Usman Khan,0,313
+20702,0,648,0,395,6,middle (5-6),65,Tristan Stubbs,648,395
+20704,0,0,0,5,10,lower (7+),3,Salman Mirza,0,5
+20802,0,1,0,0,8,lower (7+),1,Abdul Basith,1,0
+20894,0,104,0,0,7,lower (7+),10,Aman Khan,104,0
+20989,0,47,0,0,1,opener (1-2),1,Vivrant Sharma,47,0
+21777,0,0,0,24,7,lower (7+),2,Tafadzwa Tsiga,0,24
+21780,0,0,0,6,10,lower (7+),2,Ernest Masuku,0,6
+21781,0,0,0,298,7,lower (7+),23,Clive Madande,0,298
+21784,0,0,0,121,8,lower (7+),17,Brad Evans,0,121
+21790,0,0,0,186,7,lower (7+),19,Tashinga Musekiwa,0,186
+21791,0,0,0,52,1,opener (1-2),3,J Gumbie,0,52
+22134,0,0,0,124,8,lower (7+),17,Luke Jongwe,0,124
+22137,0,0,0,30,9,lower (7+),5,Fionn Hand,0,30
+22187,0,0,0,65,8,lower (7+),5,Ryan Klein,0,65
+22188,0,0,0,44,9,lower (7+),5,Aryan Dutt,0,44
+22471,0,0,0,11,9,lower (7+),4,Matthew Humphreys,0,11
+22565,0,0,0,459,2,opener (1-2),20,Muhammad Waseem,0,459
+22920,0,0,0,31,11,lower (7+),10,Jacob Duffy,0,31
+23311,0,111,0,311,4,top order (3-4),29,Jacob Bethell,111,311
+23450,180,1501,0,0,1,opener (1-2),56,Sai Sudharsan,1681,0
+24017,0,0,0,769,1,opener (1-2),42,Brian Bennett,0,769
+24346,0,0,0,6,9,lower (7+),2,Mohamed Shafeeq,0,6
+24381,0,0,0,34,5,middle (5-6),3,Shariz Ahmad,0,34
+24475,0,0,0,45,9,lower (7+),8,Rehan Ahmed,0,45
+24779,0,0,0,81,7,lower (7+),5,Ijaz Ahmadzai,0,81
+24803,0,0,0,34,5,middle (5-6),3,Gulshan Jha,0,34
+24812,0,0,0,28,7,lower (7+),4,Chris Greaves,0,28
+24887,0,0,0,165,2,opener (1-2),10,Innocent Kaia,0,165
+24978,0,0,0,11,8,lower (7+),2,Jack Jarvis,0,11
+24982,0,0,0,25,3,top order (3-4),3,Charlie Tear,0,25
+25011,0,0,0,24,9,lower (7+),3,Liam Mccarthy,0,24
+25030,0,0,0,9,10,lower (7+),2,Zaman Khan,0,9
+25048,0,16,0,2,10,lower (7+),7,Umran Malik,16,2
+25128,0,0,0,20,9,lower (7+),4,Nqabayomzi Peter,0,20
+25132,0,9,0,0,10,lower (7+),2,Praful Hinge,9,0
+25138,0,9,0,0,8,lower (7+),4,Harsh Dubey,9,0
+25139,0,143,0,0,7,lower (7+),17,Shubham Dubey,143,0
+25213,0,410,0,195,4,top order (3-4),37,Dewald Brevis,410,195
+25216,0,0,0,35,8,lower (7+),6,Andile Simelane,0,35
+25231,0,0,0,19,11,lower (7+),2,Samay Shrivastava,0,19
+25501,0,0,0,38,2,opener (1-2),3,Meet Bhavsar,0,38
+25502,0,0,0,6,3,top order (3-4),2,Adnan Idrees,0,6
+25507,0,0,0,47,8,lower (7+),3,Edson Silva,0,47
+25534,0,0,0,156,2,opener (1-2),11,Chad Bowes,0,156
+25669,34,426,0,0,1,opener (1-2),30,Priyansh Arya,460,0
+25679,21,77,0,0,6,middle (5-6),11,Salil Arora,98,0
+25809,0,0,0,2,11,lower (7+),1,Juanoy Drysdale,0,2
+26519,0,0,2,124,5,middle (5-6),8,Janith Liyanage,0,126
+26646,0,0,0,154,4,top order (3-4),11,Rahul Chopra,0,154
+26663,0,2,0,23,10,lower (7+),6,Kwena Maphaka,2,23
+26795,0,0,0,14,7,lower (7+),2,Joel Davies,0,14
+26830,21,29,0,0,4,top order (3-4),5,Nishant Kumar Sindhu,50,0
+26834,4,28,0,0,7,lower (7+),4,Raj Bawa,32,0
+26839,0,0,0,22,3,top order (3-4),2,Haseebullah Khan,0,22
+26843,0,0,0,83,3,top order (3-4),3,Maaz Sadaqat,0,83
+26906,0,608,0,0,3,top order (3-4),30,Angkrish Raghuvanshi,608,0
+26909,0,23,0,0,5,middle (5-6),3,Yash Dhull,23,0
+26913,0,63,0,0,1,opener (1-2),5,Shaik Rasheed,63,0
+26916,0,0,0,9,9,lower (7+),2,Yasir Mohammad,0,9
+26988,0,0,0,14,8,lower (7+),2,Jitenkumar Ramanandi,0,14
+27004,0,0,0,5,9,lower (7+),2,Hassnain Shah,0,5
+27071,0,0,0,23,7,lower (7+),3,Vinayak Shukla,0,23
+27137,0,0,0,63,3,top order (3-4),3,Hammad Mirza,0,63
+27364,0,0,0,9,8,lower (7+),2,Simranjeet Kang,0,9
+27380,0,0,0,47,6,middle (5-6),8,Harshit Kaushik,0,47
+27390,0,0,0,5,10,lower (7+),2,Matiullah Khan,0,5
+27460,0,0,0,14,7,lower (7+),1,Ali Naseer,0,14
+27464,0,0,0,63,7,lower (7+),3,Aayan Afzal Khan,0,63
+27466,0,0,0,92,7,lower (7+),9,Dhruv Parashar,0,92
+27469,0,0,0,129,1,opener (1-2),6,Aryansh Sharma,0,129
+27504,0,0,0,19,8,lower (7+),2,Dushan Hemantha,0,19
+27516,0,0,0,8,11,lower (7+),1,Ihsanullah Ihsanullah,0,8
+27743,0,0,0,6,11,lower (7+),2,DT Doram,0,6
+27959,1,64,0,0,6,middle (5-6),5,Hrithik Shokeen,65,0
+27960,0,5,0,7,11,lower (7+),5,Mayank Yadav,5,7
+27962,0,15,0,0,8,lower (7+),3,Saurav Chauhan,15,0
+27964,0,50,0,0,9,lower (7+),9,Anshul Kamboj,50,0
+28018,0,4,0,0,10,lower (7+),2,Ashok Sharma,4,0
+28021,0,2,0,0,11,lower (7+),1,Saurabh Dubey,2,0
+28185,0,0,0,40,2,opener (1-2),3,Kamil Pooran,0,40
+28655,0,0,0,3,11,lower (7+),2,Muhammad Rohid,0,3
+28756,0,0,0,39,9,lower (7+),9,Haider Ali,0,39
+28908,0,0,0,4,11,lower (7+),1,Vincent Masekesa,0,4
+28915,0,0,0,26,11,lower (7+),5,Trevor Gwandu,0,26
+28967,0,0,0,400,1,opener (1-2),23,Tim Robinson,0,400
+28970,0,0,0,137,2,opener (1-2),5,Connor Esterhuizen,0,137
+29066,0,0,0,66,9,lower (7+),12,Zakary Foulkes,0,66
+29075,0,0,0,10,7,lower (7+),2,Aadil Ansari,0,10
+29080,0,0,0,12,8,lower (7+),3,Muhammad Khan,0,12
+29558,0,0,0,32,8,lower (7+),2,Muhammad Arfan,0,32
+29833,0,0,0,5,11,lower (7+),1,Bashir Ahmad,0,5
+29888,0,56,0,91,7,lower (7+),18,Harshit Rana,56,91
+30925,0,0,0,9,11,lower (7+),3,Bradley Currie,0,9
+30927,0,0,0,43,2,opener (1-2),2,Saiteja Mukkamalla,0,43
+31107,0,0,0,7,10,lower (7+),1,Yasin Patel,0,7
+31513,0,0,0,29,3,top order (3-4),3,Ethan Dsouza,0,29
+31518,0,25,0,0,6,middle (5-6),2,Akshat Raghuwanshi,25,0
+31529,0,19,0,0,6,middle (5-6),4,Robin Minz,19,0
+31835,0,0,0,5,11,lower (7+),2,Akshay Roopak Puri,0,5
+31836,0,0,0,27,5,middle (5-6),2,Aman Desai,0,27
+32399,0,0,0,49,1,opener (1-2),4,Aaron Johnson,0,49
+32401,0,0,0,12,8,lower (7+),2,Akhil Kumar,0,12
+32862,0,3,7,1,10,lower (7+),3,Allah Ghazanfar,3,8
+33067,4,21,0,0,4,top order (3-4),4,Ravichandran Smaran,25,0
+33440,0,0,0,6,11,lower (7+),2,Adwitya Bhargava,0,6
+33969,0,0,0,45,9,lower (7+),10,Tinotenda Maposa,0,45
+34466,0,0,0,46,7,lower (7+),2,Arafat Minhas,0,46
+34485,0,0,1,22,10,lower (7+),8,Sufiyan Muqeem,0,23
+34522,0,0,0,96,3,top order (3-4),3,Brandon McMullen,0,96
+34527,0,0,0,4,10,lower (7+),1,Jasper John Davidson,0,4
+34546,0,0,0,32,6,middle (5-6),1,Aryan Bisht,0,32
+34969,0,2,0,0,9,lower (7+),1,Manav Suthar,2,0
+35071,0,5,0,0,3,top order (3-4),1,Kunal Rathore,5,0
+35102,0,0,0,10,7,lower (7+),2,Zikria Islam,0,10
+35122,0,0,0,15,5,middle (5-6),2,Shah Faisal,0,15
+35318,7,0,0,0,11,lower (7+),1,Sakib Hussain,7,0
+35506,0,0,0,50,6,middle (5-6),4,Quentin Sampson,0,50
+36551,0,0,0,4,10,lower (7+),1,Zishan Motara,0,4
+36553,0,0,0,13,11,lower (7+),3,Jediah Blades,0,13
+36983,0,2,0,0,11,lower (7+),1,Mohit Rathee,2,0
+37052,24,390,0,76,3,top order (3-4),39,Naman Dhir,414,76
+37201,0,0,0,96,2,opener (1-2),6,Jewel Andrew,0,96
+37731,3,0,0,0,8,lower (7+),1,Musheer Khan,3,0
+37879,0,0,0,24,5,middle (5-6),3,Khawaja Nafay,0,24
+37939,0,0,0,5,11,lower (7+),1,Nahid Rana,0,5
+38855,0,0,0,77,8,lower (7+),11,Mohammad Saifuddin,0,77
+39374,0,0,0,147,1,opener (1-2),10,Muhammad Zohaib,0,147
+39640,0,0,0,47,2,opener (1-2),2,Sineth Jayawardena,0,47
+39657,8,9,1,20,10,lower (7+),11,Eshan Malinga,17,21
+39991,0,0,0,8,6,middle (5-6),1,Parveen Kumar,0,8
+41110,0,0,0,7,6,middle (5-6),1,Mayank Kumar,0,7
+42548,0,0,0,10,11,lower (7+),2,Muhammad Jawadullah,0,10
+42810,0,0,0,53,6,middle (5-6),5,Noah Croes,0,53
+42811,0,0,0,203,1,opener (1-2),8,Michael Levitt,0,203
+42845,0,9,0,0,2,opener (1-2),3,Arshin Kulkarni,9,0
+43250,0,0,0,53,3,top order (3-4),2,Dilpreet Singh Bajwa,0,53
+43774,0,3,0,0,7,lower (7+),1,Shivam Singh,3,0
+43798,0,8,0,65,3,top order (3-4),8,Lhuan Pretorius,8,65
+43917,0,21,0,0,9,lower (7+),2,Krish Bhagat,21,0
+45381,0,1,0,0,11,lower (7+),1,PV Satyanarayan Raju,1,0
+45457,0,0,0,48,5,middle (5-6),4,Zach Lion Cachet,0,48
+45749,0,120,0,0,7,lower (7+),10,Mukul Choudhary,120,0
+45966,0,67,0,0,7,lower (7+),5,Prashant Veer,67,0
+46066,0,89,0,0,8,lower (7+),10,Vipraj Nigam,89,0
+46137,0,216,0,0,4,top order (3-4),11,Kartik Sharma,216,0
+46378,0,0,0,39,9,lower (7+),5,Kyle Klein,0,39
+46929,0,0,0,77,5,middle (5-6),5,Dian Forrester,0,77
+47050,0,0,0,29,9,lower (7+),7,Shamar Joseph,0,29
+47314,0,0,0,17,4,top order (3-4),2,Wafiullah Tarakhil,0,17
+47370,0,196,0,0,5,middle (5-6),20,Aniket Verma,196,0
+47371,0,0,0,2,8,lower (7+),1,Zuhaid Zubair,0,2
+47403,0,0,0,21,9,lower (7+),5,Newman Nyamhuri,0,21
+47724,0,0,0,32,8,lower (7+),4,Jahandad Khan,0,32
+48504,0,240,0,0,3,top order (3-4),13,Ayush Mhatre,240,0
+48575,0,33,0,0,3,top order (3-4),4,Sahil Parakh,33,0
+48616,0,0,0,21,7,lower (7+),2,Abdul Saqlain,0,21
+48953,0,5,0,0,2,opener (1-2),2,Danish Malewar,5,0
+49003,0,0,8,313,4,top order (3-4),26,Hasan Nawaz,0,321
+49027,0,0,0,158,5,middle (5-6),11,Bevon Jacobs,0,158
+49268,0,0,0,7,3,top order (3-4),1,Sohaib Khan,0,7
+50062,0,0,0,21,10,lower (7+),2,Nqobani Mokoena,0,21
+50284,76,359,0,129,2,opener (1-2),30,Vaibhav Sooryavanshi,435,129
+55747,0,0,0,81,5,middle (5-6),6,Benjamin Calitz,0,81
+56685,0,0,0,9,10,lower (7+),2,Abdullah Ahmadzai,0,9
+56817,24,22,0,0,9,lower (7+),6,Shivang Kumar,46,0
+56830,0,12,0,0,8,lower (7+),2,Madhav Tiwari,12,0
+57747,0,0,0,3,9,lower (7+),1,Charlie Cassell,0,3
+58134,0,8,0,0,11,lower (7+),3,Digvesh Rathi,8,0
+58135,0,15,0,0,7,lower (7+),2,Tejasvi Dahiya,15,0
+58246,0,11,0,28,10,lower (7+),9,Prince Yadav,11,28
+59045,0,0,0,3,10,lower (7+),2,Jai Moondra,0,3
+60609,0,0,0,30,6,middle (5-6),2,Navin Bidaisee,0,30
+60700,0,2,0,0,6,middle (5-6),1,Ravi Singh,2,0
+64604,0,0,0,11,5,middle (5-6),2,Kalhan Challu,0,11
+66103,0,0,0,17,6,middle (5-6),2,Noor Rahman,0,17
+67036,0,4,0,0,10,lower (7+),2,Brijesh Sharma,4,0
+71727,0,0,0,1,9,lower (7+),1,Razaullah Razaullah,0,1

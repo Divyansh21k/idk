@@ -1,0 +1,22 @@
+exception_row,position,match_id,innings,over,ball,striker,bowler,runs,extras_type,extras1,extras2,wicket
+36854,-3,17555,1,5,1,Dawid Malan,Haris Rauf,0,,0,0,False
+36854,-2,17555,1,5,2,Dawid Malan,Haris Rauf,0,,0,0,False
+36854,-1,17555,1,5,3,Dawid Malan,Haris Rauf,0,,0,0,False
+36854,THIS ROW,17555,1,5,4,Dawid Malan,Haris Rauf,0,,0,1,False
+36854,+1,17555,1,5,5,William Jacks,Haris Rauf,4,,0,0,False
+36854,+2,17555,1,5,6,William Jacks,Haris Rauf,4,,0,0,False
+36854,+3,17555,1,6,1,Dawid Malan,Shahnawaz Dhani,0,,0,0,False
+107489,-3,36097,2,8,3,Rassie van der Dussen,Romario Shepherd,1,,0,0,False
+107489,-2,36097,2,8,4,Tristan Stubbs,Romario Shepherd,1,,0,0,False
+107489,-1,36097,2,8,5,Rassie van der Dussen,Romario Shepherd,0,,0,0,False
+107489,THIS ROW,36097,2,8,6,Rassie van der Dussen,Romario Shepherd,0,,1,0,False
+107489,+1,36097,2,9,1,Rassie van der Dussen,Gudakesh Motie,1,,0,0,False
+107489,+2,36097,2,9,2,Tristan Stubbs,Gudakesh Motie,1,,0,0,False
+107489,+3,36097,2,9,3,Rassie van der Dussen,Gudakesh Motie,0,,0,0,False
+113765,-3,37099,1,13,4,Nimesh Vimukthi,Sharafuddin Ashraf,1,,0,0,False
+113765,-2,37099,1,13,5,Sahan Arachchige,Sharafuddin Ashraf,1,,0,0,False
+113765,-1,37099,1,13,6,Nimesh Vimukthi,Sharafuddin Ashraf,0,legbyes,1,0,False
+113765,THIS ROW,37099,1,14,1,Nimesh Vimukthi,Qais Ahmad,1,legbyes,0,0,False
+113765,+1,37099,1,14,2,Sahan Arachchige,Qais Ahmad,2,,0,0,False
+113765,+2,37099,1,14,3,Sahan Arachchige,Qais Ahmad,1,,0,0,False
+113765,+3,37099,1,14,4,Nimesh Vimukthi,Qais Ahmad,2,,0,0,False

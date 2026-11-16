@@ -1,0 +1,7 @@
+check,value,threshold,pass
+V1_mean_v_bat,-1.204558544631741e-17,|<0.01|,True
+V1_mean_v_bowl,1.3250143990949151e-17,|<0.01|,True
+V2_resource_mono_balls,False,True,False
+V2_resource_mono_wkts,False,True,False
+V3_c_s_nonneg,0,0,True
+V4_v_bat_finite,0,0,True

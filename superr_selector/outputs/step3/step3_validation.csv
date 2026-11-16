@@ -1,0 +1,6 @@
+check,value,pass
+V1_mean_x_t,2.2407481652523608e-05,True
+V2_brier_score,0.1924544325072892,True
+V3_leverage_positive,0.0,True
+V4_PI_missing,0.0,True
+V5_w_K_range,0.05293222690681777,True
