@@ -12,16 +12,16 @@ Rather than relying on reputation, conventional batting averages, or economy rat
 
 These batters deliver the highest net run value above context expectation when the game is in high-leverage situations:
 
-1. **Vaibhav Sooryavanshi** (opener (1-2)): Overall Rating **+54.54** runs per 100 balls. (Regular: +54.95, Knockouts: +47.17, Exposure: 564 balls faced, 180 under high pressure).
-2. **Patrick Cummins** (lower (7+)): Overall Rating **+52.69** runs per 100 balls. (Regular: +53.21, Knockouts: +43.44, Exposure: 247 balls faced, 28 under high pressure).
-3. **Dinesh Karthik** (middle (5-6)): Overall Rating **+50.00** runs per 100 balls. (Regular: +50.55, Knockouts: +40.16, Exposure: 633 balls faced, 49 under high pressure).
-4. **Abhishek Sharma** (opener (1-2)): Overall Rating **+41.77** runs per 100 balls. (Regular: +42.39, Knockouts: +30.64, Exposure: 2232 balls faced, 525 under high pressure).
-5. **Matthew Wade** (lower (7+)): Overall Rating **+40.91** runs per 100 balls. (Regular: +41.43, Knockouts: +31.45, Exposure: 407 balls faced, 126 under high pressure).
-6. **Suryakumar Yadav** (top order (3-4)): Overall Rating **+38.70** runs per 100 balls. (Regular: +39.19, Knockouts: +29.94, Exposure: 2661 balls faced, 581 under high pressure).
-7. **Ryan Rickelton** (opener (1-2)): Overall Rating **+33.88** runs per 100 balls. (Regular: +34.40, Knockouts: +24.50, Exposure: 820 balls faced, 278 under high pressure).
-8. **Yashasvi Jaiswal** (opener (1-2)): Overall Rating **+32.18** runs per 100 balls. (Regular: +32.74, Knockouts: +22.16, Exposure: 1799 balls faced, 578 under high pressure).
-9. **Andre Russell** (lower (7+)): Overall Rating **+30.84** runs per 100 balls. (Regular: +31.36, Knockouts: +21.46, Exposure: 700 balls faced, 76 under high pressure).
-10. **Rahul Tewatia** (middle (5-6)): Overall Rating **+30.17** runs per 100 balls. (Regular: +30.65, Knockouts: +21.67, Exposure: 516 balls faced, 92 under high pressure).
+1. **Vaibhav Sooryavanshi** (opener (1-2)): Overall Rating **+58.03** runs per 100 balls. (Regular: +54.54, Knockouts: +120.56, Exposure: 564 balls faced, 180 under high pressure).
+2. **Patrick Cummins** (lower (7+)): Overall Rating **+52.10** runs per 100 balls. (Regular: +52.25, Knockouts: +49.53, Exposure: 248 balls faced, 28 under high pressure).
+3. **Dinesh Karthik** (middle (5-6)): Overall Rating **+45.60** runs per 100 balls. (Regular: +47.43, Knockouts: +12.83, Exposure: 637 balls faced, 49 under high pressure).
+4. **Suryakumar Yadav** (top order (3-4)): Overall Rating **+39.24** runs per 100 balls. (Regular: +38.79, Knockouts: +47.31, Exposure: 2663 balls faced, 581 under high pressure).
+5. **Matthew Wade** (lower (7+)): Overall Rating **+38.40** runs per 100 balls. (Regular: +39.04, Knockouts: +27.08, Exposure: 408 balls faced, 126 under high pressure).
+6. **Ryan Rickelton** (opener (1-2)): Overall Rating **+33.77** runs per 100 balls. (Regular: +34.32, Knockouts: +23.96, Exposure: 820 balls faced, 278 under high pressure).
+7. **Rahul Tewatia** (middle (5-6)): Overall Rating **+31.66** runs per 100 balls. (Regular: +30.36, Knockouts: +54.90, Exposure: 518 balls faced, 92 under high pressure).
+8. **Yashasvi Jaiswal** (opener (1-2)): Overall Rating **+30.86** runs per 100 balls. (Regular: +32.24, Knockouts: +6.22, Exposure: 1800 balls faced, 578 under high pressure).
+9. **Abhishek Sharma** (opener (1-2)): Overall Rating **+30.75** runs per 100 balls. (Regular: +40.96, Knockouts: -152.03, Exposure: 2235 balls faced, 525 under high pressure).
+10. **Andre Russell** (lower (7+)): Overall Rating **+29.22** runs per 100 balls. (Regular: +29.77, Knockouts: +19.41, Exposure: 702 balls faced, 76 under high pressure).
 
 
 ---
@@ -32,14 +32,14 @@ These bowlers prevent runs and take critical wickets in high-leverage situations
 
 1. **Mosaddek Hossain** (Spin, right): Overall Rating **+49.62** runs saved/credited per 100 balls. (Regular: +49.81, Knockouts: +46.28, Exposure: 163 deliveries bowled, 41 under high pressure).
 2. **Corbin Bosch** (Pace, right): Overall Rating **+37.46** runs saved/credited per 100 balls. (Regular: +37.65, Knockouts: +34.12, Exposure: 360 deliveries bowled, 99 under high pressure).
-3. **Reece Topley** (Pace, left): Overall Rating **+35.60** runs saved/credited per 100 balls. (Regular: +35.82, Knockouts: +31.53, Exposure: 632 deliveries bowled, 117 under high pressure).
-4. **Junaid Siddique** (Pace, right): Overall Rating **+34.87** runs saved/credited per 100 balls. (Regular: +35.06, Knockouts: +31.53, Exposure: 354 deliveries bowled, 37 under high pressure).
+3. **Junaid Siddique** (Pace, right): Overall Rating **+34.87** runs saved/credited per 100 balls. (Regular: +35.06, Knockouts: +31.53, Exposure: 354 deliveries bowled, 37 under high pressure).
+4. **Reece Topley** (Pace, left): Overall Rating **+33.04** runs saved/credited per 100 balls. (Regular: +35.82, Knockouts: -16.74, Exposure: 632 deliveries bowled, 117 under high pressure).
 5. **Ashton Agar** (Spin, left): Overall Rating **+30.82** runs saved/credited per 100 balls. (Regular: +31.01, Knockouts: +27.48, Exposure: 145 deliveries bowled, 26 under high pressure).
-6. **Lockie Ferguson** (Pace, right): Overall Rating **+30.52** runs saved/credited per 100 balls. (Regular: +30.72, Knockouts: +26.97, Exposure: 1138 deliveries bowled, 195 under high pressure).
-7. **Zaman Khan** (Pace, right): Overall Rating **+30.36** runs saved/credited per 100 balls. (Regular: +30.55, Knockouts: +27.02, Exposure: 200 deliveries bowled, 55 under high pressure).
-8. **Jofra Archer** (Pace, right): Overall Rating **+30.23** runs saved/credited per 100 balls. (Regular: +30.45, Knockouts: +26.36, Exposure: 1290 deliveries bowled, 276 under high pressure).
-9. **Josh Hazlewood** (Pace, right): Overall Rating **+30.15** runs saved/credited per 100 balls. (Regular: +30.33, Knockouts: +26.89, Exposure: 1403 deliveries bowled, 280 under high pressure).
-10. **Dunith Wellalage** (Spin, left): Overall Rating **+29.93** runs saved/credited per 100 balls. (Regular: +30.12, Knockouts: +26.59, Exposure: 242 deliveries bowled, 36 under high pressure).
+6. **Zaman Khan** (Pace, right): Overall Rating **+30.36** runs saved/credited per 100 balls. (Regular: +30.55, Knockouts: +27.02, Exposure: 200 deliveries bowled, 55 under high pressure).
+7. **Josh Hazlewood** (Pace, right): Overall Rating **+30.23** runs saved/credited per 100 balls. (Regular: +30.33, Knockouts: +28.36, Exposure: 1403 deliveries bowled, 280 under high pressure).
+8. **Lockie Ferguson** (Pace, right): Overall Rating **+30.02** runs saved/credited per 100 balls. (Regular: +30.72, Knockouts: +17.57, Exposure: 1138 deliveries bowled, 195 under high pressure).
+9. **Dunith Wellalage** (Spin, left): Overall Rating **+29.93** runs saved/credited per 100 balls. (Regular: +30.12, Knockouts: +26.59, Exposure: 242 deliveries bowled, 36 under high pressure).
+10. **Haider Ali** (Spin, left): Overall Rating **+29.77** runs saved/credited per 100 balls. (Regular: +29.95, Knockouts: +26.42, Exposure: 273 deliveries bowled, 10 under high pressure).
 
 
 ---

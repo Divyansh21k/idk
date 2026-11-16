@@ -34,8 +34,8 @@ echo "[Step 3/6] Win probability, leverage & pressure index (PI)..."
 python3 src/step3_win_probability.py --out-dir "$OUT_DIR"
 
 echo ""
-echo "[Step 4/6] Hierarchical player models & match-cluster bootstrap..."
-python3 src/step4_player_model.py --out-dir "$OUT_DIR"
+echo "[Step 4/6] Hierarchical player models & match-cluster bootstrap (500 resamples)..."
+python3 src/step4_player_model.py --out-dir "$OUT_DIR" --n-bootstrap 500
 
 echo ""
 echo "[Step 5/6] Eligibility filtering & uncertainty analysis..."

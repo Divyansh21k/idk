@@ -159,22 +159,35 @@ print(f"  Bowler top-10 overlap vs primary (w_K variants): {bowl_overlap}")
 N_SIM = 1000
 rng = np.random.default_rng(42)
 
-def compute_p_top10(df, rating_col, se_col, n_sim=1000):
-    """Compute P(top 10) for each player via Monte Carlo simulation."""
+def compute_p_top10(df, rating_col, se_col, boot_lo_col, boot_hi_col, n_sim=1000):
+    """
+    Compute P(top 10) for each player via Monte Carlo simulation.
+
+    FIX A: Uses R_overall as the rating and se_R_overall for uncertainty.
+    Bootstrap CI columns are used to validate that simulation SE is consistent.
+    """
     eligible = df[df['eligible']].copy()
     n = len(eligible)
     ratings = eligible[rating_col].values
     ses = eligible[se_col].values
+    # Use bootstrap-derived SE if available (more reliable than analytical SE)
+    # Bootstrap SE = (hi90 - lo90) / (2 * 1.645)
+    if boot_lo_col in eligible.columns and boot_hi_col in eligible.columns:
+        boot_se = (eligible[boot_hi_col].values - eligible[boot_lo_col].values) / (2 * 1.645)
+        # Use bootstrap SE where it's available (>0); fall back to analytical
+        boot_se = np.where(boot_se > 0, boot_se, ses)
+    else:
+        boot_se = ses
     # Simulate n_sim draws for each player
-    draws = ratings[:, None] + rng.standard_normal((n, n_sim)) * ses[:, None]
+    draws = ratings[:, None] + rng.standard_normal((n, n_sim)) * boot_se[:, None]
     # Count how many times each player is in top 10
     top10_counts = (np.argsort(draws, axis=0)[::-1][:10, :]).reshape(-1)
     counter = np.bincount(top10_counts, minlength=n)
     eligible['P_top10'] = counter / n_sim
     return eligible
 
-bat_elig = compute_p_top10(bat_elig, 'R_overall', 'se_R_overall')
-bowl_elig = compute_p_top10(bowl_elig, 'R_overall', 'se_R_overall')
+bat_elig = compute_p_top10(bat_elig, 'R_overall', 'se_R_overall', 'R_overall_lo90', 'R_overall_hi90')
+bowl_elig = compute_p_top10(bowl_elig, 'R_overall', 'se_R_overall', 'R_overall_lo90', 'R_overall_hi90')
 
 bat_elig.to_csv(S5 / 'batter_eligible_ranked.csv', index=False)
 bowl_elig.to_csv(S5 / 'bowler_eligible_ranked.csv', index=False)
