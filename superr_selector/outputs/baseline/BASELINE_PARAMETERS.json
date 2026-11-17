@@ -1,0 +1,74 @@
+{
+  "baseline_version": "Model B (v0.6 post-audit + validation gate)",
+  "git_commit": "c0ace3fe9412bff1faa25b7f79dfe8682bec112f",
+  "branch": "model-repair",
+  "freeze_point": "F1",
+  "w_K": 0.05293222690681777,
+  "w_K_details": {
+    "ipl_knockout_leverage_sum": 795.2941890009133,
+    "ipl_total_leverage_sum": 15024.763465949662,
+    "ipl_knockout_deliveries": 4383,
+    "ipl_total_deliveries": 82279
+  },
+  "evaluation_reference_point": {
+    "X_STAR": 0.4,
+    "description": "Evaluates rating at PI = 0.90 (where x* = 0.90 - 0.50 = 0.40)"
+  },
+  "pressure_index": {
+    "threshold_high_pressure": 0.8,
+    "definition": "Within-competition-class empirical percentile of leverage L(s)"
+  },
+  "hierarchical_shrinkage_parameters": {
+    "batter": {
+      "sigma_e_sq": 8.620108,
+      "sigma_e": 2.936002,
+      "kappa": -0.1035738365675718,
+      "gamma": 0.0,
+      "min_n_for_role_prior": 60
+    },
+    "bowler": {
+      "sigma_e_sq": 8.259902,
+      "sigma_e": 2.874005,
+      "kappa": -0.0352848967093085,
+      "gamma": 0.0,
+      "min_n_for_role_prior": 60
+    }
+  },
+  "eligibility_frameworks": {
+    "model_A_initial": {
+      "n_total_min": 120,
+      "n_hp_min": 10,
+      "distinct_matches_min": null,
+      "description": "Initial Stage 4 v0.5/v0.6 criteria (too permissive for bowlers)"
+    },
+    "model_B_primary_baseline": {
+      "n_hp_min": 50,
+      "distinct_matches_min": 5,
+      "description": "Current approved baseline (empirically justified minimum exposure)"
+    },
+    "model_C_sustained": {
+      "n_hp_min": 100,
+      "distinct_matches_min": 10,
+      "description": "High-exposure robustness benchmark"
+    }
+  },
+  "simulation_and_bootstrap": {
+    "bootstrap_resamples": 500,
+    "bootstrap_level": "Match-cluster stratified by competition category",
+    "bootstrap_seed": 42,
+    "simulation_replications": 1000,
+    "simulation_seeds": {
+      "base": 99,
+      "stress": 100
+    }
+  },
+  "data_scope": {
+    "start_year": 2022,
+    "competitions_included": [
+      "IPL league",
+      "IPL knockout",
+      "T20I non-knockout",
+      "T20I final"
+    ]
+  }
+}
