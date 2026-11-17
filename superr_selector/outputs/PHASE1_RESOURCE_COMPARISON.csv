@@ -1,0 +1,7 @@
+Model,OOF_MAE,OOF_RMSE,Mean_Bias,Calib_Slope,Calib_Intercept,Balls_Violations,Max_Balls_Viol,Wkts_Violations,Max_Wkts_Viol,Fold_Stability_Std,Mean_Wicket_Cost,Neg_Wicket_Costs
+Baseline (Current),16.849,23.093,0.0176,0.9975,0.1976,17,44.19,20,20.5,2.741,10.35,20
+Model 1 (Pooled),16.846,23.088,0.0225,0.9977,0.1806,20,44.19,12,9.5,3.018,7.04,12
+Model 2 (2D Kernel Smoothing),17.167,23.274,0.8167,1.0318,-3.6357,1,0.36,0,0.0,1.501,6.96,0
+Model 3 (Alternating Isotonic),16.843,23.077,-0.171,0.9966,0.4657,0,0.0,0,0.0,2.279,10.35,0
+Model 4 (Parametric DL),16.933,23.069,0.4269,1.014,-1.6571,0,0.0,0,0.0,1.408,10.0,0
+Model 5 (Hybrid Prior + Monotone),16.823,23.055,0.0205,0.9986,0.1034,0,0.0,0,0.0,1.627,9.92,0
