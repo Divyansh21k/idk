@@ -1,0 +1,7 @@
+Model,Test_Brier,Brier_95_CI,Test_LogLoss,Test_AUC,ECE,Calib_Slope,Calib_Intercept,Decile0_Error,Decile9_Error,Brier_Inn1,Brier_Inn2,Brier_IPL,Brier_T20I
+Model A: Baseline Single-Feature LR,0.1898,"[0.1889, 0.1908]",0.5702,0.7886,0.0436,1.0495,-0.0437,0.045,0.0122,0.2354,0.1394,0.1886,0.1905
+Model B: Multivariable Logistic Regression,0.1794,"[0.1784, 0.1805]",0.5229,0.8034,0.0153,1.0017,-0.0137,0.0013,0.0125,0.228,0.1258,0.1782,0.1803
+Model C: Calibrated Multivariable LR (Platt),0.1794,"[0.1784, 0.1805]",0.5229,0.8034,0.0152,1.0018,-0.0137,0.0007,0.0132,0.228,0.1257,0.1781,0.1803
+Model D: Calibrated Multivariable LR (Isotonic),0.18,"[0.1789, 0.1812]",0.5253,0.8021,0.0131,0.9807,-0.0026,0.0016,0.0056,0.2286,0.1264,0.1795,0.1804
+Model E: Tree-Based (HistGradientBoosting),0.1848,"[0.1833, 0.1860]",0.5421,0.7962,0.0376,0.8898,0.0308,0.0157,0.0563,0.2354,0.1288,0.1871,0.1832
+Model F: Calibrated Tree-Based (Isotonic),0.1827,"[0.1815, 0.1839]",0.5319,0.7969,0.0239,0.9603,-0.0017,0.0044,0.0159,0.2323,0.1281,0.1845,0.1816
