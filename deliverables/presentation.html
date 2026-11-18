@@ -572,7 +572,7 @@
             <div class="card-title">Executive Takeaways & Framework Architecture</div>
             <ul class="clean-list">
               <li><strong>Objective Leverage Definition:</strong> Evaluates the top 20% highest win-probability swing deliveries ($PI \ge 0.80$), separating tactical match leverage from narrative hype.</li>
-              <li><strong>Shrinkage-Controlled Estimand:</strong> Prevents low-sample flukes through role-specific Empirical Bayes priors ($\sigma_\mu = 18.68$ for batters, $14.94$ for bowlers).</li>
+              <li><strong>Shrinkage-Controlled Estimand:</strong> Prevents low-sample flukes through role-specific Empirical Bayes priors ($\sigma_\mu = 18.68$ for batters, $13.96$ for bowlers).</li>
               <li><strong>The Slope Fallacy Solved:</strong> Rejects delta/slope metrics that artificially penalize dominant anchors like Phil Salt and Abhishek Sharma.</li>
               <li><strong>Asymmetric Dispersion Uncovered:</strong> Bowler talent variance is tightly compressed (6.59-run top 10 spread vs 19.87 for batters), creating clustered tiers rather than isolated hierarchies.</li>
               <li><strong>Honest Uncertainty Communication:</strong> Every player receives empirical rank confidence intervals and exhaustive evidence-tier assignments.</li>
@@ -604,11 +604,11 @@ Over the past five years across 802 senior IPL and T20I matches, our mission was
               Media and pundits routinely judge "big-match temperament" on 2 or 3 playoff innings. In statistical reality, playoff deliveries are catastrophically sparse.
             </p>
             <div class="callout rose">
-              <strong>The 72.9% Zero-Exposure Fact:</strong> Across 5 years of senior cricket, 261 out of 358 eligible players (72.9%) faced <em>zero</em> high-pressure knockout deliveries. Relying on knockouts is measuring randomness.
+              <strong>The 62.8% Zero-Exposure Fact:</strong> Across 5 years of senior cricket, 225 out of 358 eligible players (62.8%) faced <em>zero</em> high-pressure knockout deliveries. Relying on knockouts is measuring randomness.
             </div>
             <ul class="clean-list">
               <li>Median career knockout HP balls: <strong>0 balls</strong>.</li>
-              <li>Only 43 players in the world have &ge;25 career knockout HP balls.</li>
+              <li>Only 27 players in the world have &ge;25 career knockout HP balls.</li>
               <li>Scaling regular ratings by knockouts poisons robust data with extreme noise.</li>
             </ul>
           </div>
@@ -638,7 +638,7 @@ Over the past five years across 802 senior IPL and T20I matches, our mission was
               <strong>Overlap & Dispersion:</strong> A bowler ranked #3 and a bowler ranked #12 frequently have overlapping 90% confidence intervals. Selection requires honest evidence tiers, not rigid hierarchies.
             </div>
             <ul class="clean-list">
-              <li>Bowler talent variance is tightly compressed ($\sigma_\mu = 14.94$).</li>
+              <li>Bowler talent variance is tightly compressed ($\sigma_\mu = 13.96$).</li>
               <li>Unshrunk rates crown volatile 50-ball wonders.</li>
               <li>Empirical Bayes shrinkage + bootstrap intervals restore decision integrity.</li>
             </ul>
@@ -646,7 +646,7 @@ Over the past five years across 802 senior IPL and T20I matches, our mission was
         </div>
       </div>
       <div class="slide-notes-content" style="display: none;">
-Why do traditional pressure metrics fail? First, sample sparsity. When commentators speak of 'big match temperament', they are often summarizing fewer than 20 balls. In fact, across five years of senior cricket, 72.9% of professional players have never faced a single high-pressure delivery in a knockout match.
+Why do traditional pressure metrics fail? First, sample sparsity. When commentators speak of 'big match temperament', they are often summarizing fewer than 20 balls. In fact, across five years of senior cricket, 62.8% of professional players in the final leaderboard pool have never faced a single high-pressure delivery in a knockout match.
 Second, the 'slope trap'. Metrics that measure the change between normal and high-pressure performance paradoxically penalize elite anchors like Phil Salt and Abhishek Sharma because they dominate all match states, while rewarding mediocre players whose numbers happen to rise from terrible to mediocre under pressure.
 Our philosophy is rooted in measurement honesty: measure in-match tactical leverage across sufficient sample sizes, shrink aggressively for small samples, and classify players into rigorous evidence tiers.
       </div>
@@ -923,7 +923,7 @@ Stage 3 calculates role-adjusted expectations: every ball produces a net run val
               <div style="background: rgba(244, 63, 94, 0.1); padding: 10px 14px; border-radius: 6px; border-left: 3px solid var(--accent-rose);">
                 <div style="display: flex; justify-content: space-between; font-weight: 700; font-size: 13px; color: var(--accent-rose);">
                   <span>Extreme Tail Pressure (PI &ge; 0.95)</span>
-                  <span>6,124 balls (3.24%)</span>
+                  <span>9,388 balls (4.97%)</span>
                 </div>
                 <div style="font-size: 12px; color: var(--text-dim); margin-top: 2px;">Final 2 overs, tight chases; win probability swings exceed 15% per ball.</div>
               </div>
@@ -976,7 +976,7 @@ We isolate deliveries where PI >= 0.80—the top quintile of tactical leverage. 
                 <div class="metric-lbl">Batter Talent Spread (&sigma;&mu;)</div>
               </div>
               <div class="metric-box">
-                <div class="metric-val cyan">14.94</div>
+                <div class="metric-val cyan">13.96</div>
                 <div class="metric-lbl">Bowler Talent Spread (&sigma;&mu;)</div>
               </div>
             </div>
@@ -1407,7 +1407,7 @@ In our parametric Empirical Bayes model, Rashid Khan is the only frontline bowle
                   <strong style="color: var(--accent-emerald);">4 Batters &bull; 0 Bowlers</strong>
                 </div>
                 <div style="font-size: 12px; color: var(--text-muted); margin-top: 4px;">
-                  $n_{HP} \ge 150$, $m_{HP} \ge 10$, $P(	heta > 0) \ge 0.95$, Rank CI Width $\le 30$. Proven, high-volume match winners.
+                  $n_{HP} \ge 150$, $m_{HP} \ge 15$, $P(	heta > 0) \ge 0.95$, Rank CI Width $\le 30$. Proven, high-volume match winners.
                 </div>
               </div>
               <div style="background: var(--tier-2-bg); border: 1px solid var(--tier-2-border); padding: 12px; border-radius: 8px;">
@@ -1416,7 +1416,7 @@ In our parametric Empirical Bayes model, Rashid Khan is the only frontline bowle
                   <strong style="color: var(--accent-blue);">6 Batters &bull; 2 Bowlers</strong>
                 </div>
                 <div style="font-size: 12px; color: var(--text-muted); margin-top: 4px;">
-                  $n_{HP} \ge 75$, $m_{HP} \ge 8$, $P(	heta > 0) \ge 0.90$, Rank CI Width $\le 45$. High-confidence elite starters.
+                  $n_{HP} \ge 75$, $m_{HP} \ge 8$, $P(	heta > 0) \ge 0.85$, Rank CI Width $\le 55$. High-confidence elite starters.
                 </div>
               </div>
               <div style="background: var(--tier-3-bg); border: 1px solid var(--tier-3-border); padding: 12px; border-radius: 8px;">
@@ -1442,7 +1442,7 @@ In our parametric Empirical Bayes model, Rashid Khan is the only frontline bowle
       </div>
       <div class="slide-notes-content" style="display: none;">
 To prevent management from treating noisy rankings as absolute truth, we created an Evidence-Tier framework.
-Tier 1 requires massive exposure—at least 150 high-pressure balls across 10 matches—combined with a 95% posterior probability of positive value and a tight rank interval of 30 or fewer spots. Only 4 batters achieve Tier 1 status.
+Tier 1 requires massive exposure—at least 150 high-pressure balls across 15 matches—combined with a 95% posterior probability of positive value and a tight rank interval of 30 or fewer spots. Only 4 batters achieve Tier 1 status.
 Notice that zero bowlers qualify for Tier 1. That is not a failure of our bowlers; it is a profound statistical reality that we will explore on Slide 13.
 Tier 2 captures proven contenders like Abhishek Sharma, Phil Salt, Virat Kohli, and Rashid Khan. Tier 3 contains exciting exploratory talents—like Mayank Yadav and Reece Topley—who show world-class peak rates but carry wider rank uncertainty.
       </div>
@@ -1557,7 +1557,7 @@ Because bowlers are so tightly clustered, even a minor resample shifts a bowler'
             <div>
               <div class="card-title" style="color: var(--accent-rose);">What Happens at the 95th Percentile?</div>
               <p style="font-size: 13px; color: var(--text-muted); line-height: 1.6; margin-top: 6px;">
-                When $PI \ge 0.95$ (the top 3.24% of deliveries, 6,124 balls total), matches are decided on every single ball. Dot-ball rates jump from 34.2% to 47.9% across the league.
+                When $PI \ge 0.95$ (the top 4.97% of deliveries, 9,388 balls total), matches are decided on every single ball. Dot-ball rates rise from 39.4% (overall) to 43.7% at extreme leverage.
               </p>
               <div style="display: flex; flex-direction: column; gap: 10px; margin-top: 12px;">
                 <div style="background: rgba(15, 23, 42, 0.7); padding: 12px; border-radius: 6px; border-left: 3px solid var(--accent-emerald);">
@@ -1616,10 +1616,10 @@ Because bowlers are so tightly clustered, even a minor resample shifts a bowler'
                 </tr>
                 <tr style="background: rgba(244, 63, 94, 0.15);">
                   <td>Extreme Tail ($PI \ge 0.95$)</td>
-                  <td>6,124</td>
-                  <td><strong>47.9%</strong></td>
+                  <td>9,388</td>
+                  <td><strong>43.7%</strong></td>
                   <td>19.5%</td>
-                  <td><strong>7.8%</strong></td>
+                  <td><strong>4.2%</strong></td>
                 </tr>
               </tbody>
             </table>
@@ -1631,7 +1631,7 @@ Because bowlers are so tightly clustered, even a minor resample shifts a bowler'
       </div>
       <div class="slide-notes-content" style="display: none;">
 Insight 3 examines what happens when pressure escalates from the top 20% to the extreme 5% tail—deliveries where PI >= 0.95. These are the final 12 balls of a tied game or an IPL playoff final.
-Here, delivery volume shrinks to just 6,124 balls. In this crucible, conventional tactics break down. Dot-ball percentages across the league spike from 34% to nearly 48%.
+Here, delivery volume narrows to just 9,388 deliveries at PI ≥ 0.95 (4.97% of all senior balls). Dot-ball rates rise to 43.7% and wicket rates to 4.2% — elite execution is at a premium.
 Players like Suryakumar Yadav demonstrate their true genius: his output remains positive at +18.42 runs above expectation even in the 95th percentile. Similarly, Rashid Khan's wicket hazard increases by 22% because desperate batting forces mistakes against his wrong'uns. Elite execution withstands even the most extreme tail leverage.
       </div>
     </section>
@@ -1748,8 +1748,8 @@ And Mayank Yadav represents the archetype of the Tier 3 high-ceiling weapon: bli
               </p>
               <div class="metric-grid" style="margin-top: 12px;">
                 <div class="metric-box">
-                  <div class="metric-val rose">72.9%</div>
-                  <div class="metric-lbl">Zero HP Knockout Balls (261 of 358)</div>
+                  <div class="metric-val rose">62.8%</div>
+                  <div class="metric-lbl">Zero HP Knockout Balls (225 of 358)</div>
                 </div>
                 <div class="metric-box">
                   <div class="metric-val amber">12.0%</div>
@@ -1775,8 +1775,8 @@ And Mayank Yadav represents the archetype of the Tier 3 high-ceiling weapon: bli
       </div>
       <div class="slide-notes-content" style="display: none;">
 On Slide 16, we address one of our most important methodological decisions: the Knockout Experience Panel. Earlier in this competition, experimental models attempted to create composite scores weighting knockout matches.
-We audited that approach and withdrew it immediately. Here is why: 72.9% of all eligible professional players across the entire 2022–2026 window have faced ZERO high-pressure deliveries in knockout games! Only 43 players in the entire world have faced 25 or more balls.
-If you multiply regular ratings by knockout samples, you are multiplying robust data by pure noise. We now provide a dedicated Knockout Experience Panel as a descriptive layer alongside our leaderboards. Selectors can see that Virat Kohli has 72 knockout pressure balls while others have zero—informing human decisions without poisoning the statistical model.
+We audited that approach and withdrew it immediately. Here is why: 62.8% of players in the final leaderboard pool across the entire 2022–2026 window have faced ZERO high-pressure deliveries in knockout games. Only 27 players in the entire leaderboard pool have faced 25 or more HP knockout balls.
+If you multiply regular ratings by knockout samples, you are multiplying robust data by pure noise. We now provide a dedicated Knockout Experience Panel as a descriptive layer alongside our leaderboards. Selectors can see that Shubman Gill leads with 106 HP knockout balls, Trent Boult has 67, Sai Sudharsan 54, and Virat Kohli 34—while 225 players have zero—informing human decisions without poisoning the statistical model.
       </div>
     </section>
 
@@ -1802,12 +1802,12 @@ If you multiply regular ratings by knockout samples, you are multiplying robust 
                   <div class="metric-lbl">T20I Fixtures Tracked</div>
                 </div>
                 <div class="metric-box">
-                  <div class="metric-val amber">0.68</div>
-                  <div class="metric-lbl">Cross-Format Correlation (r)</div>
+                  <div class="metric-val amber">N/A</div>
+                  <div class="metric-lbl">Cross-Format Correlation (statistically uncertain)</div>
                 </div>
               </div>
               <ul class="clean-list" style="margin-top: 14px;">
-                <li><strong>High Transferability:</strong> For players with &ge;50 balls in both competitions, high-pressure output shows a 0.68 Pearson correlation.</li>
+                <li><strong>Qualitative Overlap:</strong> Top performers in IPL high-pressure situations (e.g., Suryakumar, Jaiswal, Rashid) also feature prominently in T20I pressure data. A single cross-format correlation coefficient is statistically uncertain given dual-format sample sizes and cannot be responsibly cited.</li>
                 <li><strong>The IPL Baseline Effect:</strong> The Impact Player rule and batter-friendly pitches create higher run-rate expectations; defensive bowling under pressure is prized even higher in IPL.</li>
                 <li><strong>The T20I Wicket Factor:</strong> International matches display higher wicket volatility on varied global pitches; top-order resilience is critical.</li>
               </ul>
@@ -1869,7 +1869,7 @@ If you multiply regular ratings by knockout samples, you are multiplying robust 
         </div>
       </div>
       <div class="slide-notes-content" style="display: none;">
-Slide 17 investigates transferability between the IPL and T20 Internationals. Across 308 IPL fixtures and 494 T20Is, we observe a robust correlation of 0.68 between a player's high-pressure rating in the IPL and their rating in international cricket.
+Slide 17 investigates transferability between the IPL and T20 Internationals. Our dataset spans 308 IPL fixtures and 494 T20Is. We find qualitative overlap in top performers across formats — Suryakumar, Jaiswal, and Rashid Khan feature prominently in both. A precise cross-format Pearson correlation is statistically uncertain given dual-format sample sizes and is not cited.
 The IPL features narrower bowling margins due to true batting surfaces and the Impact Player rule. T20 Internationals feature greater pitch variety and higher wicket hazards. Yet, elite performers—Suryakumar, Jaiswal, Rashid Khan—transcend format boundaries. Our role-adjusted framework isolates skill that transfers across both arenas.
       </div>
     </section>

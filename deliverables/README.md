@@ -24,9 +24,9 @@ This directory contains the complete competition deliverables for SupeRR Selecto
   1. The Consistency vs Slope Fallacy (proof of why slope models penalize Phil Salt and Abhishek Sharma while rewarding bad baselines).
   2. Batter Spread vs Bowler Compression (3x tighter variance for bowlers, explaining overlapping rank intervals and 0 Tier 1 bowlers).
   3. Tail Leverage Dynamics ($PI \ge 0.95$, dot-ball surge from 34.8% to 47.9%).
-  4. Knockout Sparsity Audit (72.9% zero-exposure rate and justification for descriptive reporting).
+  4. Knockout Sparsity Audit (62.8% zero-exposure rate and justification for descriptive reporting).
   5. Six Player Archetype Case Studies (Suryakumar Yadav, Rashid Khan, Vaibhav Sooryavanshi, Abhishek Sharma, Phil Salt, Mayank Yadav).
-  6. Competition Transferability (0.68 correlation between IPL and T20I pressure ratings).
+  6. Competition Transferability (qualitative cross-format overlap; point-estimate correlation not cited due to dual-format sample constraints).
   7. Counter-Intuitive / Surprising Findings (anchors over spikers, death over myth, wicket hazard explosion).
 - [`PRESENTATION_SLIDES_REPORT.md`](file:///Users/divyanshkharnal/Downloads/idk/deliverables/PRESENTATION_SLIDES_REPORT.md): Complete slide-by-slide narrative, visual architecture, bulletproof talking points, and anticipated judge defense points for all 19 slides.
 
@@ -41,9 +41,9 @@ This directory contains the complete competition deliverables for SupeRR Selecto
 - [`top10_batters_chart.png`](file:///Users/divyanshkharnal/Downloads/idk/deliverables/charts/top10_batters_chart.png): Horizontal bar chart of the Top 10 Batters with 90% bootstrap confidence intervals and tier tags.
 - [`top10_bowlers_chart.png`](file:///Users/divyanshkharnal/Downloads/idk/deliverables/charts/top10_bowlers_chart.png): Horizontal bar chart of the Top 10 Bowlers with 90% bootstrap confidence intervals and tier tags.
 - [`consistency_vs_slope.png`](file:///Users/divyanshkharnal/Downloads/idk/deliverables/charts/consistency_vs_slope.png): Scatter plot of Normal vs High-Pressure rates illustrating the slope fallacy and annotated case studies.
-- [`batter_vs_bowler_compression.png`](file:///Users/divyanshkharnal/Downloads/idk/deliverables/charts/batter_vs_bowler_compression.png): Density distribution comparing batter talent dispersion ($\sigma_\mu = 18.68$) with compressed bowler variance ($\sigma_\mu = 14.94$).
+- [`batter_vs_bowler_compression.png`](file:///Users/divyanshkharnal/Downloads/idk/deliverables/charts/batter_vs_bowler_compression.png): Density distribution comparing batter talent dispersion ($\sigma_\mu = 18.68$) with compressed bowler variance ($\sigma_\mu = 13.96$).
 - [`evidence_tiers_breakdown.png`](file:///Users/divyanshkharnal/Downloads/idk/deliverables/charts/evidence_tiers_breakdown.png): Tier census breakdown highlighting the population distribution across Tiers 1, 2, and 3.
-- [`knockout_exposure_sparsity.png`](file:///Users/divyanshkharnal/Downloads/idk/deliverables/charts/knockout_exposure_sparsity.png): Exposure sparsity breakdown proving 72.9% zero-exposure in knockout pressure balls.
+- [`knockout_exposure_sparsity.png`](file:///Users/divyanshkharnal/Downloads/idk/deliverables/charts/knockout_exposure_sparsity.png): Exposure sparsity breakdown showing 62.8% zero-exposure in HP knockout balls (225 of 358 eligible players).
 
 ---
 
@@ -53,7 +53,7 @@ This directory contains the complete competition deliverables for SupeRR Selecto
 - **A-Team Excluded Fixtures:** 30 (from 883 raw matches)
 - **Total Legal Deliveries:** 188,761
 - **High-Pressure Deliveries ($PI \ge 0.80$):** 24,198 (12.82%)
-- **Extreme Leverage Deliveries ($PI \ge 0.95$):** 6,124 (3.24%)
+- **Extreme Leverage Deliveries ($PI \ge 0.95$):** 9,388 (4.97%)
 - **Floor-Eligible Batters:** 168
 - **Floor-Eligible Bowlers:** 190
 - **Total Floor-Eligible Players:** 358 (100% classified into Tiers)
