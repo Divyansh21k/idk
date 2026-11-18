@@ -33,7 +33,7 @@ All previous overstatements, logical gaps, and arithmetic anomalies have been re
 
 1. **What It Validates:**
    - Evaluates **frequentist score stability and rank confidence intervals** under empirical schedule resampling.
-   - Non-parametrically preserves **intra-match correlation** and shared match shocks (pitch conditions, weather, boundary sizes) among co-occurring players.
+   - Non-parametrically preserves **observed within-match dependence** and shared match-level outcomes among co-occurring players.
 2. **What It Does NOT Validate:**
    - It **does not estimate crossed player-match random-effects variance components** ($\sigma_{\text{player}\times\text{match}}^2$).
    - It **does not validate the structural latent talent model** (Gaussian prior assumptions or prior variance $\sigma_\mu^2$).

@@ -27,8 +27,8 @@ This document defines precisely what Procedure A validates, what it does not est
 
 Procedure A resamples senior matches with replacement ($B = 1,000$ cluster replicates). This operational design preserves:
 
-1. **Intra-Match Joint Dependency:**
-   All deliveries occurring within match $m$ are resampled together as an immutable block. If match $m$ was played on a deteriorating pitch, experienced extreme boundary dimensions, or had rain interruptions, every player in that match experiences that exact same shared match condition.
+1. **Observed Within-Match Dependence:**
+   All deliveries occurring within match $m$ are resampled together as an immutable block. Procedure A preserves observed within-match dependence and shared match-level outcomes among all deliveries and players in that match, without requiring specific unmeasured causes to be identified.
 2. **Co-Occurrence Correlation Between Opposing Players:**
    Batters and bowlers competing against each other in the same match retain their empirical covariance. The zero-sum nature of delivery value attribution within that match is preserved.
 3. **Empirical Schedule Sensitivity:**

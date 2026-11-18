@@ -36,9 +36,9 @@ In strict adherence to statistical rigor:
 ---
 
 ### 1.2 Crossed Player-Match Random Effects
-- **The Issue:** T20 cricket features crossed random effects: multiple batters and bowlers share identical match-level conditions (pitch speed, boundary size, weather). Players are not nested cleanly inside matches.
+- **The Issue:** T20 cricket features crossed random effects: multiple batters and bowlers share identical match environments and co-occur across matches. Players are not nested cleanly inside matches.
 - **Verification & Resolution:** 
-  - **In Bootstrap:** Procedure A resamples entire matches as clusters, which exactly preserves the full intra-match correlation and covariance structure between all players who shared that pitch.
+  - **In Bootstrap:** Procedure A resamples entire matches as clusters, which exactly preserves observed within-match dependence and shared match-level covariance between all players in that match.
   - **In Analytic Posterior:** The variance of the sample mean can be decomposed into $V(\bar{y}_i) = \sigma_{\text{match}}^2 / M_i + \sigma_e^2 / n_i$. For high-exposure players ($M_i \ge 30$), match variance contributes $\approx 10\% - 15\%$ to total observation variance.
 - **Retained Limitation:** The analytic PEB posterior formula treats players as conditionally independent given their match exposures, omitting the weak negative covariance induced by opposing teams competing within a fixed match run total.
 
