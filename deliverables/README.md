@@ -3,7 +3,13 @@
 **Repository:** `https://github.com/Divyansh21k/idk`  
 **Branch:** `model-repair`  
 **Methodology Baseline Commit:** `5fb7401`  
-**Scope:** Senior Men's IPL and T20I (2022–2026), 802 Pressure-Base Matches, 188,761 Legal Deliveries  
+**Reconciliation Commit:** `0f5c705`  
+**Scope:** Senior Men's IPL and T20I (2022–2026), 853 Senior Matches, 188,761 Legal Deliveries, 37,639 HP Deliveries (PI ≥ 0.80)
+
+## Final Presentation Files
+- [`final_submission.pptx`](file:///Users/divyanshkharnal/Downloads/idk/deliverables/final_submission.pptx): **14-slide competition PowerPoint** — verified rankings, analytical insights, evidence tiers, uncertainty framework, and limitations. All numbers from reconciled CSVs at commit `0f5c705`.
+- [`FINAL_PRESENTATION_NOTES.md`](file:///Users/divyanshkharnal/Downloads/idk/deliverables/FINAL_PRESENTATION_NOTES.md): Slide-by-slide speaker notes, talking points, key number quick-reference, and likely judge Q&A guide.
+- [`presentation.html`](file:///Users/divyanshkharnal/Downloads/idk/deliverables/presentation.html): Interactive HTML slide deck (corrected at commit `0f5c705`).
 
 ---
 
@@ -23,7 +29,7 @@ This directory contains the complete competition deliverables for SupeRR Selecto
 - [`FINAL_ANALYTICAL_INSIGHTS_REPORT.md`](file:///Users/divyanshkharnal/Downloads/idk/deliverables/FINAL_ANALYTICAL_INSIGHTS_REPORT.md): In-depth analytical document detailing 7 core insights:
   1. The Consistency vs Slope Fallacy (proof of why slope models penalize Phil Salt and Abhishek Sharma while rewarding bad baselines).
   2. Batter Spread vs Bowler Compression (3x tighter variance for bowlers, explaining overlapping rank intervals and 0 Tier 1 bowlers).
-  3. Tail Leverage Dynamics ($PI \ge 0.95$, dot-ball surge from 34.8% to 47.9%).
+  3. Tail Leverage Dynamics ($PI \ge 0.95$, dot-ball rate rises from 39.4% to 43.7%; wicket rate 4.2%).
   4. Knockout Sparsity Audit (62.8% zero-exposure rate and justification for descriptive reporting).
   5. Six Player Archetype Case Studies (Suryakumar Yadav, Rashid Khan, Vaibhav Sooryavanshi, Abhishek Sharma, Phil Salt, Mayank Yadav).
   6. Competition Transferability (qualitative cross-format overlap; point-estimate correlation not cited due to dual-format sample constraints).

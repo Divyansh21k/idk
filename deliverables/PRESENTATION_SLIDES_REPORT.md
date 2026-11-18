@@ -2,7 +2,7 @@
 ## Complete Slide-by-Slide Narrative, Visual Architecture & Speaker Script
 
 **Project Title:** Quantifying T20 Performance Under Pressure: An Empirical Bayes & Resampling Approach  
-**Competition Scope:** Senior Men's IPL & T20I (2022–2026), 802 Pressure-Base Matches, 188,761 Deliveries  
+**Competition Scope:** Senior Men's IPL & T20I (2022–2026), 853 Senior Matches, 188,761 Deliveries, 37,639 HP Deliveries (PI ≥ 0.80)  
 **Frozen Methodology Baseline:** Commit `5fb7401` | **Branch:** `model-repair`  
 
 ---
