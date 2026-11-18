@@ -1,0 +1,56 @@
+category,dimension,value,details
+Scope Summary,Total Matches in Raw Data,883,All matches across 2022-2026 in matches.csv
+Scope Summary,A-team Matches (Out of Scope),30,Mens T20 Emerging Teams Asia Cup 2024 (15) and Asia Cup Rising Stars 2025 (15)
+Scope Summary,Eligible Senior Matches (Total),853,IPL (371) + T20I (482)
+Scope Summary,Senior Matches with Ball-by-Ball,837,IPL (367) + T20I (470). 16 senior matches missing BBB data
+Scope Summary,Total Raw Deliveries,200999,All rows in ball_by_ball.csv
+Scope Summary,Out-of-Scope A-Team Deliveries,6985,Excluded A-team tournament deliveries
+Scope Summary,DLS / Revised / Rain Ineligible Deliveries,5253,47 revised target / DQ / rain interrupted innings deliveries
+Scope Summary,Approved Senior Pressure-Eligible Deliveries,188761,All deliveries in step3 all_deliveries_pressure.csv.gz (2022-2026)
+Scope Summary,Total High-Pressure Deliveries (PI >= 0.80),37639,Deliveries meeting PI_final >= 0.80 threshold (19.94% of senior deliveries)
+Scope Summary,Total Knockout Deliveries (knock_out == 1),5763,Deliveries in 25 knockout matches (20 IPL playoffs + 5 T20I finals) = 3.05% of deliveries
+Scope Summary,High-Pressure Knockout Overlap (PI >= 0.80 & KO == 1),1158,Intersection of high pressure and knockout = 0.61% of senior deliveries
+Year Breakdown (2022),Total Eligible Deliveries,41384,Deliveries in year 2022
+Year Breakdown (2022),High-Pressure Deliveries (PI >= 0.80),7624,HP deliveries in year 2022
+Year Breakdown (2022),Knockout Deliveries (KO == 1),1470,Knockout deliveries in year 2022
+Year Breakdown (2022),HP Knockout Overlap,296,HP KO overlap in year 2022
+Year Breakdown (2023),Total Eligible Deliveries,31489,Deliveries in year 2023
+Year Breakdown (2023),High-Pressure Deliveries (PI >= 0.80),6411,HP deliveries in year 2023
+Year Breakdown (2023),Knockout Deliveries (KO == 1),846,Knockout deliveries in year 2023
+Year Breakdown (2023),HP Knockout Overlap,71,HP KO overlap in year 2023
+Year Breakdown (2024),Total Eligible Deliveries,40673,Deliveries in year 2024
+Year Breakdown (2024),High-Pressure Deliveries (PI >= 0.80),8075,HP deliveries in year 2024
+Year Breakdown (2024),Knockout Deliveries (KO == 1),884,Knockout deliveries in year 2024
+Year Breakdown (2024),HP Knockout Overlap,268,HP KO overlap in year 2024
+Year Breakdown (2025),Total Eligible Deliveries,43376,Deliveries in year 2025
+Year Breakdown (2025),High-Pressure Deliveries (PI >= 0.80),8832,HP deliveries in year 2025
+Year Breakdown (2025),Knockout Deliveries (KO == 1),1588,Knockout deliveries in year 2025
+Year Breakdown (2025),HP Knockout Overlap,304,HP KO overlap in year 2025
+Year Breakdown (2026),Total Eligible Deliveries,31839,Deliveries in year 2026
+Year Breakdown (2026),High-Pressure Deliveries (PI >= 0.80),6697,HP deliveries in year 2026
+Year Breakdown (2026),Knockout Deliveries (KO == 1),975,Knockout deliveries in year 2026
+Year Breakdown (2026),HP Knockout Overlap,219,HP KO overlap in year 2026
+Competition Scope (IPL),Total Eligible Deliveries,86137,Total deliveries in IPL
+Competition Scope (IPL),High-Pressure Deliveries,17151,HP deliveries in IPL
+Competition Scope (IPL),Knockout Deliveries,4573,Knockout deliveries in IPL
+Competition Scope (IPL),HP Knockout Overlap,914,HP KO overlap in IPL
+Competition Scope (T20I),Total Eligible Deliveries,102624,Total deliveries in T20I
+Competition Scope (T20I),High-Pressure Deliveries,20488,HP deliveries in T20I
+Competition Scope (T20I),Knockout Deliveries,1190,Knockout deliveries in T20I
+Competition Scope (T20I),HP Knockout Overlap,244,HP KO overlap in T20I
+Player Knockout Exposure,Eligible Batters Total,258,"Eligible batters (n_hp >= 50, m >= 5)"
+Player Knockout Exposure,Batters with 0 KO Deliveries,139,53.9% of eligible batters
+Player Knockout Exposure,Batters with 1-19 KO Deliveries,42,Tiny knockout exposure
+Player Knockout Exposure,Batters with 20-49 KO Deliveries,37,Moderate knockout exposure
+Player Knockout Exposure,Batters with >= 50 KO Deliveries,40,Meaningful knockout exposure (>= 50 balls)
+Player Knockout Exposure,Batters with >= 100 KO Deliveries,10,Large knockout exposure (>= 100 balls)
+Player Knockout Exposure,Batters with 0 HP KO Deliveries,188,72.9% of eligible batters have 0 HP KO balls
+Player Knockout Exposure,Batters with >= 20 HP KO Deliveries,18,Batters with >= 20 HP KO balls
+Player Knockout Exposure,Eligible Bowlers Total,279,"Eligible bowlers (n_hp >= 50, m >= 5)"
+Player Knockout Exposure,Bowlers with 0 KO Deliveries,168,60.2% of eligible bowlers
+Player Knockout Exposure,Bowlers with 1-19 KO Deliveries,25,Tiny knockout exposure
+Player Knockout Exposure,Bowlers with 20-49 KO Deliveries,51,Moderate knockout exposure
+Player Knockout Exposure,Bowlers with >= 50 KO Deliveries,35,Meaningful knockout exposure (>= 50 balls)
+Player Knockout Exposure,Bowlers with >= 100 KO Deliveries,10,Large knockout exposure (>= 100 balls)
+Player Knockout Exposure,Bowlers with 0 HP KO Deliveries,208,74.6% of eligible bowlers have 0 HP KO balls
+Player Knockout Exposure,Bowlers with >= 20 HP KO Deliveries,23,Bowlers with >= 20 HP KO balls
