@@ -1,59 +1,165 @@
-# SupeRR Selector Season 2 — Round 1 Submission
+# SupeRR Selector Season 2 — High-Pressure Cricket Performance Analytics
 
-## Objective
-Produce two defensible, data-derived rankings of cricket players under high-pressure conditions:
-1. **Top 10 Batters Under Pressure**
-2. **Top 10 Bowlers Under Pressure**
+**Competition:** SupeRR Selector Season 2  
+**Branch:** `model-repair`  
+**Frozen methodology commit:** `5fb7401`  
+**Final submission commit:** `6e6c15f`
 
-Supported by a reproducible methodology report and verification artifacts adhering strictly to the Stage 4 v0.5 methodology.
+---
+
+## What This Project Does
+
+This project identifies which batters and bowlers perform **above expectation under high-pressure conditions** in IPL and T20 Internationals (2022–2026).
+
+Standard averages conflate performance across all ball types. Our model isolates performance specifically on **high-pressure deliveries** (Pressure Index ≥ 0.80), quantifies how much a player exceeds their own baseline on those deliveries (`R_HP`, runs above expectation per 100 balls), and applies empirical Bayes shrinkage and bootstrap uncertainty intervals to guard against small-sample noise.
+
+**Key scope:**
+- **Formats:** IPL + T20I
+- **Window:** 2022–2026 (organiser-specified)
+- **Eligibility floor:** n_HP ≥ 50 deliveries faced/bowled, m_HP ≥ 5 high-pressure matches
+- **High-pressure reference:** Pressure Index ≥ 0.80 (PI ≥ 0.95 tail discussed separately)
+- **Sample:** 853 matches, 37,639 high-pressure deliveries, 358 eligible players
 
 ---
 
 ## Final Rankings
 
-### Top 10 Batters Under Pressure ($x^* = 0.40, PI^* = 0.90$)
-*Ratings expressed in net runs created per 100 balls above context expectation.*
+| File | Contents |
+|------|----------|
+| [`deliverables/final_batter_leaderboard.csv`](deliverables/final_batter_leaderboard.csv) | 168 eligible batters, ranked by R_HP |
+| [`deliverables/final_bowler_leaderboard.csv`](deliverables/final_bowler_leaderboard.csv) | 190 eligible bowlers, ranked by R_HP |
+| [`deliverables/final_top10_batters.csv`](deliverables/final_top10_batters.csv) | Top-10 batters with full uncertainty and tier labels |
+| [`deliverables/final_top10_bowlers.csv`](deliverables/final_top10_bowlers.csv) | Top-10 bowlers with full uncertainty and tier labels |
+| [`deliverables/final_evidence_tier_shortlists.csv`](deliverables/final_evidence_tier_shortlists.csv) | Tier 1 and Tier 2 shortlists with classification reasons |
+| [`deliverables/final_knockout_experience_panel.csv`](deliverables/final_knockout_experience_panel.csv) | Knockout-stage exposure panel (descriptive, separate dimension) |
 
-| Rank | Player | Role | Overall Rating ($R$) | Regular Rating ($R_{\text{reg}}$) | Knockout Rating ($R_{\text{KO}}$) | SE | 90% CI | $P(\text{Top 10})$ | Total Balls | High-Pressure Balls | Knockout Balls |
-|:---:|:---|:---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| 1 | **Vaibhav Sooryavanshi** | opener (1-2) | **+54.54** | +54.95 | +47.17 | 15.66 | [16.25, 45.72] | 81.3% | 564 | 180 | 76 |
-| 2 | **Patrick Cummins** | lower (7+) | **+52.69** | +53.21 | +43.44 | 25.35 | [-3.43, 15.34] | 66.7% | 247 | 28 | 50 |
-| 3 | **Dinesh Karthik** | middle (5-6) | **+50.00** | +50.55 | +40.16 | 15.57 | [2.45, 19.09] | 75.1% | 633 | 49 | 43 |
-| 4 | **Abhishek Sharma** | opener (1-2) | **+41.77** | +42.39 | +30.64 | 9.26 | [18.27, 41.91] | 57.0% | 2232 | 525 | 16 |
-| 5 | **Matthew Wade** | lower (7+) | **+40.91** | +41.43 | +31.45 | 21.07 | [-6.82, 8.23] | 51.5% | 407 | 126 | 40 |
-| 6 | **Suryakumar Yadav** | top order (3-4) | **+38.70** | +39.19 | +29.94 | 9.12 | [17.97, 33.36] | 47.3% | 2661 | 581 | 104 |
-| 7 | **Ryan Rickelton** | opener (1-2) | **+33.88** | +34.40 | +24.50 | 13.24 | [0.26, 17.32] | 32.2% | 820 | 278 | 0 |
-| 8 | **Yashasvi Jaiswal** | opener (1-2) | **+32.18** | +32.74 | +22.16 | 10.10 | [2.32, 19.82] | 19.6% | 1799 | 578 | 119 |
-| 9 | **Andre Russell** | lower (7+) | **+30.84** | +31.36 | +21.46 | 17.21 | [6.92, 23.59] | 31.6% | 700 | 76 | 0 |
-| 10 | **Rahul Tewatia** | middle (5-6) | **+30.17** | +30.65 | +21.67 | 16.22 | [-2.82, 9.63] | 25.4% | 516 | 92 | 73 |
+**Evidence tiers:**
+- **Tier 1 (Sustained Core):** n_HP ≥ 150, m_HP ≥ 15, P(θ > 0) ≥ 0.95, rank interval width ≤ 30
+- **Tier 2 (Contender):** n_HP ≥ 75, m_HP ≥ 8, P(θ > 0) ≥ 0.85, rank interval width ≤ 55
+- **Tier 3:** All remaining floor-eligible players
 
----
-
-### Top 10 Bowlers Under Pressure ($x^* = 0.40, PI^* = 0.90$)
-*Ratings expressed in net runs saved/credited per 100 deliveries above context expectation.*
-
-| Rank | Player | Type | Arm | Overall Rating ($R$) | Regular Rating ($R_{\text{reg}}$) | Knockout Rating ($R_{\text{KO}}$) | SE | 90% CI | $P(\text{Top 10})$ | Total Deliveries | High-Pressure Deliveries | Knockout Deliveries |
-|:---:|:---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| 1 | **Mosaddek Hossain** | Spin | right | **+49.62** | +49.81 | +46.28 | 18.73 | [1.07, 25.50] | 65.8% | 163 | 41 | 0 |
-| 2 | **Corbin Bosch** | Pace | right | **+37.46** | +37.65 | +34.12 | 16.48 | [-1.37, 17.65] | 38.9% | 360 | 99 | 0 |
-| 3 | **Reece Topley** | Pace | left | **+35.60** | +35.82 | +31.53 | 14.76 | [-6.71, 12.52] | 34.0% | 632 | 117 | 18 |
-| 4 | **Junaid Siddique** | Pace | right | **+34.87** | +35.06 | +31.53 | 17.34 | [1.72, 18.41] | 36.3% | 354 | 37 | 0 |
-| 5 | **Ashton Agar** | Spin | left | **+30.82** | +31.01 | +27.48 | 18.26 | [1.35, 12.15] | 27.9% | 145 | 26 | 0 |
-| 6 | **Lockie Ferguson** | Pace | right | **+30.52** | +30.72 | +26.97 | 12.28 | [-1.71, 14.94] | 19.1% | 1138 | 195 | 42 |
-| 7 | **Zaman Khan** | Pace | right | **+30.36** | +30.55 | +27.02 | 17.82 | [-1.28, 8.60] | 27.2% | 200 | 55 | 0 |
-| 8 | **Jofra Archer** | Pace | right | **+30.23** | +30.45 | +26.36 | 11.91 | [-5.37, 11.30] | 20.0% | 1290 | 276 | 50 |
-| 9 | **Josh Hazlewood** | Pace | right | **+30.15** | +30.33 | +26.89 | 11.81 | [1.91, 22.25] | 18.1% | 1403 | 280 | 145 |
-| 10 | **Dunith Wellalage** | Spin | left | **+29.93** | +30.12 | +26.59 | 18.26 | [-10.41, 7.18] | 25.5% | 242 | 36 | 0 |
+Rankings are point estimates of R_HP (posterior mean). **Exact rank ordering carries uncertainty** — bootstrap 90% rank intervals are provided for every player.
 
 ---
 
-## Reproducibility
+## Presentation & Submission
 
-To re-run the entire pipeline from the raw organizer files:
+| File | Description |
+|------|-------------|
+| [`deliverables/final_submission.pptx`](deliverables/final_submission.pptx) | 14-slide competition presentation (source of truth for judges) |
+| [`deliverables/FINAL_PRESENTATION_NOTES.md`](deliverables/FINAL_PRESENTATION_NOTES.md) | Full speaker notes for all 14 slides |
+| [`deliverables/presentation.html`](deliverables/presentation.html) | Interactive HTML version of the presentation |
+| [`deliverables/FINAL_ANALYTICAL_INSIGHTS_REPORT.md`](deliverables/FINAL_ANALYTICAL_INSIGHTS_REPORT.md) | Extended analytical narrative with supporting statistics |
+| [`deliverables/PRESENTATION_SLIDES_REPORT.md`](deliverables/PRESENTATION_SLIDES_REPORT.md) | Slide-by-slide content plan and design rationale |
+| [`deliverables/FINAL_SUBMISSION_RECONCILIATION.md`](deliverables/FINAL_SUBMISSION_RECONCILIATION.md) | Pre-submission audit: tier thresholds, tier census, numerical reconciliation |
+| [`deliverables/README.md`](deliverables/README.md) | Deliverables index |
+
+Charts are in [`deliverables/charts/`](deliverables/charts/).
+
+---
+
+## Analytical Approach
+
+### 1. Pressure Index (PI)
+Each delivery is scored by its game-state pressure using match situation features (run rate, wickets in hand, over, target, etc.). PI ≥ 0.80 defines "high-pressure"; PI ≥ 0.95 is an extreme-pressure tail used for supplementary analysis.
+
+### 2. Role-adjusted baseline
+Player baselines are computed within positional role groups (opener, top-order, middle-order, finisher for batters; pace vs spin for bowlers) so that `R_HP` measures genuine pressure uplift rather than positional advantage.
+
+### 3. Empirical Bayes shrinkage
+Sparse observations are shrunk toward the population mean. Players with more high-pressure exposure are shrunk less. This prevents small samples from dominating the leaderboard.
+
+### 4. Match-cluster bootstrap uncertainty
+Bootstrap resampling is conducted at the match level (not ball level) to preserve within-match correlation structure. 90% rank intervals and P(top 10) are reported for every player. We do not claim exact rank ordering is statistically certain when rank intervals overlap.
+
+### 5. Knockout performance (descriptive only)
+Knockout-stage exposure and performance is tracked as a **separate descriptive dimension**. It is not combined into a composite score.
+
+---
+
+## Reproducing the Results
+
+### Prerequisites
+
+```bash
+cd superr_selector
+python3 -m venv .venv
+source .venv/bin/activate
+pip install -r requirements.txt
+```
+
+### Data
+
+Place the organiser-provided CSVs in `data_pack_extracted/Data Pack/` (already present in this repo):
+
+- `ball_by_ball.csv`
+- `matches.csv`
+- `playing_eleven.csv`
+- `competition_team_player_mapping.csv`
+- `competitions.csv`
+- `teams.csv`
+
+### Run the full pipeline
 
 ```bash
 cd superr_selector
 bash run_all.sh
 ```
 
-All final reports, ranked candidate tables, and validation evidence will be regenerated in `outputs/final_deliverables/` and `deliverables/`.
+This executes all six steps (PI scoring → eligibility → role adjustment → EB shrinkage → bootstrap → phase 4 rankings) and writes outputs to `superr_selector/outputs/`.
+
+### Pipeline steps
+
+| Script | Purpose |
+|--------|---------|
+| `src/step1_pressure_index.py` | Compute PI for every delivery |
+| `src/step2_eligibility_filter.py` | Apply eligibility floor |
+| `src/step3_role_adjustment.py` | Role-adjusted baseline computation |
+| `src/step4_eb_shrinkage.py` | Empirical Bayes shrinkage |
+| `src/step5_bootstrap.py` | Match-cluster bootstrap (500 resamples) |
+| `src/step6_rankings.py` | Final ranking and tier assignment |
+| `src/phase4_pipeline.py` | End-to-end phase 4 runner |
+
+---
+
+## Key Limitations
+
+1. **Rank uncertainty is real.** For players with overlapping bootstrap rank intervals, exact ordering is not statistically certain. Rank intervals are provided; use them.
+2. **Sparse knockout data.** Many players have <10 knockout matches. Knockout performance figures are descriptive and do not support strong causal claims.
+3. **Missing contextual variables.** Pitch conditions, weather, opposition quality weighting, and player fatigue are not included.
+4. **Pressure Index is a proxy.** PI captures game-state pressure from ball-by-ball data; it does not directly measure psychological pressure.
+5. **Window limitation.** 2022–2026 data only; players with significant form changes before or after this window may be mis-ranked.
+
+---
+
+## Repository Structure
+
+```
+idk/
+├── data_pack_extracted/
+│   └── Data Pack/              # 6 organiser CSVs + PDF problem statement (source data)
+├── superr_selector/
+│   ├── src/                    # Production pipeline scripts (step1–step6, phase4)
+│   ├── outputs/                # All intermediate and final pipeline outputs
+│   ├── tests/                  # Mutation tests
+│   ├── run_all.sh              # Canonical run script (500-bootstrap)
+│   └── requirements.txt
+├── deliverables/               # Final submission files (rankings, charts, presentation)
+├── stage1_package/             # Phase 1 prototype (reproducibility reference)
+├── files7_extracted/           # Intermediate planning documents (audit trail)
+├── build_pptx.py               # PPTX generation script
+├── .gitignore
+└── README.md                   # This file
+```
+
+---
+
+## Methodology Documents
+
+| Document | Location |
+|----------|----------|
+| Final reconciliation audit | [`deliverables/FINAL_SUBMISSION_RECONCILIATION.md`](deliverables/FINAL_SUBMISSION_RECONCILIATION.md) |
+| Analytical insights | [`deliverables/FINAL_ANALYTICAL_INSIGHTS_REPORT.md`](deliverables/FINAL_ANALYTICAL_INSIGHTS_REPORT.md) |
+| Plain-English methodology | [`deliverables/plain_english_methodology_report.md`](deliverables/plain_english_methodology_report.md) |
+| Technical methodology | [`deliverables/technical_methodology_report.md`](deliverables/technical_methodology_report.md) |
+| Pipeline audit trail | `superr_selector/outputs/FINAL_*.md` |
